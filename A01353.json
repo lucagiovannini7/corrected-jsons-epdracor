@@ -1,0 +1,1039 @@
+{
+  "particDesc": [
+    {
+      "name": "Hangman",
+      "id": "hangman",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "newfangle",
+      "name": "Newfangle",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "lucifer",
+      "name": "Lucifer",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "collier",
+      "name": "Collier",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "tos",
+      "name": "Tospot",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "roister",
+      "name": "Roister",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "haunce",
+      "name": "Haunce",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "fleming",
+      "name": "Fleming",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "cutpurse",
+      "name": "Cutpurse",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "pickpurse",
+      "name": "Pickpurse",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "ver",
+      "name": "Vertious Life",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "good-fame",
+      "name": "Good Fame",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "gods",
+      "name": "Gods promises",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "honour",
+      "name": "Honour",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "severity",
+      "name": "Severity",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+  ],
+  "speeches": {
+    "A01353-e100690": [
+      "newfangle"
+    ],
+    "A01353-e101120": [
+      "lucifer"
+    ],
+    "A01353-e101140": [],
+    "A01353-e101170": [
+      "lucifer"
+    ],
+    "A01353-e101190": [
+      "newfangle"
+    ],
+    "A01353-e101210": [
+      "lucifer"
+    ],
+    "A01353-e101230": [
+      "newfangle"
+    ],
+    "A01353-e101330": [
+      "lucifer"
+    ],
+    "A01353-e101380": [
+      "newfangle"
+    ],
+    "A01353-e101430": [
+      "lucifer"
+    ],
+    "A01353-e101560": [
+      "newfangle"
+    ],
+    "A01353-e101610": [
+      "lucifer"
+    ],
+    "A01353-e101660": [
+      "newfangle"
+    ],
+    "A01353-e101680": [
+      "lucifer"
+    ],
+    "A01353-e101750": [
+      "newfangle"
+    ],
+    "A01353-e101770": [
+      "lucifer"
+    ],
+    "A01353-e101790": [
+      "newfangle"
+    ],
+    "A01353-e101820": [
+      "lucifer"
+    ],
+    "A01353-e101850": [
+      "newfangle"
+    ],
+    "A01353-e101900": [
+      "lucifer"
+    ],
+    "A01353-e101930": [
+      "newfangle"
+    ],
+    "A01353-e102010": [
+      "collier"
+    ],
+    "A01353-e102030": [
+      "newfangle"
+    ],
+    "A01353-e102050": [
+      "collier"
+    ],
+    "A01353-e102080": [
+      "newfangle"
+    ],
+    "A01353-e102100": [
+      "collier"
+    ],
+    "A01353-e102120": [
+      "newfangle"
+    ],
+    "A01353-e102150": [
+      "collier"
+    ],
+    "A01353-e102180": [
+      "newfangle"
+    ],
+    "A01353-e102210": [
+      "collier"
+    ],
+    "A01353-e102260": [
+      "newfangle"
+    ],
+    "A01353-e102280": [
+      "collier"
+    ],
+    "A01353-e102330": [
+      "newfangle"
+    ],
+    "A01353-e102370": [
+      "lucifer"
+    ],
+    "A01353-e102400": [
+      "collier"
+    ],
+    "A01353-e102420": [
+      "lucifer"
+    ],
+    "A01353-e102440": [
+      "newfangle"
+    ],
+    "A01353-e102460": [
+      "lucifer"
+    ],
+    "A01353-e102480": [
+      "collier"
+    ],
+    "A01353-e102500": [
+      "newfangle"
+    ],
+    "A01353-e102520": [
+      "lucifer"
+    ],
+    "A01353-e102540": [
+      "newfangle"
+    ],
+    "A01353-e102730": [
+      "newfangle"
+    ],
+    "A01353-e102780": [
+      "collier"
+    ],
+    "A01353-e102810": [
+      "lucifer"
+    ],
+    "A01353-e102830": [
+      "newfangle"
+    ],
+    "A01353-e102860": [
+      "lucifer"
+    ],
+    "A01353-e102880": [
+      "newfangle"
+    ],
+    "A01353-e102920": [
+      "lucifer"
+    ],
+    "A01353-e102960": [
+      "newfangle"
+    ],
+    "A01353-e103000": [
+      "lucifer"
+    ],
+    "A01353-e103020": [
+      "newfangle"
+    ],
+    "A01353-e103040": [
+      "lucifer"
+    ],
+    "A01353-e103060": [
+      "newfangle"
+    ],
+    "A01353-e103080": [
+      "lucifer"
+    ],
+    "A01353-e103100": [
+      "newfangle"
+    ],
+    "A01353-e103120": [
+      "lucifer"
+    ],
+    "A01353-e103140": [
+      "newfangle"
+    ],
+    "A01353-e103160": [
+      "lucifer"
+    ],
+    "A01353-e103180": [
+      "newfangle"
+    ],
+    "A01353-e103200": [
+      "lucifer"
+    ],
+    "A01353-e103220": [
+      "newfangle"
+    ],
+    "A01353-e103380": [
+      "tos"
+    ],
+    "A01353-e103410": [
+      "newfangle"
+    ],
+    "A01353-e103440": [
+      "tos"
+    ],
+    "A01353-e103550": [
+      "newfangle"
+    ],
+    "A01353-e103600": [
+      "tos"
+    ],
+    "A01353-e103630": [
+      "newfangle"
+    ],
+    "A01353-e103660": [
+      "tos"
+    ],
+    "A01353-e103680": [
+      "newfangle"
+    ],
+    "A01353-e103700": [
+      "tos"
+    ],
+    "A01353-e103730": [
+      "newfangle"
+    ],
+    "A01353-e103750": [
+      "tos"
+    ],
+    "A01353-e103780": [
+      "newfangle"
+    ],
+    "A01353-e103800": [
+      "tos"
+    ],
+    "A01353-e103850": [
+      "newfangle"
+    ],
+    "A01353-e103940": [
+      "tos"
+    ],
+    "A01353-e103980": [
+      "newfangle"
+    ],
+    "A01353-e104040": [
+      "roister"
+    ],
+    "A01353-e104060": [
+      "newfangle"
+    ],
+    "A01353-e104080": [
+      "tos"
+    ],
+    "A01353-e104100": [
+      "roister"
+    ],
+    "A01353-e104120": [
+      "newfangle"
+    ],
+    "A01353-e104140": [
+      "tos"
+    ],
+    "A01353-e104160": [
+      "roister"
+    ],
+    "A01353-e104190": [
+      "tos"
+    ],
+    "A01353-e104240": [
+      "roister"
+    ],
+    "A01353-e104270": [
+      "tos"
+    ],
+    "A01353-e104320": [
+      "newfangle"
+    ],
+    "A01353-e104380": [
+      "roister"
+    ],
+    "A01353-e104400": [
+      "tos"
+    ],
+    "A01353-e104430": [
+      "newfangle"
+    ],
+    "A01353-e104490": [
+      "roister"
+    ],
+    "A01353-e104530": [
+      "tos"
+    ],
+    "A01353-e104550": [
+      "newfangle"
+    ],
+    "A01353-e104660": [
+      "roister"
+    ],
+    "A01353-e104680": [
+      "tos"
+    ],
+    "A01353-e104700": [
+      "newfangle"
+    ],
+    "A01353-e104720": [
+      "tos",
+      "roister"
+    ],
+    "A01353-e104740": [
+      "newfangle"
+    ],
+    "A01353-e104770": [
+      "roister"
+    ],
+    "A01353-e104790": [
+      "newfangle"
+    ],
+    "A01353-e104860": [
+      "tos"
+    ],
+    "A01353-e104880": [
+      "roister"
+    ],
+    "A01353-e104900": [
+      "newfangle"
+    ],
+    "A01353-e104950": [
+      "roister"
+    ],
+    "A01353-e104970": [
+      "tos"
+    ],
+    "A01353-e104990": [
+      "newfangle"
+    ],
+    "A01353-e105040": [
+      "roister"
+    ],
+    "A01353-e105060": [
+      "newfangle"
+    ],
+    "A01353-e105110": [
+      "tos"
+    ],
+    "A01353-e105130": [
+      "newfangle"
+    ],
+    "A01353-e105150": [
+      "tos"
+    ],
+    "A01353-e105220": [
+      "roister"
+    ],
+    "A01353-e105240": [
+      "newfangle"
+    ],
+    "A01353-e105260": [
+      "roister"
+    ],
+    "A01353-e105280": [
+      "newfangle"
+    ],
+    "A01353-e105300": [
+      "roister"
+    ],
+    "A01353-e105370": [
+      "newfangle"
+    ],
+    "A01353-e105400": [
+      "tos"
+    ],
+    "A01353-e105420": [
+      "newfangle"
+    ],
+    "A01353-e105440": [
+      "tos"
+    ],
+    "A01353-e105460": [
+      "newfangle"
+    ],
+    "A01353-e105480": [
+      "tos"
+    ],
+    "A01353-e105510": [
+      "newfangle"
+    ],
+    "A01353-e105600": [
+      "roister"
+    ],
+    "A01353-e105620": [
+      "newfangle"
+    ],
+    "A01353-e105700": [
+      "tos"
+    ],
+    "A01353-e105830": [
+      "newfangle"
+    ],
+    "A01353-e105850": [
+      "tos"
+    ],
+    "A01353-e105950": [
+      "newfangle"
+    ],
+    "A01353-e105990": [
+      "roister"
+    ],
+    "A01353-e106130": [
+      "newfangle"
+    ],
+    "A01353-e106180": [
+      "roister"
+    ],
+    "A01353-e106200": [
+      "newfangle"
+    ],
+    "A01353-e106250": [
+      "tos",
+      "roister"
+    ],
+    "A01353-e106270": [
+      "newfangle"
+    ],
+    "A01353-e106290": [
+      "roister"
+    ],
+    "A01353-e106340": [
+      "tos"
+    ],
+    "A01353-e106360": [
+      "newfangle"
+    ],
+    "A01353-e106450": [
+      "haunce"
+    ],
+    "A01353-e106500": [
+      "newfangle"
+    ],
+    "A01353-e106540": [
+      "tos"
+    ],
+    "A01353-e106570": [
+      "haunce"
+    ],
+    "A01353-e106610": [
+      "tos"
+    ],
+    "A01353-e106630": [
+      "roister"
+    ],
+    "A01353-e106650": [
+      "haunce"
+    ],
+    "A01353-e106700": [
+      "roister"
+    ],
+    "A01353-e106740": [
+      "newfangle"
+    ],
+    "A01353-e106770": [
+      "tos"
+    ],
+    "A01353-e106800": [
+      "haunce"
+    ],
+    "A01353-e106820": [
+      "newfangle"
+    ],
+    "A01353-e106850": [
+      "haunce"
+    ],
+    "A01353-e106900": [
+      "tos"
+    ],
+    "A01353-e106990": [
+      "newfangle"
+    ],
+    "A01353-e107030": [
+      "haunce"
+    ],
+    "A01353-e107050": [
+      "newfangle"
+    ],
+    "A01353-e107090": [
+      "haunce"
+    ],
+    "A01353-e107120": [
+      "newfangle"
+    ],
+    "A01353-e107170": [
+      "tos"
+    ],
+    "A01353-e107200": [
+      "haunce"
+    ],
+    "A01353-e107220": [
+      "newfangle"
+    ],
+    "A01353-e107280": [
+      "haunce"
+    ],
+    "A01353-e107300": [
+      "newfangle"
+    ],
+    "A01353-e107330": [
+      "tos"
+    ],
+    "A01353-e107380": [
+      "newfangle"
+    ],
+    "A01353-e107400": [
+      "tos"
+    ],
+    "A01353-e107420": [
+      "newfangle"
+    ],
+    "A01353-e107470": [
+      "tos"
+    ],
+    "A01353-e107510": [
+      "newfangle"
+    ],
+    "A01353-e107530": [
+      "tos"
+    ],
+    "A01353-e107620": [
+      "fleming"
+    ],
+    "A01353-e107700": [
+      "newfangle"
+    ],
+    "A01353-e107730": [
+      "tos"
+    ],
+    "A01353-e107750": [
+      "fleming"
+    ],
+    "A01353-e107780": [
+      "newfangle"
+    ],
+    "A01353-e107850": [
+      "fleming"
+    ],
+    "A01353-e107880": [
+      "haunce"
+    ],
+    "A01353-e107910": [
+      "newfangle"
+    ],
+    "A01353-e107930": [
+      "haunce"
+    ],
+    "A01353-e108020": [
+      "tos"
+    ],
+    "A01353-e108050": [
+      "haunce"
+    ],
+    "A01353-e108070": [
+      "fleming"
+    ],
+    "A01353-e108090": [
+      "tos"
+    ],
+    "A01353-e108110": [
+      "newfangle"
+    ],
+    "A01353-e108160": [
+      "newfangle"
+    ],
+    "A01353-e108510": [
+      "cutpurse"
+    ],
+    "A01353-e108580": [
+      "newfangle"
+    ],
+    "A01353-e108620": [
+      "pickpurse"
+    ],
+    "A01353-e108710": [
+      "cutpurse"
+    ],
+    "A01353-e108740": [
+      "pickpurse"
+    ],
+    "A01353-e108770": [
+      "newfangle"
+    ],
+    "A01353-e108790": [
+      "cutpurse"
+    ],
+    "A01353-e108820": [
+      "pickpurse"
+    ],
+    "A01353-e108850": [
+      "newfangle"
+    ],
+    "A01353-e108890": [
+      "tos",
+      "roister"
+    ],
+    "A01353-e108910": [
+      "newfangle"
+    ],
+    "A01353-e108960": [
+      "pickpurse"
+    ],
+    "A01353-e108980": [
+      "cutpurse"
+    ],
+    "A01353-e109010": [
+      "newfangle"
+    ],
+    "A01353-e109160": [
+      "cutpurse"
+    ],
+    "A01353-e109180": [
+      "newfangle"
+    ],
+    "A01353-e109200": [
+      "pickpurse"
+    ],
+    "A01353-e109230": [
+      "newfangle"
+    ],
+    "A01353-e109260": [
+      "cutpurse"
+    ],
+    "A01353-e109290": [
+      "pickpurse"
+    ],
+    "A01353-e109360": [
+      "cutpurse"
+    ],
+    "A01353-e109390": [
+      "newfangle"
+    ],
+    "A01353-e109440": [
+      "ver"
+    ],
+    "A01353-e109610": [
+      "newfangle"
+    ],
+    "A01353-e109630": [
+      "ver"
+    ],
+    "A01353-e109660": [
+      "newfangle"
+    ],
+    "A01353-e109680": [
+      "ver"
+    ],
+    "A01353-e109730": [
+      "newfangle"
+    ],
+    "A01353-e109770": [
+      "ver"
+    ],
+    "A01353-e109800": [
+      "newfangle"
+    ],
+    "A01353-e109840": [
+      "ver"
+    ],
+    "A01353-e109890": [
+      "newfangle"
+    ],
+    "A01353-e109940": [
+      "ver"
+    ],
+    "A01353-e110050": [
+      "pickpurse"
+    ],
+    "A01353-e110100": [
+      "cutpurse"
+    ],
+    "A01353-e110160": [
+      "newfangle"
+    ],
+    "A01353-e110240": [
+      "pickpurse"
+    ],
+    "A01353-e110270": [
+      "cutpurse"
+    ],
+    "A01353-e110320": [
+      "newfangle"
+    ],
+    "A01353-e110370": [
+      "cutpurse"
+    ],
+    "A01353-e110400": [
+      "newfangle"
+    ],
+    "A01353-e110430": [
+      "pickpurse"
+    ],
+    "A01353-e110470": [
+      "ver"
+    ],
+    "A01353-e110960": [],
+    "A01353-e110990": [
+      "ver"
+    ],
+    "A01353-e111020": [
+      "good-fame"
+    ],
+    "A01353-e111150": [
+      "ver"
+    ],
+    "A01353-e111330": [],
+    "A01353-e111390": [
+      "ver"
+    ],
+    "A01353-e111420": [
+      "gods"
+    ],
+    "A01353-e111440": [
+      "honour"
+    ],
+    "A01353-e111470": [
+      "gods"
+    ],
+    "A01353-e111590": [
+      "honour"
+    ],
+    "A01353-e111670": [
+      "ver"
+    ],
+    "A01353-e111740": [
+      "good-fame"
+    ],
+    "A01353-e111800": [
+      "gods"
+    ],
+    "A01353-e111870": [
+      "honour"
+    ],
+    "A01353-e111910": [
+      "gods"
+    ],
+    "A01353-e111930": [
+      "ver"
+    ],
+    "A01353-e112270": [
+      "newfangle"
+    ],
+    "A01353-e112570": [
+      "tos"
+    ],
+    "A01353-e112620": [
+      "roister"
+    ],
+    "A01353-e112710": [
+      "tos"
+    ],
+    "A01353-e112780": [
+      "newfangle"
+    ],
+    "A01353-e112810": [
+      "roister"
+    ],
+    "A01353-e112830": [
+      "newfangle"
+    ],
+    "A01353-e112850": [
+      "tos"
+    ],
+    "A01353-e112880": [
+      "newfangle"
+    ],
+    "A01353-e112910": [
+      "roister"
+    ],
+    "A01353-e112940": [
+      "tos"
+    ],
+    "A01353-e112990": [
+      "newfangle"
+    ],
+    "A01353-e113140": [
+      "roister"
+    ],
+    "A01353-e113160": [
+      "newfangle"
+    ],
+    "A01353-e113180": [
+      "tos"
+    ],
+    "A01353-e113200": [
+      "newfangle"
+    ],
+    "A01353-e113240": [
+      "roister"
+    ],
+    "A01353-e113310": [
+      "tos"
+    ],
+    "A01353-e113360": [
+      "newfangle"
+    ],
+    "A01353-e113390": [
+      "roister"
+    ],
+    "A01353-e113610": [
+      "tos"
+    ],
+    "A01353-e113760": [
+      "newfangle"
+    ],
+    "A01353-e113810": [
+      "roister"
+    ],
+    "A01353-e113840": [
+      "tos"
+    ],
+    "A01353-e113880": [
+      "roister"
+    ],
+    "A01353-e113900": [
+      "tos"
+    ],
+    "A01353-e113920": [
+      "newfangle"
+    ],
+    "A01353-e113990": [
+      "roister"
+    ],
+    "A01353-e114020": [
+      "tos"
+    ],
+    "A01353-e114040": [
+      "roister"
+    ],
+    "A01353-e114070": [
+      "severity"
+    ],
+    "A01353-e114230": [
+      "newfangle"
+    ],
+    "A01353-e114250": [
+      "severity"
+    ],
+    "A01353-e114270": [],
+    "A01353-e114320": [
+      "severity"
+    ],
+    "A01353-e114350": [
+      "newfangle"
+    ],
+    "A01353-e114390": [
+      "severity"
+    ],
+    "A01353-e114410": [
+      "newfangle"
+    ],
+    "A01353-e114430": [
+      "severity"
+    ],
+    "A01353-e114490": [
+      "newfangle"
+    ],
+    "A01353-e114520": [
+      "severity"
+    ],
+    "A01353-e114580": [
+      "newfangle"
+    ],
+    "A01353-e114650": [
+      "cutpurse"
+    ],
+    "A01353-e114720": [
+      "pickpurse"
+    ],
+    "A01353-e114770": [
+      "newfangle"
+    ],
+    "A01353-e114830": [
+      "cutpurse"
+    ],
+    "A01353-e114850": [
+      "pickpurse"
+    ],
+    "A01353-e114900": [
+      "newfangle"
+    ],
+    "A01353-e114980": [
+      "severity"
+    ],
+    "A01353-e115000": [
+      "newfangle"
+    ],
+    "A01353-e115020": [
+      "severity"
+    ],
+    "A01353-e115090": [
+      "newfangle"
+    ],
+    "A01353-e115120": [
+      "severity"
+    ],
+    "A01353-e115150": [
+      "newfangle"
+    ],
+    "A01353-e115220": [
+      "cutpurse"
+    ],
+    "A01353-e115410": [
+      "pickpurse"
+    ],
+    "A01353-e115520": [
+      "newfangle"
+    ],
+    "A01353-e115580": [
+      "hangman"
+    ],
+    "A01353-e115650": [
+      "newfangle"
+    ],
+    "A01353-e115670": [
+      "hangman"
+    ],
+    "A01353-e115700": [
+      "newfangle"
+    ],
+    "A01353-e116080": [
+      "lucifer"
+    ],
+    "A01353-e116110": [
+      "newfangle"
+    ],
+    "A01353-e116130": [
+      "lucifer"
+    ],
+    "A01353-e116160": [
+      "newfangle"
+    ],
+    "A01353-e116240": [
+      "ver"
+    ],
+    "A01353-e116370": [
+      "honour"
+    ],
+    "A01353-e116430": [
+      "good-fame"
+    ],
+    "A01353-e116460": [
+      "ver"
+    ],
+    "A01353-e116510": [
+      "honour"
+    ],
+    "A01353-e116560": [
+      "good-fame"
+    ]
+  }
+}
