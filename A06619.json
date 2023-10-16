@@ -123,7 +123,8 @@
     {
       "id": "populus",
       "name": "Populus",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "ericthinis",
