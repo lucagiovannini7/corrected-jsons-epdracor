@@ -14,7 +14,8 @@
     {
       "name": "Turks",
       "id": "turks",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "governor",
