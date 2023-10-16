@@ -14,7 +14,8 @@
     {
       "name": "Soldiers",
       "id": "soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "longshanks",
