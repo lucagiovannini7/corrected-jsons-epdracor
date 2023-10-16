@@ -3,7 +3,8 @@
     {
       "name": "Poor men",
       "id": "poor-men",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Poor man 2",
