@@ -201,7 +201,8 @@
     {
       "id": "equites",
       "name": "Equites",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "polyposus",
