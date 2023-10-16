@@ -15,7 +15,8 @@
     {
       "name": "Ladies",
       "id": "ladies",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "FEMALE"
     },
     {
       "id": "cleon",
