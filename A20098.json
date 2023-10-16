@@ -62,7 +62,8 @@
     {
       "id": "servants",
       "name": "Servants",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "chartley",
