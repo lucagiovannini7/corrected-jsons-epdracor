@@ -122,7 +122,8 @@
     {
       "id": "2_judges",
       "name": "2 Judges",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "messenger",
