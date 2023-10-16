@@ -15,7 +15,8 @@
     {
       "name": "Lords",
       "id": "lords",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Norfolk",
@@ -152,7 +153,8 @@
     {
       "id": "soldiers",
       "name": "Soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "harper",
