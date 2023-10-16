@@ -147,7 +147,8 @@
     {
       "id": "bishops",
       "name": "Bishops",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "attendant",
