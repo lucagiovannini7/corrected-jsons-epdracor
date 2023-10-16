@@ -123,7 +123,8 @@
     {
       "id": "southwarkmen",
       "name": "Southwarkmen",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "lord",
