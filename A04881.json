@@ -3,12 +3,14 @@
     {
       "name": "Citizens",
       "id": "citizens",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Gentlemen",
       "id": "gentlemen",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "constantia",
