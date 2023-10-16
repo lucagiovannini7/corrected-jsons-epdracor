@@ -177,7 +177,8 @@
     {
       "id": "prisoner",
       "name": "Prisoners",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     }
   ],
   "speeches": {
