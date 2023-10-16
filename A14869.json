@@ -3,7 +3,8 @@
     {
       "name": "Combatants",
       "id": "combatants",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Waiting woman",
