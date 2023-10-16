@@ -15,7 +15,8 @@
     {
       "name": "Nymphs",
       "id": "nymph",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "FEMALE"
     },
     {
       "name": "Shepherd",
@@ -56,7 +57,8 @@
     {
       "id": "all_kings",
       "name": "All Kings",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "monk",
@@ -121,7 +123,8 @@
     {
       "id": "chorus",
       "name": "Chorus",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "soldan",
@@ -132,7 +135,8 @@
     {
       "id": "noble",
       "name": "Nobles",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "orleans",
