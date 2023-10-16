@@ -33,7 +33,8 @@
     {
       "id": "chorus",
       "name": "Chorus",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     }
   ],
   "speeches": {
