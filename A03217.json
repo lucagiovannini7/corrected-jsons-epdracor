@@ -3,7 +3,8 @@
     {
       "name": "Soldiers",
       "id": "soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Lord 3",
@@ -26,7 +27,8 @@
     {
       "name": "Factors",
       "id": "factors",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "marchant",
@@ -133,7 +135,8 @@
     {
       "id": "workmen",
       "name": "Workmen",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "boy",
