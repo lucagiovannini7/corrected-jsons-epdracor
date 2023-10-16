@@ -21,7 +21,8 @@
     {
       "name": "Servi",
       "id": "servi",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Roman 4",
