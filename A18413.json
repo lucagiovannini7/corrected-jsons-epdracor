@@ -3,12 +3,14 @@
     {
       "name": "Huntsmen",
       "id": "huntsmen",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Women attendants",
       "id": "women-attendants",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "FEMALE"
     },
     {
       "name": "Man-bug",
