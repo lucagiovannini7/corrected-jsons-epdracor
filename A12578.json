@@ -159,7 +159,8 @@
     {
       "id": "witnesses",
       "name": "Witnesses",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "captain",
