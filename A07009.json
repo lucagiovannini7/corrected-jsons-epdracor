@@ -4,7 +4,7 @@
       "name": "Scholars",
       "id": "scholars",
       "isGroup": true,
-      "sex": MALE"
+      "sex": "MALE"
     },
     {
       "name": "Scholar 4",
