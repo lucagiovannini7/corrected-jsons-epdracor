@@ -111,7 +111,8 @@
     {
       "id": "ladies",
       "name": "Ladies",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "FEMALE"
     }
   ],
   "speeches": {
