@@ -248,7 +248,8 @@
     {
       "id": "men",
       "name": "Men",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "report",
