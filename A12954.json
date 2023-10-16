@@ -3,12 +3,14 @@
     {
       "name": "Romans",
       "id": "romans",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Omnes Magistr.",
       "id": "omnes-magistr",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "euphorbus",
@@ -151,7 +153,8 @@
     {
       "id": "stipatores",
       "name": "Stipatores",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     }
   ],
   "speeches": {
