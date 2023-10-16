@@ -9,7 +9,8 @@
     {
       "name": "Lords",
       "id": "lords",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "vindice",
@@ -182,7 +183,8 @@
     {
       "id": "nobles",
       "name": "Nobles",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "3_noble",
