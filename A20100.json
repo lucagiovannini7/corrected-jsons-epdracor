@@ -189,7 +189,8 @@
     {
       "id": "fiddlers",
       "name": "Fiddlers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     }
   ],
   "speeches": {
