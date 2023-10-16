@@ -51,7 +51,8 @@
     {
       "id": "villains",
       "name": "Villains",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "irishman",
@@ -92,7 +93,8 @@
     {
       "id": "soldiers",
       "name": "Soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "moretes",
