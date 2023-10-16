@@ -105,7 +105,8 @@
     {
       "id": "peers-of-france",
       "name": "Peers of France",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "turpin",
