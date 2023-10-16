@@ -146,7 +146,8 @@
     {
       "id": "soldiers",
       "name": "Soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     }
   ],
   "speeches": {
