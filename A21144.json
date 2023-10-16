@@ -3,7 +3,8 @@
     {
       "name": "Citizens",
       "id": "citizens",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "King of Bohemia",
@@ -170,7 +171,8 @@
     {
       "id": "french",
       "name": "French people",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "villiers",
@@ -181,12 +183,14 @@
     {
       "id": "poor",
       "name": "Poor men",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "soldier",
       "name": "Soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "percy",
