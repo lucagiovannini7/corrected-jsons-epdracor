@@ -21,7 +21,8 @@
     {
       "name": "School boys",
       "id": "school-boys",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "doricus",
