@@ -99,7 +99,8 @@
     {
       "id": "daemones",
       "name": "Daemones",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "eumenides",
