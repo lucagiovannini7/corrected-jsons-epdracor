@@ -3,7 +3,8 @@
     {
       "name": "Gentlemen",
       "id": "gentlemen",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Friar",
@@ -14,7 +15,8 @@
     {
       "name": "Gallants",
       "id": "gallants",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "hippolito",
