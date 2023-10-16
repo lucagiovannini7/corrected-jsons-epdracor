@@ -3,7 +3,8 @@
     {
       "name": "Soldiers",
       "id": "soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Concubine 2",
@@ -146,7 +147,8 @@
     {
       "id": "concubine",
       "name": "Concubines",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "FEMALE"
     },
     {
       "id": "achitophel",
