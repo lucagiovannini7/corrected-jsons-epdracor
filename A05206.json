@@ -51,7 +51,8 @@
     {
       "id": "nobles",
       "name": "Nobles",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "cornwall",
