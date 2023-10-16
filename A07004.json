@@ -21,7 +21,8 @@
     {
       "name": "Concubines",
       "id": "concubines",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "FEMALE"
     },
     {
       "name": "Perdicas",
@@ -44,7 +45,8 @@
     {
       "name": "Pioners of Argier",
       "id": "pioners-of-argier",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "King of Soria",
@@ -67,7 +69,8 @@
     {
       "name": "Physicians",
       "id": "physicians",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Baldwin",
@@ -168,7 +171,8 @@
     {
       "name": "Virgins of Damascus",
       "id": "virgins-of-damascus",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "FEMALE"
     },
     {
       "name": "Ebea",
