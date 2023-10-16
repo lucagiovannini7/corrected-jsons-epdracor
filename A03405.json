@@ -27,7 +27,8 @@
     {
       "name": "Mechanicals",
       "id": "mechanicals",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Page",
@@ -38,7 +39,8 @@
     {
       "name": "Morrice dancers",
       "id": "morrice-dancers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Countryman 1",
@@ -163,7 +165,8 @@
     {
       "id": "clout",
       "name": "Clout",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "bougle",
@@ -456,7 +459,8 @@
     {
       "id": "soldiers",
       "name": "Soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "poverty",
@@ -503,7 +507,8 @@
     {
       "id": "sailors",
       "name": "Sailors",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "queen-elizabeth",
