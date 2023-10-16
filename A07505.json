@@ -15,7 +15,8 @@
     {
       "name": "Trinity Terms",
       "id": "trinity-terms",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "michaelmas",
