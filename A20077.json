@@ -3,7 +3,8 @@
     {
       "name": "Beggars",
       "id": "beggars",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "marquesse",
