@@ -21,7 +21,8 @@
     {
       "name": "Gallants",
       "id": "gallants",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "mizaldus",
