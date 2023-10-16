@@ -21,7 +21,8 @@
     {
       "id": "penates",
       "name": "Penates",
-      "isGroup": true
+      "isGroup": true, 
+      "sex": "MALE"
     },
     {
       "id": "mercury",
