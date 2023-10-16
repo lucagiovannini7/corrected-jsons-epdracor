@@ -27,7 +27,8 @@
     {
       "name": "Chorus",
       "id": "chorus",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Rodon",
