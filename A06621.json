@@ -177,7 +177,8 @@
     {
       "id": "reeds",
       "name": "Reeds",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     }
   ],
   "speeches": {
