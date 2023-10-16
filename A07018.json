@@ -20,7 +20,8 @@
     {
       "id": "paupers",
       "name": "Paupers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "gaveston",
@@ -247,7 +248,8 @@
     {
       "id": "lords",
       "name": "Lords",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "gurney",
