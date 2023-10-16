@@ -3,7 +3,8 @@
     {
       "name": "Murderers",
       "id": "murderers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Murderer 1",
@@ -14,7 +15,8 @@
     {
       "name": "Pages",
       "id": "pages",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "bussy",
