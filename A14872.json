@@ -165,7 +165,8 @@
     {
       "id": "executioners",
       "name": "Executioners",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "doctor",
