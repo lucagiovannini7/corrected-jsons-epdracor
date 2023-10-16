@@ -225,7 +225,8 @@
     {
       "id": "tribunes",
       "name": "Tribunes",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "_1-tribune",
