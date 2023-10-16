@@ -3,7 +3,8 @@
     {
       "name": "Lords",
       "id": "lords",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Citizen 4",
@@ -74,7 +75,8 @@
     {
       "id": "gentlemen",
       "name": "Gentlemen",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "cupid",
