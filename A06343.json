@@ -3,7 +3,8 @@
     {
       "name": "Some",
       "id": "some",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Within",
@@ -146,7 +147,8 @@
     {
       "id": "others",
       "name": "Others",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     }
   ],
   "speeches": {
