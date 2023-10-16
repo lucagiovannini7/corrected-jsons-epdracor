@@ -141,7 +141,8 @@
     {
       "id": "judges",
       "name": "Judges",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "executioner",
