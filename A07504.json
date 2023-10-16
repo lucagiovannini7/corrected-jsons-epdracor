@@ -3,7 +3,8 @@
     {
       "name": "Follywit's cohorts",
       "id": "follywit-s-cohorts",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "disambiguate",
