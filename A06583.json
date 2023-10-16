@@ -141,7 +141,8 @@
     {
       "id": "people",
       "name": "People",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "sylvius",
