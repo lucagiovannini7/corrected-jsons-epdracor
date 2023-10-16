@@ -159,7 +159,8 @@
     {
       "id": "soldiers",
       "name": "Soldiers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "basillus",
@@ -266,7 +267,8 @@
     {
       "id": "citizens",
       "name": "Citizens",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "curtal",
