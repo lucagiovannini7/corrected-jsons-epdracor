@@ -32,7 +32,8 @@
     {
       "name": "Revellers",
       "id": "revellers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Huntsman 2",
