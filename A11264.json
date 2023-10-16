@@ -129,7 +129,8 @@
     {
       "id": "prisoners",
       "name": "Prisoners",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "keeper",
