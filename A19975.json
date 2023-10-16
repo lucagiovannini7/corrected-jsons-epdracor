@@ -75,7 +75,8 @@
     {
       "id": "brothers",
       "name": "Brothers",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "julio",
@@ -86,7 +87,8 @@
     {
       "id": "lords",
       "name": "Lords",
-      "isGroup": true
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "messenger",
