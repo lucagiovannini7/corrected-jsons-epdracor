@@ -7,15 +7,28 @@
       "sex": "MALE"
     },
     {
-      "name": "Spencer son",
+      "name": "Spencer's son",
       "id": "spencer-son",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Bishop of Coventry",
+      "id": "coventry",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bishop of Canterbury",
+      "id": "canterbury",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "bishop",
+      "id": "A bishop",
+      "isGroup": false,
+      "sex": "MALE"
     },
     {
       "id": "paupers",
@@ -389,7 +402,7 @@
       "edward"
     ],
     "A07018-e102340": [
-      "disambiguate"
+      "coventry"
     ],
     "A07018-e102370": [
       "edward"
@@ -398,7 +411,7 @@
       "gaveston"
     ],
     "A07018-e102430": [
-      "disambiguate"
+      "coventry"
     ],
     "A07018-e102480": [
       "gaveston"
@@ -422,13 +435,13 @@
       "edward"
     ],
     "A07018-e102680": [
-      "disambiguate"
+      "coventry"
     ],
     "A07018-e102700": [
       "edward"
     ],
     "A07018-e102720": [
-      "disambiguate"
+      "coventry"
     ],
     "A07018-e102740": [
       "edward"
@@ -488,19 +501,19 @@
       "lancaster"
     ],
     "A07018-e103350": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e103400": [
       "lancaster"
     ],
     "A07018-e103420": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e103450": [
       "mortimer-jr"
     ],
     "A07018-e103480": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e103520": [
       "mortimer-jr"
@@ -515,7 +528,7 @@
       "mortimer-jr"
     ],
     "A07018-e103710": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e103730": [
       "lancaster"
@@ -527,7 +540,7 @@
       "queen"
     ],
     "A07018-e103820": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e103870": [
       "lancaster"
@@ -539,7 +552,7 @@
       "warwick"
     ],
     "A07018-e103930": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e103950": [
       "mortimer-jr"
@@ -563,7 +576,7 @@
       "lancaster"
     ],
     "A07018-e104200": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e104220": [
       "lancaster"
@@ -641,7 +654,7 @@
       "edward"
     ],
     "A07018-e104890": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e104920": [
       "mortimer-jr"
@@ -650,7 +663,7 @@
       "edward"
     ],
     "A07018-e105000": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e105040": [
       "mortimer-jr"
@@ -662,13 +675,13 @@
       "lancaster"
     ],
     "A07018-e105120": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e105170": [
       "edward"
     ],
     "A07018-e105290": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e105310": [
       "lancaster"
@@ -686,7 +699,7 @@
       "mortimer"
     ],
     "A07018-e105460": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e105480": [
       "edward"
@@ -704,7 +717,7 @@
       "mortimer-jr"
     ],
     "A07018-e105590": [
-      "disambiguate"
+      "canterbury"
     ],
     "A07018-e105610": [
       "warwick"
@@ -2330,7 +2343,7 @@
       "edward"
     ],
     "A07018-e127980": [
-      "disambiguate"
+      "bishop"
     ],
     "A07018-e128010": [
       "edward"
@@ -2348,7 +2361,7 @@
       "edward"
     ],
     "A07018-e128570": [
-      "disambiguate"
+      "bishop"
     ],
     "A07018-e128590": [
       "leicester"
@@ -2360,7 +2373,7 @@
       "leicester"
     ],
     "A07018-e128660": [
-      "disambiguate"
+      "bishop"
     ],
     "A07018-e128680": [
       "edward"
@@ -2453,7 +2466,7 @@
       "queen"
     ],
     "A07018-e129930": [
-      "disambiguate"
+      "bishop"
     ],
     "A07018-e130000": [
       "queen"
@@ -2726,7 +2739,7 @@
       "mortimer"
     ],
     "A07018-e133260": [
-      "disambiguate"
+      "bishop"
     ],
     "A07018-e133290": [
       "champion"

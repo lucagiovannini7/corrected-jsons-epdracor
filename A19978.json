@@ -1,9 +1,16 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Cardinals",
+      "id": "cardinals",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+	{
+      "name": "Sailors",
+      "id": "sailors",
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "name": "Zariph",
@@ -906,7 +913,7 @@
       "pope"
     ],
     "A19978-e111800": [
-      "disambiguate"
+      "cardinals"
     ],
     "A19978-e111820": [
       "pope"
@@ -1011,7 +1018,7 @@
       "gunner"
     ],
     "A19978-e114120": [
-      "disambiguate"
+      "sailors"
     ],
     "A19978-e114140": [
       "governor"
@@ -1020,7 +1027,7 @@
       "servant"
     ],
     "A19978-e114330": [
-      "disambiguate"
+      "sailors"
     ],
     "A19978-e114350": [
       "servant"
@@ -1989,7 +1996,9 @@
       "sophy"
     ],
     "A19978-e129910": [
-      "disambiguate"
+      "callimath",
+      "robert",
+      "hermit"
     ],
     "A19978-e129930": [
       "sophy"

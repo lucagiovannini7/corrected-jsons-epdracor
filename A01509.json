@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "devil",
       "name": "Devil",
       "isGroup": false,
@@ -131,16 +126,16 @@
       "ill"
     ],
     "A01509-e101520": [
-      "disambiguate"
+      "devil"
     ],
     "A01509-e101680": [
-      "disambiguate"
+      "ill"
     ],
     "A01509-e101730": [
-      "disambiguate"
+      "devil"
     ],
     "A01509-e101750": [
-      "disambiguate"
+      "ill"
     ],
     "A01509-e101780": [
       "ill"
@@ -375,16 +370,16 @@
       "voluptas"
     ],
     "A01509-e109990": [
-      "disambiguate"
+      "servus"
     ],
     "A01509-e110210": [
-      "disambiguate"
+      "voluptas"
     ],
     "A01509-e110270": [
-      "disambiguate"
+      "servus"
     ],
     "A01509-e110320": [
-      "disambiguate"
+      "true"
     ],
     "A01509-e110410": [
       "servus"
@@ -396,19 +391,19 @@
       "joach"
     ],
     "A01509-e110830": [
-      "disambiguate"
+      "uxor"
     ],
     "A01509-e110960": [
-      "disambiguate"
+      "helchia"
     ],
     "A01509-e111030": [
-      "disambiguate"
+      "uxor"
     ],
     "A01509-e111080": [
-      "disambiguate"
+      "helchia"
     ],
     "A01509-e111120": [
-      "disambiguate"
+      "uxor"
     ],
     "A01509-e111190": [
       "uxor"
@@ -444,7 +439,7 @@
       "ill"
     ],
     "A01509-e113060": [
-      "disambiguate"
+      "iudex"
     ],
     "A01509-e113240": [
       "sensua"
@@ -462,10 +457,10 @@
       "susanna"
     ],
     "A01509-e113770": [
-      "disambiguate"
+      "iudex"
     ],
     "A01509-e113830": [
-      "disambiguate"
+      "danyell"
     ],
     "A01509-e114000": [
       "ill"
@@ -531,13 +526,13 @@
       "danyell"
     ],
     "A01509-e115350": [
-      "disambiguate"
+      "danyell"
     ],
     "A01509-e115500": [
-      "disambiguate"
+      "ill"
     ],
     "A01509-e115560": [
-      "disambiguate"
+      "voluptas"
     ],
     "A01509-e115710": [
       "ill"

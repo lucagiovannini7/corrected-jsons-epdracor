@@ -19,9 +19,16 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Citizen 2",
+      "id": "citizen-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Citizen 1",
+      "id": "citizen-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "name": "Host",
@@ -198,6 +205,18 @@
       "sex": "MALE"
     },
     {
+      "id": "cromwell-man-1",
+      "name": "Old Cromwell's man, 1",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+    {
+      "id": "cromwell-man-2",
+      "name": "Old Cromwell's man, 2",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+    {
       "id": "lieutenant",
       "name": "Lieutenant",
       "isGroup": false,
@@ -209,22 +228,22 @@
       "hodge"
     ],
     "A11265-e100210": [
-      "disambiguate"
+      "cromwell-man-1"
     ],
     "A11265-e100280": [
       "hodge"
     ],
     "A11265-e100370": [
-      "disambiguate"
+      "cromwell-man-2"
     ],
     "A11265-e100420": [
-      "disambiguate"
+      "cromwell-man-1"
     ],
     "A11265-e100450": [
       "hodge"
     ],
     "A11265-e100500": [
-      "disambiguate"
+      "cromwell-man-2"
     ],
     "A11265-e100550": [
       "cromwell"
@@ -239,7 +258,7 @@
       "hodge"
     ],
     "A11265-e100890": [
-      "disambiguate"
+      "cromwell-man-2"
     ],
     "A11265-e100960": [
       "old_cromwell"
@@ -1106,25 +1125,25 @@
     ],
     "A11265-e119900": [],
     "A11265-e119950": [
-      "disambiguate"
+      "merchant-1"
     ],
     "A11265-e120000": [
-      "disambiguate"
+      "merchant-2"
     ],
     "A11265-e120060": [
-      "disambiguate"
+      "merchant-1"
     ],
     "A11265-e120120": [
-      "disambiguate"
+      "merchant-2"
     ],
     "A11265-e120190": [
-      "disambiguate"
+      "merchant-1"
     ],
     "A11265-e120340": [
-      "disambiguate"
+      "merchant-2"
     ],
     "A11265-e120410": [
-      "disambiguate"
+      "merchant-1"
     ],
     "A11265-e120460": [
       "usher"
@@ -1173,10 +1192,10 @@
       "gardiner"
     ],
     "A11265-e121680": [
-      "disambiguate"
+      "1_witness"
     ],
     "A11265-e121710": [
-      "disambiguate"
+      "2_witness"
     ],
     "A11265-e121740": [
       "gardiner"
@@ -1404,37 +1423,37 @@
       "gardiner"
     ],
     "A11265-e125850": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A11265-e125910": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A11265-e125980": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A11265-e126010": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A11265-e126070": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A11265-e126120": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A11265-e126230": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A11265-e126280": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A11265-e126360": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A11265-e126410": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A11265-e126470": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A11265-e126520": [
       "cromwell"

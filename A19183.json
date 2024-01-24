@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Voice",
+      "id": "voice",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "name": "Young Lusam",
@@ -1310,13 +1311,13 @@
       "mrs_ar"
     ],
     "A19183-e118210": [
-      "disambiguate"
+      "voice"
     ],
     "A19183-e118230": [
       "mrs_ar"
     ],
     "A19183-e118250": [
-      "disambiguate"
+      "voice"
     ],
     "A19183-e118280": [
       "mrs_ar"

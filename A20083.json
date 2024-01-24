@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "id": "hammon-supporters",
+      "name": "Supporters of Hammon",
+      "isGroup": true,
+      "sex": "UNKNOWN"
     },
     {
       "id": "lincoln",
@@ -1578,7 +1579,7 @@
       "firke"
     ],
     "A20083-e115330": [
-      "disambiguate"
+      "firke"
     ],
     "A20083-e115380": [
       "hodge"
@@ -2000,7 +2001,7 @@
       "hodge"
     ],
     "A20083-e119300": [
-      "disambiguate"
+      "hammon-supporters"
     ],
     "A20083-e119320": [
       "hodge"

@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Neptune",
       "id": "neptune",
       "isGroup": false,
@@ -319,7 +314,7 @@
       "gods"
     ],
     "A09220-e102310": [
-      "disambiguate"
+      "muse"
     ],
     "A09220-e102330": [
       "muse"

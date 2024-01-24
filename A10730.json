@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Six Buckingham supporters",
+      "id": "six-buckingham",
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "ghost",
@@ -1343,7 +1344,7 @@
       "buckingham"
     ],
     "A10730-e111750": [
-      "disambiguate"
+      "six-buckingham"
     ],
     "A10730-e111790": [
       "herald"
@@ -1836,7 +1837,10 @@
       "oxford"
     ],
     "A10730-e118030": [
-      "disambiguate"
+      "richmond",
+      "oxford",
+      "stanley",
+      "queen"
     ],
     "A10730-e118050": [
       "richard"
