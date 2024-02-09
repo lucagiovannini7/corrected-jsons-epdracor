@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "mardonius",
       "name": "Mardonius",
       "isGroup": false,
@@ -1082,10 +1077,10 @@
       "panthea"
     ],
     "A06207-e111300": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e111320": [
-      "disambiguate"
+      "man_2"
     ],
     "A06207-e111340": [
       "man_3"
@@ -1094,38 +1089,40 @@
       "woman"
     ],
     "A06207-e111380": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e111400": [
       "woman"
     ],
     "A06207-e111420": [
-      "man_3"
+      "man_1"
     ],
     "A06207-e111440": [
-      "man_3"
+      "man_2"
     ],
     "A06207-e111460": [
       "man_3"
     ],
     "A06207-e111480": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e111500": [
       "woman"
     ],
     "A06207-e111520": [
-      "disambiguate"
+      "man_2"
     ],
-    "A06207-e111540": [],
+    "A06207-e111540": [
+      "man_3"
+    ],
     "A06207-e111560": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e111580": [
-      "disambiguate"
+      "man_2"
     ],
     "A06207-e111600": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e111630": [
       "citizenwife_1"
@@ -1185,13 +1182,13 @@
       "citizenwife_1"
     ],
     "A06207-e112010": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e112030": [
       "philip"
     ],
     "A06207-e112050": [
-      "disambiguate"
+      "man_2"
     ],
     "A06207-e112070": [
       "man_3"
@@ -1327,13 +1324,13 @@
       "woman"
     ],
     "A06207-e113220": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e113240": [
       "woman"
     ],
     "A06207-e113260": [
-      "disambiguate"
+      "man_2"
     ],
     "A06207-e113280": [
       "man_3"
@@ -1342,7 +1339,7 @@
       "citizenwife_1"
     ],
     "A06207-e113320": [
-      "disambiguate"
+      "man_1"
     ],
     "A06207-e113340": [
       "philip"
@@ -2418,13 +2415,13 @@
       "bessus"
     ],
     "A06207-e125790": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e125810": [
       "bessus"
     ],
     "A06207-e125850": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e125880": [
       "bessus"
@@ -2457,83 +2454,85 @@
       "swordman_2"
     ],
     "A06207-e126130": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126150": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126170": [
       "bessus"
     ],
     "A06207-e126200": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126250": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126280": [
       "bessus"
     ],
     "A06207-e126310": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126350": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126400": [
       "bessus"
     ],
     "A06207-e126420": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126440": [
       "bessus"
     ],
     "A06207-e126460": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126480": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126510": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126530": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126560": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126580": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126650": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126680": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126720": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126740": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126760": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126780": [
-      "disambiguate"
+      "swordman_2"
     ],
-    "A06207-e126800": [],
+    "A06207-e126800": [
+	  "swordman_1"
+    ],
     "A06207-e126830": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126850": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e126870": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126900": [
       "bessus"
@@ -2545,117 +2544,119 @@
       "bessus"
     ],
     "A06207-e126960": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e126980": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127000": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127020": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127040": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127060": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127080": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127100": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127120": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127140": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127180": [
       "bessus"
     ],
     "A06207-e127200": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127220": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127250": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127270": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127290": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127310": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127340": [
       "bessus"
     ],
     "A06207-e127370": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127400": [
       "bessus"
     ],
     "A06207-e127420": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127440": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127460": [
       "bessus"
     ],
     "A06207-e127480": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127510": [
       "bessus"
     ],
     "A06207-e127540": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127560": [
       "bessus"
     ],
     "A06207-e127580": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127620": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127700": [
       "bessus"
     ],
     "A06207-e127770": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127800": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127830": [
       "bessus"
     ],
     "A06207-e127850": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e127870": [
       "bessus"
     ],
     "A06207-e127900": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e127940": [
       "bessus"
     ],
-    "A06207-e127960": [],
+    "A06207-e127960": [
+	  "swordman_2"
+    ],
     "A06207-e128010": [
       "gobrias"
     ],
@@ -2828,7 +2829,7 @@
       "bessus"
     ],
     "A06207-e130880": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e130900": [
       "bessus"
@@ -2837,10 +2838,10 @@
       "swordman_2"
     ],
     "A06207-e130960": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e130980": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e131010": [
       "bessus"
@@ -3023,16 +3024,16 @@
       "bacurius"
     ],
     "A06207-e132820": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e132850": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e132870": [
       "bacurius"
     ],
     "A06207-e132890": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e132910": [
       "bacurius"
@@ -3044,7 +3045,7 @@
       "bacurius"
     ],
     "A06207-e132970": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e132990": [
       "bacurius"
@@ -3056,31 +3057,31 @@
       "bacurius"
     ],
     "A06207-e133050": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133070": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133090": [
       "bacurius"
     ],
     "A06207-e133110": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133130": [
       "bacurius"
     ],
     "A06207-e133150": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133170": [
       "bacurius"
     ],
     "A06207-e133190": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133210": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133230": [
       "bacurius"
@@ -3092,7 +3093,7 @@
       "bacurius"
     ],
     "A06207-e133290": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133310": [
       "bacurius"
@@ -3104,43 +3105,43 @@
       "bacurius"
     ],
     "A06207-e133370": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133390": [
       "bacurius"
     ],
     "A06207-e133410": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133430": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133450": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133470": [
       "bessus"
     ],
     "A06207-e133490": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133510": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133530": [
       "bessus"
     ],
     "A06207-e133550": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133570": [
       "bessus"
     ],
     "A06207-e133590": [
-      "disambiguate"
+      "swordman_2"
     ],
     "A06207-e133610": [
-      "disambiguate"
+      "swordman_1"
     ],
     "A06207-e133650": [
       "arbaces"

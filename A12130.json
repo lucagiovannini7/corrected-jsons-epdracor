@@ -1,5 +1,18 @@
 {
   "particDesc": [
+    
+    {
+      "name": "Watchman 2",
+      "id": "watchman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Watchman 1",
+      "id": "watchman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
     {
       "name": "Gyles",
       "id": "gyles",
@@ -11,11 +24,6 @@
       "id": "servants",
       "isGroup": true,
       "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
     },
     {
       "name": "Servant 3",
@@ -1183,10 +1191,10 @@
       "playfair"
     ],
     "A12130-e114550": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e114570": [
-      "disambiguate"
+      "lord-2"
     ],
     "A12130-e114600": [
       "playfair"
@@ -1195,34 +1203,34 @@
       "lord-3"
     ],
     "A12130-e114660": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e114680": [
       "playfair"
     ],
     "A12130-e114700": [
-      "disambiguate"
+      "lord-2"
     ],
     "A12130-e114720": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e114740": [
       "lord-3"
     ],
     "A12130-e114760": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e114800": [
       "playfair"
     ],
     "A12130-e114880": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e114900": [
       "playfair"
     ],
     "A12130-e114940": [
-      "disambiguate"
+      "lord-2"
     ],
     "A12130-e114960": [
       "playfair"
@@ -1263,7 +1271,7 @@
       "pursevant"
     ],
     "A12130-e115470": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e115500": [
       "war"
@@ -1275,7 +1283,7 @@
       "war"
     ],
     "A12130-e115580": [
-      "disambiguate"
+      "lord-2"
     ],
     "A12130-e115600": [
       "war"
@@ -1337,13 +1345,13 @@
       "hornet"
     ],
     "A12130-e116110": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e116180": [
       "hornet"
     ],
     "A12130-e116220": [
-      "disambiguate"
+      "lord-1"
     ],
     "A12130-e116250": [
       "hornet"
@@ -1613,7 +1621,7 @@
       "close"
     ],
     "A12130-e119960": [
-      "disambiguate"
+      "watchman-1"
     ],
     "A12130-e119980": [
       "constable"
@@ -1637,7 +1645,7 @@
       "constable"
     ],
     "A12130-e120140": [
-      "disambiguate"
+      "watchman-1"
     ],
     "A12130-e120160": [
       "constable"
@@ -1646,7 +1654,7 @@
       "close"
     ],
     "A12130-e120200": [
-      "disambiguate"
+      "watchman-2"
     ],
     "A12130-e120220": [
       "close"
@@ -1658,7 +1666,7 @@
       "close"
     ],
     "A12130-e120290": [
-      "disambiguate"
+      "watchman-2"
     ],
     "A12130-e120310": [
       "close"
@@ -1691,7 +1699,7 @@
       "startup"
     ],
     "A12130-e120530": [
-      "disambiguate"
+      "watchman-1"
     ],
     "A12130-e120550": [
       "startup"

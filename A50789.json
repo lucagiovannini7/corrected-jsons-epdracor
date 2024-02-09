@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Voice",
+      "id": "voice",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "name": "Madmen",
@@ -2531,13 +2532,13 @@
       "beatrice"
     ],
     "A50789-e126730": [
-      "disambiguate"
+      "voice"
     ],
     "A50789-e126750": [
       "beatrice"
     ],
     "A50789-e126800": [
-      "disambiguate"
+      "voice"
     ],
     "A50789-e126830": [
       "deflores"

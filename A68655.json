@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "name": "Curtisans",
+      "id": "curtisans",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
       "name": "Guard 2",
       "id": "guard-2",
       "isGroup": false,
@@ -11,11 +17,6 @@
       "id": "guard-1",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
     },
     {
       "name": "Fury 3",
@@ -465,48 +466,34 @@
       "lepida"
     ],
     "A68655-e107450": [
-      "roman-dame-1",
-      "fury-1",
-      "disambiguate"
+      "roman-dame-1"
     ],
     "A68655-e107480": [
       "lepida"
     ],
     "A68655-e107500": [
-      "roman-dame-2",
-      "fury-2",
-      "disambiguate"
+      "roman-dame-2"
     ],
     "A68655-e107540": [
       "lepida"
     ],
     "A68655-e107580": [
-      "roman-dame-3",
-      "fury-3",
-      "disambiguate"
+      "roman-dame-3"
     ],
     "A68655-e107610": [
-      "roman-dame-1",
-      "fury-1",
-      "disambiguate"
+      "roman-dame-1"
     ],
     "A68655-e107650": [
-      "roman-dame-2",
-      "fury-2",
-      "disambiguate"
+      "roman-dame-2"
     ],
     "A68655-e107680": [
-      "roman-dame-3",
-      "fury-3",
-      "disambiguate"
+      "roman-dame-3"
     ],
     "A68655-e107700": [
       "lepida"
     ],
     "A68655-e107750": [
-      "roman-dame-1",
-      "fury-1",
-      "disambiguate"
+      "roman-dame-1"
     ],
     "A68655-e107800": [
       "saufellus"
@@ -542,12 +529,12 @@
       "lepida"
     ],
     "A68655-e108190": [
-      "disambiguate"
+      "roman-dame-1",
+      "roman-dame-2",
+      "roman-dame-3"
     ],
     "A68655-e108210": [
-      "roman-dame-1",
-      "fury-1",
-      "disambiguate"
+      "roman-dame-1"
     ],
     "A68655-e108270": [
       "lepida"
@@ -619,39 +606,25 @@
       "messalina"
     ],
     "A68655-e109370": [
-      "roman-dame-1",
-      "fury-1",
-      "disambiguate"
+      "fury-1"
     ],
     "A68655-e109420": [
-      "roman-dame-2",
-      "fury-2",
-      "disambiguate"
+      "fury-2"
     ],
     "A68655-e109450": [
-      "roman-dame-3",
-      "fury-3",
-      "disambiguate"
+      "fury-3"
     ],
     "A68655-e109470": [
-      "roman-dame-1",
-      "fury-1",
-      "disambiguate"
+      "fury-1"
     ],
     "A68655-e109490": [
-      "roman-dame-2",
-      "fury-2",
-      "disambiguate"
+      "fury-2"
     ],
     "A68655-e109510": [
-      "roman-dame-3",
-      "fury-3",
-      "disambiguate"
+      "fury-3"
     ],
     "A68655-e109530": [
-      "roman-dame-1",
-      "fury-1",
-      "disambiguate"
+      "fury-1"
     ],
     "A68655-e109570": [
       "messalina"
@@ -1422,7 +1395,11 @@
       "emperor"
     ],
     "A68655-e126160": [
-      "disambiguate"
+      "valens", 
+      "proculus",
+      "menester",
+      "curtisans",
+      "narcissus"
     ],
     "A68655-e126190": [
       "silius"

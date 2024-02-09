@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "king-sebastian",
       "name": "King Sebastian",
       "isGroup": false,
@@ -113,13 +108,19 @@
       "isGroup": false,
       "sex": "FEMALE"
     }
+    {
+      "id": "attendants",
+      "name": "Attendants",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    }
   ],
   "speeches": {
     "A03190-e100560": [
       "king-sebastian"
     ],
     "A03190-e100620": [
-      "disambiguate"
+      "attendants"
     ],
     "A03190-e100640": [
       "king-sebastian"
@@ -1931,7 +1932,9 @@
       "valladaura"
     ],
     "A03190-e121940": [
-      "disambiguate"
+      "aldana", 
+      "pineda", 
+      "centella"
     ],
     "A03190-e121960": [
       "valladaura"
@@ -2003,7 +2006,9 @@
       "valladaura"
     ],
     "A03190-e122740": [
-      "disambiguate"
+      "aldana", 
+      "pineda", 
+      "centella"
     ],
     "A03190-e122760": [
       "valladaura"

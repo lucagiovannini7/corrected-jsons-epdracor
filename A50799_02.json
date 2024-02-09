@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "id": "voice",
+      "name": "Voice",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "id": "mother",
@@ -2432,7 +2433,7 @@
       "hippolito"
     ],
     "A50799_02-e138790": [
-      "disambiguate"
+      "voice"
     ],
     "A50799_02-e138810": [
       "leantio"
@@ -2755,9 +2756,7 @@
     "A50799_02-e144410": [
       "duke"
     ],
-    "A50799_02-e144440": [
-      "disambiguate"
-    ],
+    "A50799_02-e144440": [],
     "A50799_02-e144520": [
       "isabella"
     ],

@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "name": "Attendants",
+      "id": "attendants",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Alfride",
       "id": "alfride",
       "isGroup": false,
@@ -29,11 +35,6 @@
       "id": "outlaw-1",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
     },
     {
       "id": "bertha",
@@ -341,7 +342,10 @@
       "bertha"
     ],
     "A29644-e102630": [
-      "disambiguate"
+      "celerick",
+      "elkwin",
+      "segebert",
+      "attendants"
     ],
     "A29644-e102650": [
       "kelrick"
@@ -389,7 +393,10 @@
       "bertha"
     ],
     "A29644-e103090": [
-      "disambiguate"
+      "celerick",
+      "elkwin",
+      "segebert",
+      "attendants"
     ],
     "A29644-e103110": [
       "bertha"
@@ -803,62 +810,46 @@
       "ambassador"
     ],
     "A29644-e109390": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e109410": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e109430": [
       "clown-3"
     ],
     "A29644-e109450": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e109480": [
       "clown-4"
     ],
     "A29644-e109500": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e109520": [
       "clown-4"
     ],
     "A29644-e109540": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e109580": [
       "clown-3"
     ],
     "A29644-e109610": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e109640": [
       "clown-4"
     ],
     "A29644-e109660": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e109690": [
       "clown-3"
     ],
     "A29644-e109740": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e109780": [
       "clown-3"
@@ -873,39 +864,34 @@
       "jeffrey"
     ],
     "A29644-e109880": [
-      "disambiguate"
+      "clown-1",
+      "clown-2",
+      "clown-3",
+      "clown-4"
     ],
     "A29644-e109900": [
       "jeffrey"
     ],
     "A29644-e110020": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e110040": [
       "jeffrey"
     ],
     "A29644-e110100": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e110130": [
       "jeffrey"
     ],
     "A29644-e110150": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e110170": [
       "jeffrey"
     ],
     "A29644-e110210": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e110240": [
       "jeffrey"
@@ -932,12 +918,13 @@
       "jeffrey"
     ],
     "A29644-e110570": [
-      "disambiguate"
+      "clown-1",
+      "clown-2",
+      "clown-3",
+      "clown-4"
     ],
     "A29644-e110590": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e110620": [
       "jeffrey"
@@ -952,9 +939,7 @@
       "jeffrey"
     ],
     "A29644-e110830": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e110850": [
       "jeffrey"
@@ -987,9 +972,7 @@
       "constable"
     ],
     "A29644-e111120": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e111140": [
       "constable"
@@ -1055,9 +1038,7 @@
       "jeffrey"
     ],
     "A29644-e111900": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e111930": [
       "jeffrey"
@@ -1084,14 +1065,10 @@
       "jeffrey"
     ],
     "A29644-e112170": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "clown-1"
     ],
     "A29644-e112190": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "clown-2"
     ],
     "A29644-e112210": [
       "clown-4"
@@ -1139,7 +1116,7 @@
       "outlaw-1"
     ],
     "A29644-e112980": [
-      "disambiguate"
+      "outlaws"
     ],
     "A29644-e113020": [
       "anthynus"
@@ -1448,7 +1425,11 @@
       "osrick"
     ],
     "A29644-e118420": [
-      "disambiguate"
+      "theodwald",
+      "jeffrey",
+      "alfride",
+      "edelbert",
+      "ethelswick"
     ],
     "A29644-e118440": [
       "osrick"
@@ -1843,64 +1824,46 @@
       "offa"
     ],
     "A29644-e123730": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "outlaw-1"
     ],
     "A29644-e123760": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "outlaw-2"
     ],
     "A29644-e123800": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "outlaw-1"
     ],
     "A29644-e123820": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "outlaw-2"
     ],
     "A29644-e123850": [
       "offa"
     ],
     "A29644-e123870": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "outlaw-1"
     ],
     "A29644-e123950": [
       "offa"
     ],
     "A29644-e123970": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "outlaw-2"
     ],
     "A29644-e124010": [
       "offa"
     ],
     "A29644-e124030": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "outlaw-1"
     ],
     "A29644-e124050": [
       "offa"
     ],
     "A29644-e124090": [
-      "clown-2",
-      "outlaw-2",
-      "disambiguate"
+      "outlaw-2"
     ],
     "A29644-e124110": [
       "offa"
     ],
     "A29644-e124140": [
-      "clown-1",
-      "outlaw-1",
-      "disambiguate"
+      "outlaw-1"
     ],
     "A29644-e124160": [
       "offa"

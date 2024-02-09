@@ -7,11 +7,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Knight 2",
       "id": "knight-2",
       "isGroup": false,
@@ -311,19 +306,19 @@
       "harebrain"
     ],
     "A07504-e101720": [
-      "disambiguate"
+      "first-watchman"
     ],
     "A07504-e101740": [
       "harebrain"
     ],
     "A07504-e101810": [
-      "disambiguate"
+      "first-watchman"
     ],
     "A07504-e101830": [
       "harebrain"
     ],
     "A07504-e101850": [
-      "disambiguate"
+      "second-watchman"
     ],
     "A07504-e101880": [
       "harebrain"
@@ -455,7 +450,7 @@
       "harebrain"
     ],
     "A07504-e103370": [
-      "disambiguate"
+      "knight-1"
     ],
     "A07504-e103390": [
       "bounteous"
@@ -549,7 +544,7 @@
       "bounteous"
     ],
     "A07504-e104010": [
-      "disambiguate"
+      "knight-1"
     ],
     "A07504-e104030": [
       "bounteous"
@@ -750,7 +745,7 @@
       "folly-wit"
     ],
     "A07504-e105720": [
-      "disambiguate"
+      "man"
     ],
     "A07504-e105740": [
       "folly-wit"
@@ -2800,7 +2795,7 @@
       "bounteous"
     ],
     "A07504-e122620": [
-      "disambiguate"
+      "servant"
     ],
     "A07504-e122640": [
       "bounteous"

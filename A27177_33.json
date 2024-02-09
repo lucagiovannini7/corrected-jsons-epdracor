@@ -7,15 +7,16 @@
       "sex": "MALE"
     },
     {
+      "name": "Townsmen",
+      "id": "townsmen",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
       "name": "Leocadia",
       "id": "leocadia",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
     },
     {
       "id": "incubo",
@@ -32,6 +33,12 @@
     {
       "id": "hostess",
       "name": "Hostess",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "hostess-2",
+      "name": "Hostess 2",
       "isGroup": false,
       "sex": "FEMALE"
     },
@@ -260,9 +267,7 @@
       "diego"
     ],
     "A27177-e101060": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101090": [
       "incubo"
@@ -292,81 +297,61 @@
       "diego"
     ],
     "A27177-e101380": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101400": [
       "diego"
     ],
     "A27177-e101420": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101450": [
       "incubo"
     ],
     "A27177-e101470": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101530": [
       "theodosia"
     ],
     "A27177-e101550": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101570": [
       "theodosia"
     ],
     "A27177-e101590": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101640": [
       "incubo"
     ],
     "A27177-e101700": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101720": [
       "incubo"
     ],
     "A27177-e101750": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101800": [
       "theodosia"
     ],
     "A27177-e101830": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e101860": [
       "theodosia"
     ],
     "A27177-e101890": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e102010": [
       "theodosia"
     ],
     "A27177-e102040": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e102080": [
       "incubo"
@@ -384,17 +369,13 @@
       "incubo"
     ],
     "A27177-e102280": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e102310": [
       "incubo"
     ],
     "A27177-e102330": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e102350": [
       "incubo"
@@ -406,9 +387,7 @@
       "incubo"
     ],
     "A27177-e102460": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e102480": [
       "diego"
@@ -429,9 +408,7 @@
       "incubo"
     ],
     "A27177-e102680": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e102710": [
       "incubo"
@@ -449,9 +426,7 @@
       "incubo"
     ],
     "A27177-e102880": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e102900": [
       "incubo"
@@ -463,9 +438,7 @@
       "incubo"
     ],
     "A27177-e103030": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103050": [
       "diego"
@@ -474,9 +447,7 @@
       "incubo"
     ],
     "A27177-e103110": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103140": [
       "diego"
@@ -488,41 +459,31 @@
       "diego"
     ],
     "A27177-e103230": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103250": [
       "philippo"
     ],
     "A27177-e103280": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103340": [
       "philippo"
     ],
     "A27177-e103360": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103380": [
       "philippo"
     ],
     "A27177-e103400": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103450": [
       "diego"
     ],
     "A27177-e103480": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103540": [
       "philippo"
@@ -534,17 +495,13 @@
       "philippo"
     ],
     "A27177-e103610": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103630": [
       "philippo"
     ],
     "A27177-e103670": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103710": [
       "philippo"
@@ -553,9 +510,7 @@
       "incubo"
     ],
     "A27177-e103870": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e103900": [
       "incubo"
@@ -564,9 +519,7 @@
       "philippo"
     ],
     "A27177-e104020": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e104050": [
       "incubo"
@@ -602,9 +555,7 @@
       "incubo"
     ],
     "A27177-e104430": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "hostess"
     ],
     "A27177-e104450": [
       "incubo"
@@ -1240,17 +1191,13 @@
       "alphonso"
     ],
     "A27177-e111940": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112000": [
       "alphonso"
     ],
     "A27177-e112080": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112100": [
       "alphonso"
@@ -1262,9 +1209,7 @@
       "alphonso"
     ],
     "A27177-e112250": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112270": [
       "alphonso"
@@ -1282,25 +1227,19 @@
       "alphonso"
     ],
     "A27177-e112450": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112470": [
       "alphonso"
     ],
     "A27177-e112490": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112520": [
       "zanchio"
     ],
     "A27177-e112540": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112570": [
       "alphonso"
@@ -1318,17 +1257,13 @@
       "alphonso"
     ],
     "A27177-e112840": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112870": [
       "alphonso"
     ],
     "A27177-e112890": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e112910": [
       "alphonso"
@@ -1346,9 +1281,7 @@
       "alphonso"
     ],
     "A27177-e113040": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113060": [
       "alphonso"
@@ -1366,57 +1299,43 @@
       "alphonso"
     ],
     "A27177-e113170": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113190": [
       "alphonso"
     ],
     "A27177-e113210": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113230": [
       "zanchio"
     ],
     "A27177-e113250": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113270": [
       "zanchio"
     ],
     "A27177-e113290": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113320": [
       "zanchio"
     ],
     "A27177-e113340": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113410": [
       "alphonso"
     ],
     "A27177-e113430": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113450": [
       "alphonso"
     ],
     "A27177-e113480": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113510": [
       "alphonso"
@@ -1428,17 +1347,13 @@
       "alphonso"
     ],
     "A27177-e113630": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113660": [
       "alphonso"
     ],
     "A27177-e113690": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113720": [
       "zanchio"
@@ -1447,9 +1362,7 @@
       "alphonso"
     ],
     "A27177-e113770": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113790": [
       "alphonso"
@@ -1470,9 +1383,7 @@
       "zanchio"
     ],
     "A27177-e113930": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e113960": [
       "zanchio"
@@ -1487,17 +1398,13 @@
       "alphonso"
     ],
     "A27177-e114060": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e114080": [
       "zanchio"
     ],
     "A27177-e114340": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e114390": [
       "philippo"
@@ -1518,33 +1425,25 @@
       "philippo"
     ],
     "A27177-e114640": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e114660": [
       "philippo"
     ],
     "A27177-e114680": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e114860": [
       "theodosia"
     ],
     "A27177-e114890": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e114920": [
       "philippo"
     ],
     "A27177-e114940": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e114980": [
       "theodosia"
@@ -1553,17 +1452,13 @@
       "philippo"
     ],
     "A27177-e115050": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e115070": [
       "theodosia"
     ],
     "A27177-e115090": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e115110": [
       "philippo"
@@ -1572,9 +1467,7 @@
       "bailiff"
     ],
     "A27177-e115170": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e115210": [
       "bailiff"
@@ -1616,57 +1509,43 @@
       "philippo"
     ],
     "A27177-e115700": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e115720": [
       "bailiff"
     ],
     "A27177-e115740": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e115770": [
       "bailiff"
     ],
     "A27177-e116010": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116040": [
       "man-1"
     ],
     "A27177-e116080": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116150": [
       "friar"
     ],
     "A27177-e116170": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116190": [
       "bailiff"
     ],
     "A27177-e116210": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116250": [
       "leocadia"
     ],
     "A27177-e116270": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116290": [
       "philippo"
@@ -1675,49 +1554,37 @@
       "theodosia"
     ],
     "A27177-e116350": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116370": [
       "philippo"
     ],
     "A27177-e116390": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116410": [
       "theodosia"
     ],
     "A27177-e116460": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116550": [
       "leocadia"
     ],
     "A27177-e116570": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116590": [
       "man-2"
     ],
     "A27177-e116610": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116630": [
       "man-2"
     ],
     "A27177-e116650": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116670": [
       "philippo"
@@ -1729,15 +1596,14 @@
       "friar"
     ],
     "A27177-e116810": [
-      "disambiguate"
+      "man-1",
+      "man-2"
     ],
     "A27177-e116830": [
       "theodosia"
     ],
     "A27177-e116850": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e116880": [
       "philippo"
@@ -1752,9 +1618,7 @@
       "bailiff"
     ],
     "A27177-e116980": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e117010": [
       "bailiff"
@@ -1763,24 +1627,18 @@
       "philippo"
     ],
     "A27177-e117100": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "diego"
     ],
     "A27177-e117130": [
       "theodosia"
     ],
     "A27177-e117170": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e117200": [
       "philippo"
     ],
     "A27177-e117230": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e117270": [
@@ -1790,8 +1648,6 @@
       "philippo"
     ],
     "A27177-e117330": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e117380": [
@@ -1804,8 +1660,6 @@
       "philippo"
     ],
     "A27177-e117510": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e117590": [
@@ -1839,8 +1693,6 @@
       "philippo"
     ],
     "A27177-e117910": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e117940": [
@@ -2027,52 +1879,40 @@
       "marc-antonio"
     ],
     "A27177-e120370": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "host-2"
     ],
     "A27177-e120420": [
-      "hostess"
+      "hostess-2"
     ],
     "A27177-e120440": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "host-2"
     ],
     "A27177-e120470": [
       "hostess"
     ],
     "A27177-e120490": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "host-2"
     ],
     "A27177-e120520": [
-      "hostess"
+      "hostess-2"
     ],
     "A27177-e120550": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "host-2"
     ],
     "A27177-e120580": [
-      "hostess"
+      "hostess-2"
     ],
     "A27177-e120610": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "host-2"
     ],
     "A27177-e120640": [
-      "hostess"
+      "hostess-2"
     ],
     "A27177-e120750": [
-      "hostess",
-      "diego",
-      "disambiguate"
+      "host-2"
     ],
     "A27177-e120770": [
-      "hostess"
+      "hostess-2"
     ],
     "A27177-e120810": [
       "hostess"
@@ -2336,8 +2176,6 @@
       "theodosia"
     ],
     "A27177-e124890": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e125000": [
@@ -2518,73 +2356,55 @@
       "pedro"
     ],
     "A27177-e127120": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127150": [
       "pedro"
     ],
     "A27177-e127180": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127210": [
       "pedro"
     ],
     "A27177-e127280": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127310": [
       "pedro"
     ],
     "A27177-e127330": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127360": [
       "pedro"
     ],
     "A27177-e127390": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127420": [
       "pedro"
     ],
     "A27177-e127440": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127460": [
       "pedro"
     ],
     "A27177-e127490": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127540": [
       "pedro"
     ],
     "A27177-e127700": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127870": [
       "pedro"
     ],
     "A27177-e127890": [
-      "leonardo",
-      "disambiguate",
-      "leocadia"
+      "leonardo"
     ],
     "A27177-e127940": [
       "pedro"
@@ -2935,7 +2755,7 @@
       "attendant-1"
     ],
     "A27177-e131830": [
-      "disambiguate"
+      "attendants"
     ],
     "A27177-e131850": [
       "eugenia"
@@ -3103,7 +2923,7 @@
       "townsman-1"
     ],
     "A27177-e134140": [
-      "disambiguate"
+      "townsmen"
     ],
     "A27177-e134160": [
       "governor"
@@ -3328,8 +3148,6 @@
       "eugenia"
     ],
     "A27177-e137230": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e137270": [
@@ -3348,16 +3166,12 @@
       "philippo"
     ],
     "A27177-e137410": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e137510": [
       "eugenia"
     ],
     "A27177-e137530": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e137570": [
@@ -3367,8 +3181,6 @@
       "eugenia"
     ],
     "A27177-e137620": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e137650": [
@@ -3393,24 +3205,18 @@
       "marc-antonio"
     ],
     "A27177-e137990": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e138020": [
       "marc-antonio"
     ],
     "A27177-e138040": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e138090": [
       "marc-antonio"
     ],
     "A27177-e138110": [
-      "leonardo",
-      "disambiguate",
       "leocadia"
     ],
     "A27177-e138240": [

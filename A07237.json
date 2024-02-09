@@ -149,11 +149,6 @@
       "name": "2 Doctor",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "id": "all",
-      "name": "All",
-      "isGroup": true
     }
   ],
   "speeches": {
@@ -2022,7 +2017,10 @@
       "francisco"
     ],
     "A07237-e137500": [
-      "all"
+      "graccho",
+      "sforza",
+      "tiberio",
+      "pescara"
     ],
     "A07237-e137520": [
       "francisco"

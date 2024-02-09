@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "name": "Attendants",
+      "id": "attendants",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
       "name": "Marshall 2",
       "id": "marshall-2",
       "isGroup": false,
@@ -11,11 +17,6 @@
       "id": "marshall-1",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
     },
     {
       "name": "Gentlewoman 2",
@@ -52,12 +53,6 @@
       "name": "Astorius",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "id": "zanthia",
-      "name": "Zanthia",
-      "isGroup": false,
-      "sex": "FEMALE"
     },
     {
       "id": "oriana",
@@ -138,10 +133,10 @@
       "sex": "MALE"
     },
     {
-      "id": "abdella",
-      "name": "Abdella",
+      "id": "zanthia-abdella",
+      "name": "Zanthia/Abdella",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "FEMALE"
     },
     {
       "id": "doctor",
@@ -317,19 +312,19 @@
       "mountferrat"
     ],
     "A27177-e102330": [
-      "zanthia"
+      "zanthia-abdella"
     ],
     "A27177-e102380": [
       "mountferrat"
     ],
     "A27177-e102410": [
-      "zanthia"
+      "zanthia-abdella"
     ],
     "A27177-e102600": [
       "mountferrat"
     ],
     "A27177-e102720": [
-      "zanthia"
+      "zanthia-abdella"
     ],
     "A27177-e102910": [
       "mountferrat"
@@ -368,9 +363,7 @@
       "gentlewoman-2"
     ],
     "A27177-e103300": [
-      "gentlewoman-1",
-      "disambiguate",
-      "marshall-1"
+      "gentlewoman-1"
     ],
     "A27177-e103320": [
       "gentlewoman-2"
@@ -406,7 +399,7 @@
       "gentlewoman-2"
     ],
     "A27177-e103560": [
-      "zanthia"
+      "zanthia-abdella"
     ],
     "A27177-e103580": [
       "gentlewoman-1"
@@ -439,7 +432,15 @@
       "astorius"
     ],
     "A27177-e104100": [
-      "disambiguate"
+      "oriana",
+      "zanchia",
+      "gentlewoman-1",
+      "gentlewoman-2",
+      "mountferrat",
+      "castorot",
+      "gomera",
+      "miranda",
+      "attendants"
     ],
     "A27177-e104120": [
       "valetta"
@@ -475,7 +476,15 @@
       "gomera"
     ],
     "A27177-e104770": [
-      "disambiguate"
+      "oriana",
+      "zanchia",
+      "gentlewoman-1",
+      "gentlewoman-2",
+      "mountferrat",
+      "castorot",
+      "gomera",
+      "miranda",
+      "attendants"
     ],
     "A27177-e104790": [
       "valetta"
@@ -544,7 +553,15 @@
       "mountferrat"
     ],
     "A27177-e105620": [
-      "disambiguate"
+      "oriana",
+      "zanchia",
+      "gentlewoman-1",
+      "gentlewoman-2",
+      "mountferrat",
+      "castorot",
+      "gomera",
+      "miranda",
+      "attendants"
     ],
     "A27177-e105640": [
       "mountferrat"
@@ -587,7 +604,14 @@
       "oriana"
     ],
     "A27177-e106290": [
-      "disambiguate"
+      "zanchia",
+      "gentlewoman-1",
+      "gentlewoman-2",
+      "mountferrat",
+      "castorot",
+      "gomera",
+      "miranda",
+      "attendants"
     ],
     "A27177-e106310": [
       "valetta"
@@ -602,7 +626,16 @@
       "gomera"
     ],
     "A27177-e106660": [
-      "disambiguate"
+      "oriana",
+      "zanchia",
+      "gentlewoman-1",
+      "gentlewoman-2",
+      "mountferrat",
+      "castorot",
+      "valetta",
+      "miranda",
+      "attendants".
+      "astorius" 
     ],
     "A27177-e106680": [
       "gomera"
@@ -626,13 +659,13 @@
       "mountferrat"
     ],
     "A27177-e107090": [
-      "zanthia"
+      "zanthia-abdella"
     ],
     "A27177-e107110": [
       "mountferrat"
     ],
     "A27177-e107130": [
-      "zanthia"
+      "zanthia-abdella"
     ],
     "A27177-e107350": [
       "miranda"
@@ -1145,32 +1178,24 @@
       "doctor"
     ],
     "A27177-e114840": [
-      "gentlewoman-1",
-      "disambiguate",
       "marshall-1"
     ],
     "A27177-e114870": [
       "marshall-2"
     ],
     "A27177-e114890": [
-      "gentlewoman-1",
-      "disambiguate",
       "marshall-1"
     ],
     "A27177-e114910": [
       "marshall-2"
     ],
     "A27177-e114930": [
-      "gentlewoman-1",
-      "disambiguate",
       "marshall-1"
     ],
     "A27177-e114960": [
       "marshall-2"
     ],
     "A27177-e115050": [
-      "gentlewoman-1",
-      "disambiguate",
       "marshall-1"
     ],
     "A27177-e115070": [
@@ -1246,7 +1271,13 @@
       "norandine"
     ],
     "A27177-e116380": [
-      "disambiguate"
+      "gomera",
+      "miranda",
+      "oriana",
+      "abdel",
+      "guard",
+      "valetta"
+      
     ],
     "A27177-e116400": [
       "valetta"
@@ -2926,7 +2957,17 @@
       "miranda"
     ],
     "A27177-e139470": [
-      "disambiguate"
+      "norandine",
+      "collona",
+      "astorius",
+      "castriot",
+      "valetta",
+      "gomera",
+      "synnet",
+      "bishop-1",
+      "bishop-2",
+      "mountferrat",
+      "abdella"
     ],
     "A27177-e139500": [
       "miranda"
@@ -2962,7 +3003,17 @@
       "gomera"
     ],
     "A27177-e140030": [
-      "disambiguate"
+      "norandine",
+      "collona",
+      "astorius",
+      "castriot",
+      "valetta",
+      "synnet",
+      "bishop-1",
+      "bishop-2",
+      "abdella",
+      "lucinda",
+      "ladies"
     ],
     "A27177-e140050": [
       "miranda"
@@ -2983,7 +3034,14 @@
       "gomera"
     ],
     "A27177-e140230": [
-      "disambiguate"
+      "norandine",
+      "collona",
+      "astorius",
+      "castriot",
+      "synnet",
+      "bishop-1",
+      "bishop-2",
+      "abdella"
     ],
     "A27177-e140250": [
       "mountferrat"
@@ -3100,7 +3158,17 @@
       "valetta"
     ],
     "A27177-e142120": [
-      "disambiguate"
+      "norandine",
+      "collona",
+      "astorius",
+      "castriot",
+      "valetta",
+      "gomera",
+      "synnet",
+      "bishop-1",
+      "bishop-2",
+      "lucinda",
+      "abdella"
     ],
     "A27177-e142140": [
       "valetta"

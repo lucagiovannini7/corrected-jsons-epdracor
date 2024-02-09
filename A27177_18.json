@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "id": "officers",
+      "name": "Officers",
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "charinus",
@@ -216,8 +217,8 @@
       "sex": "MALE"
     },
     {
-      "id": "soldier",
-      "name": "Soldier",
+      "id": "soldier-1",
+      "name": "Soldier 1",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -225,6 +226,12 @@
       "id": "soldier-2",
       "name": "Soldier 2",
       "isGroup": false,
+      "sex": "MALE"
+    }
+    {
+      "id": "soldiers",
+      "name": "Soldiers",
+      "isGroup": true,
       "sex": "MALE"
     }
   ],
@@ -956,7 +963,15 @@
       "diocles"
     ],
     "A27177-e111150": [
-      "disambiguate"
+      "delphia",
+      "drusilla"
+      "maximinian",
+      "guard", 
+      "aper",
+      "senator-1",
+      "senator-2",
+      "geta", 
+      "officers"
     ],
     "A27177-e111170": [
       "maximinian"
@@ -1670,7 +1685,12 @@
       "diocles"
     ],
     "A27177-e122710": [
-      "disambiguate"
+      "niger",
+      "senator-1",
+      "senator-2",
+      "guard-1",
+      "guard-2",
+      "guard-3
     ],
     "A27177-e122750": [
       "diocles"
@@ -1829,7 +1849,11 @@
       "niger"
     ],
     "A27177-e126160": [
-      "disambiguate"
+      "geta",
+      "guard-1",
+      "guard-2",
+      "guard-3",
+      "soldiers"
     ],
     "A27177-e126220": [
       "diocles"
@@ -2135,7 +2159,7 @@
       "maximinian"
     ],
     "A27177-e132700": [
-      "soldier"
+      "soldier-1"
     ],
     "A27177-e132740": [
       "soldier-2"
@@ -2144,7 +2168,7 @@
       "delphia"
     ],
     "A27177-e132800": [
-      "soldier"
+      "soldier-1"
     ],
     "A27177-e132820": [
       "delphia"
@@ -2168,7 +2192,7 @@
       "aurelia"
     ],
     "A27177-e133330": [
-      "soldier"
+      "soldier-1"
     ],
     "A27177-e133350": [
       "diocles"

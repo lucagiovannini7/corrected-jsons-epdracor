@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "arnold",
       "name": "Arnold",
       "isGroup": false,
@@ -1656,7 +1651,9 @@
       "buzzard"
     ],
     "A77567_01-e121800": [
-      "disambiguate"
+      "nathaniel",
+      "vincent",
+      "edmond"
     ],
     "A77567_01-e121820": [
       "buzzard"
@@ -2817,7 +2814,12 @@
       "quicksands"
     ],
     "A77567_01-e135380": [
-      "disambiguate"
+      "nathaniel",
+      "vincent",
+      "edmond",
+      "arnold",
+      "buzzard",
+      "testy"
     ],
     "A77567_01-e135400": [
       "edmund"
@@ -2985,7 +2987,10 @@
       "rafe"
     ],
     "A77567_01-e137480": [
-      "disambiguate"
+      "meanwell",
+      "rashly",
+      "winlosse",
+      "host"
     ],
     "A77567_01-e137500": [
       "rafe"

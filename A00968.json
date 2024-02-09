@@ -1,9 +1,22 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Courtier 3",
+      "id": "courtier-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Courtier 2",
+      "id": "courtier-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Courtier 1",
+      "id": "courtier-1",
+      "isGroup": false,
+      "sex": "MALE"
     },
     {
       "name": "Soldier 4",
@@ -597,24 +610,16 @@
       "thierry"
     ],
     "A00968-e110900": [
-      "huntsman-1",
-      "disambiguate",
-      "soldier-1"
+      "huntsman-1"
     ],
     "A00968-e110950": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "huntsman-2"
     ],
     "A00968-e111000": [
-      "huntsman-1",
-      "disambiguate",
-      "soldier-1"
+      "huntsman-1"
     ],
     "A00968-e111050": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "huntsman-2"
     ],
     "A00968-e111120": [
       "protaldie"
@@ -1997,49 +2002,39 @@
       "devitry"
     ],
     "A00968-e134590": [
-      "theodoret",
-      "thierry",
-      "brunhalt",
-      "bawdber",
-      "memberge",
-      "revel",
-      "revellers"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3",
+      "soldier-4"
     ],
     "A00968-e134620": [
       "devitry"
     ],
     "A00968-e134640": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e134670": [
       "devitry"
     ],
     "A00968-e134710": [
-      "huntsman-2",
+      "soldier-1",
       "soldier-2",
-      "disambiguate"
+      "soldier-3",
+      "soldier-4"
     ],
     "A00968-e134730": [
-      "huntsman-1",
-      "disambiguate",
-      "soldier-1"
+      "soldier-2"
     ],
     "A00968-e134750": [
-      "soldier-3"
+      "soldier-1"
     ],
     "A00968-e134770": [
-      "huntsman-1",
-      "disambiguate",
-      "soldier-1"
+      "soldier-3"
     ],
     "A00968-e134790": [
       "soldier-4"
     ],
     "A00968-e134810": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e134830": [
@@ -2049,30 +2044,22 @@
       "devitry"
     ],
     "A00968-e134880": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e134910": [
       "devitry"
     ],
     "A00968-e134940": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e134970": [
       "devitry"
     ],
     "A00968-e135000": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e135030": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "soldier-2"
     ],
     "A00968-e135060": [
       "soldier-3"
@@ -2084,21 +2071,16 @@
       "devitry"
     ],
     "A00968-e135140": [
-      "theodoret",
-      "thierry",
-      "brunhalt",
-      "bawdber",
-      "memberge",
-      "revel",
-      "revellers"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3",
+      "soldier-4"
     ],
     "A00968-e135170": [
       "devitry"
     ],
     "A00968-e135190": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "soldier-2"
     ],
     "A00968-e135210": [
       "soldier-4"
@@ -2110,18 +2092,13 @@
       "devitry"
     ],
     "A00968-e135290": [
-      "theodoret",
-      "thierry",
-      "brunhalt",
-      "bawdber",
-      "memberge",
-      "revel",
-      "revellers"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3",
+      "soldier-4"
     ],
     "A00968-e135320": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "soldier-2"
     ],
     "A00968-e135340": [
       "devitry"
@@ -2133,9 +2110,7 @@
       "devitry"
     ],
     "A00968-e135410": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "soldier-2"
     ],
     "A00968-e135460": [
       "protaldie"
@@ -2171,9 +2146,7 @@
       "protaldie"
     ],
     "A00968-e135760": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "soldier-2"
     ],
     "A00968-e135790": [
       "protaldie"
@@ -2182,17 +2155,13 @@
       "devitry"
     ],
     "A00968-e135850": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e135870": [
       "devitry"
     ],
     "A00968-e135890": [
-      "huntsman-2",
       "soldier-2",
-      "disambiguate"
     ],
     "A00968-e135920": [
       "devitry"
@@ -2204,8 +2173,6 @@
       "devitry"
     ],
     "A00968-e136000": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e136030": [
@@ -2266,8 +2233,6 @@
       "devitry"
     ],
     "A00968-e136530": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e136550": [
@@ -2286,17 +2251,13 @@
       "protaldie"
     ],
     "A00968-e136650": [
-      "huntsman-1",
-      "disambiguate",
       "soldier-1"
     ],
     "A00968-e136680": [
       "devitry"
     ],
     "A00968-e136700": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "soldier-2"
     ],
     "A00968-e136720": [
       "soldier-3"
@@ -2319,43 +2280,37 @@
       "devitry"
     ],
     "A00968-e136850": [
-      "soldier-4"
+      "courtier-4"
     ],
     "A00968-e136880": [
       "bawdber"
     ],
     "A00968-e136930": [
-      "soldier-3"
+      "courtier-3"
     ],
     "A00968-e136960": [
       "bawdber"
     ],
     "A00968-e137000": [
-      "huntsman-1",
-      "disambiguate",
-      "soldier-1"
+      "courtier-1"
     ],
     "A00968-e137030": [
       "bawdber"
     ],
     "A00968-e137210": [
-      "huntsman-1",
-      "disambiguate",
-      "soldier-1"
+      "courtier-1"
     ],
     "A00968-e137250": [
       "bawdber"
     ],
     "A00968-e137290": [
-      "soldier-3"
+      "courtier-3"
     ],
     "A00968-e137320": [
       "bawdber"
     ],
     "A00968-e137380": [
-      "huntsman-2",
-      "soldier-2",
-      "disambiguate"
+      "courtier-2"
     ],
     "A00968-e137420": [
       "bawdber"
@@ -2577,13 +2532,13 @@
       "martell"
     ],
     "A00968-e140920": [
-      "theodoret",
-      "thierry",
-      "brunhalt",
-      "bawdber",
-      "memberge",
-      "revel",
-      "revellers"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3",
+      "soldier-4",
+      "devitry",
+      "1-doctor",
+      "2-doctor"
     ],
     "A00968-e140950": [
       "martell"

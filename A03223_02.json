@@ -7,11 +7,6 @@
       "sex": "FEMALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "agamemnon",
       "name": "Agamemnon",
       "isGroup": false,
@@ -213,6 +208,12 @@
       "id": "guard",
       "name": "Guard",
       "isGroup": false,
+      "sex": "MALE"
+    }
+    {
+      "id": "greel-soldiers",
+      "name": "Greek Soldiers",
+      "isGroup": true,
       "sex": "MALE"
     }
   ],
@@ -584,7 +585,12 @@
       "pyrrhus"
     ],
     "A03223_02-e106070": [
-      "disambiguate"
+      "menelaus",
+      "agamemnon",
+      "ulysses",
+      "diomedes",
+      "synon",
+      "thersites"
     ],
     "A03223_02-e106090": [
       "pyrrhus"
@@ -827,7 +833,9 @@
       "chorebus"
     ],
     "A03223_02-e109840": [
-      "disambiguate"
+      "anthenor",
+      "priam",
+      "polythes"
     ],
     "A03223_02-e109860": [
       "aeneas"
@@ -929,7 +937,13 @@
       "trojan"
     ],
     "A03223_02-e111620": [
-      "disambiguate"
+      "pyrrhus",
+      "diomedes",
+      "agamemnon",
+      "menelaus",
+      "ulysses",
+      "greek-soldiers"
+      
     ],
     "A03223_02-e111640": [
       "pyrrhus"
@@ -971,7 +985,12 @@
       "chorebus"
     ],
     "A03223_02-e112250": [
-      "disambiguate"
+      "pyrrhus",
+      "diomedes",
+      "agamemnon",
+      "menelaus",
+      "ulysses",
+      "greek-soldiers"
     ],
     "A03223_02-e112300": [
       "aeneas"
@@ -1792,7 +1811,14 @@
       "cethus"
     ],
     "A03223_02-e125080": [
-      "disambiguate"
+      "agamemnon",
+      "ulysses", 
+      "diomedes", 
+      "pyrhus", 
+      "menelaus",
+      "hermione",
+      "pilades",
+      "electra"
     ],
     "A03223_02-e125100": [
       "orestes"

@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "1_lord",
       "name": "1 Lord",
       "isGroup": false,
@@ -187,7 +182,7 @@
     },
     {
       "id": "arges_lord",
-      "name": "Arges Lord",
+      "name": "Lord of Arges",
       "isGroup": false,
       "sex": "MALE"
     }
@@ -991,9 +986,7 @@
     "A03205-e114550": [
       "saturn"
     ],
-    "A03205-e114670": [
-      "disambiguate"
-    ],
+    "A03205-e114670": [],
     "A03205-e114690": [
       "tytan"
     ],

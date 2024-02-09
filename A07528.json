@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Roarer 2",
       "id": "roarer-2",
       "isGroup": false,
@@ -18,14 +13,14 @@
       "sex": "MALE"
     },
     {
-      "name": "Friend 2",
-      "id": "friend-2",
+      "name": "Captain's friend 2",
+      "id": "captain-friend-2",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Friend 1",
-      "id": "friend-1",
+      "name": "Captain's friend 1",
+      "id": "captain-friend-1",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -42,14 +37,14 @@
       "sex": "FEMALE"
     },
     {
-      "id": "colonels_friend",
-      "name": "Colonels Friend",
+      "id": "colonel-friend-1",
+      "name": "Colonel's Friend 1",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "id": "captains_friend",
-      "name": "Captains Friend",
+      "id": "colonel-friend-1",
+      "name": "Captain's Friend 2",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -90,6 +85,18 @@
       "sex": "MALE"
     },
     {
+      "id": "servant-1",
+      "name": "Servant 1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "servant-2",
+      "name": "Servant 2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "sergeant-1",
       "name": "Sergeant 1",
       "isGroup": false,
@@ -124,12 +131,6 @@
       "name": "Nurse",
       "isGroup": false,
       "sex": "FEMALE"
-    },
-    {
-      "id": "second",
-      "name": "Second",
-      "isGroup": false,
-      "sex": "MALE"
     },
     {
       "id": "chaugh",
@@ -203,22 +204,22 @@
       "russell"
     ],
     "A07528-e100800": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e100820": [
       "russell"
     ],
     "A07528-e100840": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e100860": [
-      "captains_friend"
+      "captain-friend-1"
     ],
     "A07528-e100970": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e100990": [
-      "captains_friend"
+      "captain-friend-1"
     ],
     "A07528-e101010": [
       "russell"
@@ -233,31 +234,31 @@
       "colonel"
     ],
     "A07528-e101100": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e101120": [
       "colonel"
     ],
     "A07528-e101140": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e101160": [
       "colonel"
     ],
     "A07528-e101220": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e101280": [
       "colonel"
     ],
     "A07528-e101300": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e101340": [
       "colonel"
     ],
     "A07528-e101360": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e101400": [
       "captain"
@@ -347,7 +348,7 @@
       "russell"
     ],
     "A07528-e102690": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e102770": [
       "colonel"
@@ -395,10 +396,10 @@
       "colonel"
     ],
     "A07528-e103530": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e103570": [
-      "captains_friend"
+      "captain-friend-1"
     ],
     "A07528-e103610": [
       "russell"
@@ -416,7 +417,7 @@
       "jane"
     ],
     "A07528-e103960": [
-      "captains_friend"
+      "captain-friend-1"
     ],
     "A07528-e104010": [
       "colonel"
@@ -441,9 +442,9 @@
     ],
     "A07528-e104330": [
       "colonel",
-      "colonels_friend",
+      "colonel-friend-1",
       "captain",
-      "captains_friend",
+      "captain-friend-1",
       "ager",
       "fitzallen"
     ],
@@ -452,9 +453,9 @@
     ],
     "A07528-e104370": [
       "colonel",
-      "colonels_friend",
+      "colonel-friend-1",
       "captain",
-      "captains_friend",
+      "captain-friend-1",
       "ager",
       "fitzallen"
     ],
@@ -519,19 +520,19 @@
       "colonel"
     ],
     "A07528-e105150": [
-      "disambiguate"
+      "sergeant-1"
     ],
     "A07528-e105170": [
       "russell"
     ],
     "A07528-e105190": [
-      "disambiguate"
+      "sergeant-2"
     ],
     "A07528-e105210": [
       "russell"
     ],
     "A07528-e105250": [
-      "disambiguate"
+      "sergeant-1"
     ],
     "A07528-e105270": [
       "fitzallen"
@@ -549,7 +550,7 @@
       "russell"
     ],
     "A07528-e105400": [
-      "disambiguate"
+      "sergeant-2"
     ],
     "A07528-e105420": [
       "russell"
@@ -558,7 +559,7 @@
       "colonel"
     ],
     "A07528-e105480": [
-      "disambiguate"
+      "sergeant-1"
     ],
     "A07528-e105520": [
       "colonel"
@@ -570,13 +571,13 @@
       "fitzallen"
     ],
     "A07528-e105710": [
-      "disambiguate"
+      "sergeant-2"
     ],
     "A07528-e105730": [
       "colonel"
     ],
     "A07528-e105750": [
-      "disambiguate"
+      "sergeant-1"
     ],
     "A07528-e105800": [
       "russell"
@@ -651,7 +652,7 @@
       "colonel"
     ],
     "A07528-e107010": [
-      "captains_friend"
+      "captain-friend-1"
     ],
     "A07528-e107060": [
       "russell"
@@ -660,7 +661,7 @@
       "jane"
     ],
     "A07528-e107130": [
-      "disambiguate"
+      "sergeant-1"
     ],
     "A07528-e107150": [
       "jane"
@@ -684,7 +685,7 @@
       "jane"
     ],
     "A07528-e107460": [
-      "disambiguate"
+      "sergeant-1"
     ],
     "A07528-e107480": [
       "fitzallen"
@@ -924,55 +925,55 @@
       "captain"
     ],
     "A07528-e111640": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e111690": [
       "captain"
     ],
     "A07528-e111710": [
-      "friend-2"
+      "captain-friend-2"
     ],
     "A07528-e111730": [
       "captain"
     ],
     "A07528-e111770": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e111790": [
       "captain"
     ],
     "A07528-e111830": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e111870": [
       "captain"
     ],
     "A07528-e111930": [
-      "friend-2"
+      "captain-friend-2"
     ],
     "A07528-e112020": [
       "captain"
     ],
     "A07528-e112090": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e112200": [
       "captain"
     ],
     "A07528-e112220": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e112240": [
       "captain"
     ],
     "A07528-e112260": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e112300": [
       "captain"
     ],
     "A07528-e112320": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e112370": [
       "physician"
@@ -1239,37 +1240,37 @@
       "captain"
     ],
     "A07528-e115590": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e115660": [
       "captain"
     ],
     "A07528-e115680": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e115730": [
       "captain"
     ],
     "A07528-e115810": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e116110": [
       "captain"
     ],
     "A07528-e116130": [
-      "friend-2"
+      "captain-friend-2"
     ],
     "A07528-e116170": [
       "captain"
     ],
     "A07528-e116210": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e116270": [
       "captain"
     ],
     "A07528-e116290": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e116340": [
       "colonel"
@@ -1278,31 +1279,31 @@
       "captain"
     ],
     "A07528-e116440": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e116460": [
       "captain"
     ],
     "A07528-e116510": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e116530": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e116550": [
       "captain"
     ],
     "A07528-e116590": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e116630": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e116650": [
       "colonel"
     ],
     "A07528-e116670": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e116710": [
       "colonel"
@@ -1311,7 +1312,7 @@
       "captain"
     ],
     "A07528-e116820": [
-      "friend-1"
+      "captain-friend-1"
     ],
     "A07528-e116840": [
       "captain"
@@ -1335,19 +1336,19 @@
       "captain"
     ],
     "A07528-e117240": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e117260": [
       "captain"
     ],
     "A07528-e117310": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e117330": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e117350": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e117370": [
       "colonel"
@@ -1368,10 +1369,10 @@
       "captain"
     ],
     "A07528-e117600": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e117620": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e117640": [
       "colonel"
@@ -1386,7 +1387,7 @@
       "captain"
     ],
     "A07528-e117840": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e117860": [
       "captain"
@@ -1395,34 +1396,34 @@
       "colonel"
     ],
     "A07528-e118100": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e118150": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e118170": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e118190": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e118210": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e118250": [
-      "disambiguate"
+      "captain-friend-2"
     ],
     "A07528-e118270": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e118380": [
       "captain"
     ],
     "A07528-e118400": [
-      "disambiguate"
+      "captain-friend-1"
     ],
     "A07528-e118450": [
-      "friend-1"
+      "colonel-friend-1"
     ],
     "A07528-e118540": [
       "colonel"
@@ -1611,13 +1612,13 @@
       "lady"
     ],
     "A07528-e121800": [
-      "disambiguate"
+      "servant-2"
     ],
     "A07528-e121820": [
       "lady"
     ],
     "A07528-e121840": [
-      "disambiguate"
+      "servant-2"
     ],
     "A07528-e121890": [
       "lady"
@@ -1635,22 +1636,22 @@
       "lady"
     ],
     "A07528-e121990": [
-      "disambiguate"
+      "servant-2"
     ],
     "A07528-e122010": [
-      "disambiguate"
+      "servant-1"
     ],
     "A07528-e122030": [
       "lady"
     ],
     "A07528-e122050": [
-      "disambiguate"
+      "servant-1"
     ],
     "A07528-e122110": [
       "lady"
     ],
     "A07528-e122460": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122480": [
       "chaugh"
@@ -1665,7 +1666,7 @@
       "trimtram"
     ],
     "A07528-e122560": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122580": [
       "chaugh"
@@ -1674,37 +1675,37 @@
       "trimtram"
     ],
     "A07528-e122620": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122640": [
       "chaugh"
     ],
     "A07528-e122660": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122680": [
       "chaugh"
     ],
     "A07528-e122710": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122730": [
       "chaugh"
     ],
     "A07528-e122750": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122770": [
       "trimtram"
     ],
     "A07528-e122790": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122810": [
       "chaugh"
     ],
     "A07528-e122830": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122850": [
       "chaugh"
@@ -1722,7 +1723,7 @@
       "roarer-2"
     ],
     "A07528-e122950": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e122970": [
       "chaugh"
@@ -1737,13 +1738,13 @@
       "trimtram"
     ],
     "A07528-e123060": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123080": [
       "chaugh"
     ],
     "A07528-e123100": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123120": [
       "chaugh"
@@ -1752,7 +1753,7 @@
       "trimtram"
     ],
     "A07528-e123160": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123180": [
       "usher"
@@ -1764,7 +1765,7 @@
       "trimtram"
     ],
     "A07528-e123240": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123260": [
       "usher"
@@ -1776,13 +1777,13 @@
       "chaugh"
     ],
     "A07528-e123320": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123340": [
       "usher"
     ],
     "A07528-e123360": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123380": [
       "usher"
@@ -1791,7 +1792,7 @@
       "chaugh"
     ],
     "A07528-e123420": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123440": [
       "chaugh"
@@ -1806,13 +1807,13 @@
       "usher"
     ],
     "A07528-e123520": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123540": [
       "chaugh"
     ],
     "A07528-e123560": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123580": [
       "chaugh"
@@ -1824,13 +1825,13 @@
       "usher"
     ],
     "A07528-e123640": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123660": [
       "usher"
     ],
     "A07528-e123690": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123710": [
       "chaugh"
@@ -1845,7 +1846,7 @@
       "usher"
     ],
     "A07528-e123790": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123810": [
       "usher"
@@ -1857,7 +1858,7 @@
       "trimtram"
     ],
     "A07528-e123870": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123890": [
       "usher"
@@ -1866,13 +1867,13 @@
       "chaugh"
     ],
     "A07528-e123930": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123950": [
       "chaugh"
     ],
     "A07528-e123970": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e123990": [
       "chaugh"
@@ -1920,7 +1921,7 @@
       "chaugh"
     ],
     "A07528-e124290": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e124310": [
       "chaugh"
@@ -1932,7 +1933,7 @@
       "chaugh"
     ],
     "A07528-e124370": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e124390": [
       "chaugh"
@@ -1956,7 +1957,7 @@
       "chaugh"
     ],
     "A07528-e124560": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e124580": [
       "chaugh"
@@ -2016,7 +2017,7 @@
       "chaugh"
     ],
     "A07528-e125060": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e125080": [
       "chaugh"
@@ -2031,7 +2032,7 @@
       "trimtram"
     ],
     "A07528-e125160": [
-      "second"
+      "colonel-friend-2"
     ],
     "A07528-e125200": [
       "sister"
@@ -3151,13 +3152,13 @@
       "russell"
     ],
     "A07528-e137440": [
-      "disambiguate"
+      "colonel-friend-1"
     ],
     "A07528-e137460": [
       "captain"
     ],
     "A07528-e137500": [
-      "colonels_friend"
+      "colonel-friend-1"
     ],
     "A07528-e137520": [
       "colonel"
@@ -3169,7 +3170,7 @@
       "colonel"
     ],
     "A07528-e137780": [
-      "disambiguate"
+      "colonel-friend-1"
     ],
     "A07528-e137820": [
       "captain"

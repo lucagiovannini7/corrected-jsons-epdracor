@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "eraton",
       "name": "Eraton",
       "isGroup": false,
@@ -1579,7 +1574,11 @@
       "neanthes"
     ],
     "A27177-e119260": [
-      "disambiguate"
+      "onos",
+      "uncle",
+      "tutor",
+      "sosicles",
+      "eraton",
     ],
     "A27177-e119280": [
       "euphanes"
@@ -2002,13 +2001,17 @@
       "page"
     ],
     "A27177-e126400": [
-      "disambiguate"
+      "onos",
+      "uncle",
+      "tutor"
     ],
     "A27177-e126420": [
       "page"
     ],
     "A27177-e126540": [
-      "disambiguate"
+      "onos",
+      "uncle",
+      "tutor"
     ],
     "A27177-e126560": [
       "page"
@@ -2647,7 +2650,18 @@
       "agenor"
     ],
     "A27177-e137850": [
-      "disambiguate"
+      "euphanes",
+      "crates",
+      "leonidas",
+      "beliza",
+      "lord",
+      "agenor",
+      "conon",
+      "martial",
+      "theanor",
+      "crates",
+      "sosicles",
+      "eraton
     ],
     "A27177-e137870": [
       "queen"

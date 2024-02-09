@@ -31,11 +31,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "curio",
       "name": "Curio",
       "isGroup": false,
@@ -405,7 +400,7 @@
       "porter"
     ],
     "A27177-e102380": [
-      "disambiguate"
+      "beggar-2"
     ],
     "A27177-e102400": [
       "porter"
@@ -417,7 +412,7 @@
       "porter"
     ],
     "A27177-e102530": [
-      "disambiguate"
+      "beggar-3"
     ],
     "A27177-e102550": [
       "porter"
@@ -432,19 +427,19 @@
       "alinda"
     ],
     "A27177-e102750": [
-      "disambiguate"
+      "beggar-1"
     ],
     "A27177-e102770": [
-      "disambiguate"
+      "beggar-2"
     ],
     "A27177-e102790": [
-      "disambiguate"
+      "beggar-3"
     ],
     "A27177-e102810": [
       "alinda"
     ],
     "A27177-e102830": [
-      "disambiguate"
+      "beggar-4"
     ],
     "A27177-e102850": [
       "porter"
@@ -918,34 +913,34 @@
       "roderigo"
     ],
     "A27177-e108580": [
-      "disambiguate"
+      "outlaw-2"
     ],
     "A27177-e108620": [
       "roderigo"
     ],
     "A27177-e108730": [
-      "disambiguate"
+      "outlaw-3"
     ],
     "A27177-e108770": [
       "roderigo"
     ],
     "A27177-e108800": [
-      "disambiguate"
+      "outlaw-4"
     ],
     "A27177-e108850": [
       "roderigo"
     ],
     "A27177-e108870": [
-      "disambiguate"
+      "outlaw-4"
     ],
     "A27177-e108920": [
       "roderigo"
     ],
     "A27177-e108960": [
-      "disambiguate"
+      "outlaw-1"
     ],
     "A27177-e109090": [
-      "disambiguate"
+      "outlaw-2"
     ],
     "A27177-e109130": [
       "roderigo"
@@ -978,7 +973,10 @@
       "roderigo"
     ],
     "A27177-e109590": [
-      "disambiguate"
+      "outlaw-1",
+      "outlaw-2",
+      "outlaw-3",
+      "outlaw-4"
     ],
     "A27177-e109610": [
       "roderigo"
@@ -1038,7 +1036,7 @@
       "roderigo"
     ],
     "A27177-e110700": [
-      "disambiguate"
+      "outlaw-1"
     ],
     "A27177-e110740": [
       "lopez"
@@ -1098,10 +1096,10 @@
       "outlaw-1"
     ],
     "A27177-e111450": [
-      "disambiguate"
+      "outlaw-2"
     ],
     "A27177-e111470": [
-      "disambiguate"
+      "outlaw-3"
     ],
     "A27177-e111510": [
       "jaques"
@@ -2340,7 +2338,10 @@
       "roderigo"
     ],
     "A27177-e126620": [
-      "disambiguate"
+      "peasant-1",
+      "peasant-2",
+      "peasant-3",
+      "peasant-4"
     ],
     "A27177-e126640": [
       "peasant-4"
@@ -2373,7 +2374,7 @@
       "roderigo"
     ],
     "A27177-e126970": [
-      "disambiguate"
+      "peasant-2"
     ],
     "A27177-e127000": [
       "roderigo"
@@ -2388,7 +2389,10 @@
       "pedro"
     ],
     "A27177-e127140": [
-      "disambiguate"
+      "peasant-1",
+      "peasant-2",
+      "peasant-3",
+      "peasant-4"
     ],
     "A27177-e127170": [
       "pedro"

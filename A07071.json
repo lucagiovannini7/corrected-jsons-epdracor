@@ -1,15 +1,16 @@
 {
   "particDesc": [
     {
-      "name": "All",
-      "id": "all",
-      "isGroup": true
-    },
-    {
       "id": "bilioso",
       "name": "Bilioso",
       "isGroup": false,
       "sex": "MALE"
+    },
+    {
+      "id": "courtiers",
+      "name": "Courtiers",
+      "isGroup": true,
+      "sex": "UNKNOWN"
     },
     {
       "id": "prepaso",
@@ -759,13 +760,13 @@
       "maquerelle"
     ],
     "A07071-e107080": [
-      "all"
+      "courtiers"
     ],
     "A07071-e107110": [
       "aurelia"
     ],
     "A07071-e107140": [
-      "all"
+      "courtiers"
     ],
     "A07071-e107160": [
       "aurelia"
@@ -774,7 +775,7 @@
       "mendoza"
     ],
     "A07071-e107250": [
-      "all"
+      "courtiers"
     ],
     "A07071-e107270": [
       "mendoza"
@@ -2049,7 +2050,7 @@
       "mendoza"
     ],
     "A07071-e121300": [
-      "all"
+      "courtiers"
     ],
     "A07071-e121330": [
       "mendoza"

@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "master",
       "name": "Master",
       "isGroup": false,
@@ -704,7 +699,13 @@
       "tibalt"
     ],
     "A27177-e107510": [
-      "disambiguate"
+      "lamure",
+      "master",
+      "franville",
+      "surgeon",
+      "sailor-1",
+      "sailor-2",
+      "boatswain"
     ],
     "A27177-e107530": [
       "tibalt"
@@ -1289,7 +1290,10 @@
       "tibalt"
     ],
     "A27177-e115950": [
-      "disambiguate"
+      "master",
+      "sailor-1",
+      "sailor-2",
+      "boatswain"
     ],
     "A27177-e115970": [
       "albert"
@@ -1358,7 +1362,10 @@
       "albert"
     ],
     "A27177-e116680": [
-      "disambiguate"
+      "albert",
+      "franville",
+      "lamure",
+      "morillat"
     ],
     "A27177-e116700": [
       "albert"
@@ -1512,7 +1519,10 @@
       "tibalt"
     ],
     "A27177-e118840": [
-      "disambiguate"
+      "albert",
+      "franville",
+      "lamure",
+      "morillat"
     ],
     "A27177-e118860": [
       "tibalt"
@@ -1599,7 +1609,10 @@
       "rosellia"
     ],
     "A27177-e119830": [
-      "disambiguate"
+      "albert",
+      "franville",
+      "lamure",
+      "morillat"
     ],
     "A27177-e119860": [
       "rosellia"
@@ -1698,7 +1711,11 @@
       "rosellia"
     ],
     "A27177-e121410": [
-      "disambiguate"
+      "rossella",
+      "clarinda",
+      "crocale",
+      "hippolita",
+      "juletta"
     ],
     "A27177-e121430": [
       "rosellia"
@@ -1761,7 +1778,11 @@
       "clarinda"
     ],
     "A27177-e122260": [
-      "disambiguate"
+      "rossella",
+      "clarinda",
+      "crocale",
+      "hippolita",
+      "juletta"
     ],
     "A27177-e122290": [
       "clarinda"

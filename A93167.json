@@ -31,11 +31,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Colonels",
       "id": "colonels",
       "isGroup": true,
@@ -1083,13 +1078,13 @@
       "secretary"
     ],
     "A93167-e113360": [
-      "disambiguate"
+      "servant-1"
     ],
     "A93167-e113380": [
       "secretary"
     ],
     "A93167-e113400": [
-      "disambiguate"
+      "servant-1"
     ],
     "A93167-e113420": [
       "secretary"
@@ -1098,19 +1093,19 @@
       "servant-3"
     ],
     "A93167-e113460": [
-      "disambiguate"
+      "servant-1"
     ],
     "A93167-e113480": [
       "servant-3"
     ],
     "A93167-e113500": [
-      "disambiguate"
+      "servant-2"
     ],
     "A93167-e113520": [
       "secretary"
     ],
     "A93167-e113540": [
-      "disambiguate"
+      "servant-2"
     ],
     "A93167-e113560": [
       "secretary"
@@ -1131,22 +1126,22 @@
       "secretary"
     ],
     "A93167-e113700": [
-      "disambiguate"
+      "servant-2"
     ],
     "A93167-e113720": [
       "servant-4"
     ],
     "A93167-e113740": [
-      "disambiguate"
+      "servant-2"
     ],
     "A93167-e113760": [
       "servant-4"
     ],
     "A93167-e113780": [
-      "disambiguate"
+      "servant-1"
     ],
     "A93167-e113800": [
-      "disambiguate"
+      "servant-2"
     ],
     "A93167-e113820": [
       "servant-4"
@@ -1155,7 +1150,7 @@
       "servant-3"
     ],
     "A93167-e113860": [
-      "disambiguate"
+      "servant-2"
     ],
     "A93167-e113880": [
       "servant-3"
@@ -1173,7 +1168,7 @@
       "secretary"
     ],
     "A93167-e114000": [
-      "disambiguate"
+      "servant-1"
     ],
     "A93167-e114020": [
       "secretary"
@@ -1182,10 +1177,10 @@
       "gentleman"
     ],
     "A93167-e114070": [
-      "disambiguate"
+      "servant-1"
     ],
     "A93167-e114090": [
-      "disambiguate"
+      "servant-2"
     ],
     "A93167-e114110": [
       "servant-5"
@@ -1356,70 +1351,70 @@
       "hernando"
     ],
     "A93167-e116710": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e116730": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e116750": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e116780": [
       "hernando"
     ],
     "A93167-e116830": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e116870": [
       "hernando"
     ],
     "A93167-e116940": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e116980": [
       "hernando"
     ],
     "A93167-e117030": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e117050": [
       "hernando"
     ],
     "A93167-e117100": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e117120": [
       "hernando"
     ],
     "A93167-e117160": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e117190": [
       "hernando"
     ],
     "A93167-e117240": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e117280": [
       "hernando"
     ],
     "A93167-e117350": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e117380": [
       "hernando"
     ],
     "A93167-e117410": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e117430": [
       "hernando"
     ],
     "A93167-e117470": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e117490": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e117520": [
       "king"
@@ -1770,34 +1765,34 @@
       "lord-2"
     ],
     "A93167-e123570": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e123610": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e123640": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e123670": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e123720": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e123750": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e123790": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e123830": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e123850": [
-      "disambiguate"
+      "lord-1"
     ],
     "A93167-e123890": [
-      "disambiguate"
+      "lord-2"
     ],
     "A93167-e123960": [
       "lord-1"

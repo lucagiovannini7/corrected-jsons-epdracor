@@ -1,15 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "Britains",
-      "id": "britains",
+      "name": "Britons",
+      "id": "britons",
       "isGroup": true,
       "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
     },
     {
       "id": "cador",
@@ -168,8 +163,8 @@
       "sex": "MALE"
     },
     {
-      "id": "bishop",
-      "name": "Bishop",
+      "id": "bishop-1",
+      "name": "bishop-1",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -848,7 +843,10 @@
       "cador"
     ],
     "A57763-e105360": [
-      "disambiguate"
+      "donobert",
+      "gloster",
+      "edwin",
+      "cador"
     ],
     "A57763-e105380": [
       "edoll"
@@ -1600,13 +1598,18 @@
       "constantia"
     ],
     "A57763-e111570": [
-      "disambiguate"
+      "bishop-1",
+      "bishop-2"
+      "donobert",
+      "gloster",
+      "oswold",
+      "toclio
     ],
     "A57763-e111590": [
       "cador"
     ],
     "A57763-e111610": [
-      "bishop"
+      "bishop-1"
     ],
     "A57763-e111630": [
       "cador"
@@ -1903,7 +1906,7 @@
       "artesia"
     ],
     "A57763-e114300": [
-      "britains"
+      "britons"
     ],
     "A57763-e114320": [
       "edoll"

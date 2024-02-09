@@ -1,14 +1,15 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "malevento",
       "name": "Malevento",
       "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "courtiers",
+      "name": "Courtiers",
+      "isGroup": true,
       "sex": "MALE"
     },
     {
@@ -563,7 +564,9 @@
       "king"
     ],
     "A20088-e104420": [
-      "disambiguate"
+      "valasco",
+      "martines",
+      "alphonso"
     ],
     "A20088-e104440": [
       "king"
@@ -584,7 +587,8 @@
       "valasco"
     ],
     "A20088-e104620": [
-      "disambiguate"
+      "king",
+      "alphonso"
     ],
     "A20088-e104650": [
       "king"
@@ -1568,7 +1572,7 @@
       "cordolente"
     ],
     "A20088-e113590": [
-      "disambiguate"
+      "gentlemen"
     ],
     "A20088-e113610": [
       "cordolente"
@@ -1607,7 +1611,7 @@
       "tormiella"
     ],
     "A20088-e113860": [
-      "disambiguate"
+      "gentlemen"
     ],
     "A20088-e113880": [
       "gentleman-1"
@@ -2264,7 +2268,9 @@
       "king"
     ],
     "A20088-e119640": [
-      "disambiguate"
+      "iago",
+      "alphonso",
+      "fuentes"
     ],
     "A20088-e119660": [
       "doctor"
@@ -2516,7 +2522,8 @@
       "john"
     ],
     "A20088-e122270": [
-      "disambiguate"
+      "iago",
+      "alphonso"
     ],
     "A20088-e122290": [
       "queen"
@@ -3059,7 +3066,8 @@
       "john"
     ],
     "A20088-e127310": [
-      "disambiguate"
+      "valasco",
+      "king"
     ],
     "A20088-e127330": [
       "king"
@@ -3420,19 +3428,19 @@
       "martines"
     ],
     "A20088-e130860": [
-      "disambiguate"
+      "courtiers"
     ],
     "A20088-e130880": [
       "king"
     ],
     "A20088-e130900": [
-      "disambiguate"
+      "courtiers"
     ],
     "A20088-e130930": [
       "king"
     ],
     "A20088-e131010": [
-      "disambiguate"
+      "courtiers"
     ],
     "A20088-e131040": [
       "king"
@@ -3448,19 +3456,19 @@
       "king"
     ],
     "A20088-e131260": [
-      "disambiguate"
+      "courtiers"
     ],
     "A20088-e131280": [
       "king"
     ],
     "A20088-e131300": [
-      "disambiguate"
+      "courtiers"
     ],
     "A20088-e131320": [
       "king"
     ],
     "A20088-e131370": [
-      "disambiguate"
+      "courtiers"
     ],
     "A20088-e131390": [
       "king"
@@ -3662,7 +3670,9 @@
       "valasco"
     ],
     "A20088-e133370": [
-      "disambiguate"
+      "malevento",
+      "alphonso",
+      "gazetto"
     ],
     "A20088-e133390": [
       "king"
@@ -3704,7 +3714,9 @@
       "king"
     ],
     "A20088-e133830": [
-      "disambiguate"
+      "malevento",
+      "alphonso",
+      "iago"
     ],
     "A20088-e133850": [
       "king"

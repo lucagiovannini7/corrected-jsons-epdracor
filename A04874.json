@@ -1,15 +1,34 @@
 {
   "particDesc": [
     {
+      "name": "Friends of Ormandine",
+      "id": "ormandine-friends",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
       "name": "Mother George",
       "id": "mother-george",
       "isGroup": false,
       "sex": "FEMALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "id": "daughter-anthony",
+      "name": "Antony's daughter",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "virgins",
+      "name": "Virgins",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "id": "attendants",
+      "name": "Attendants",
+      "isGroup": true,
+      "sex": "UNKNOWN"
     },
     {
       "id": "calib",
@@ -284,7 +303,7 @@
       "clown"
     ],
     "A04874-e102060": [
-      "disambiguate"
+      "tarpax"
     ],
     "A04874-e102080": [
       "clown"
@@ -434,13 +453,15 @@
       "george"
     ],
     "A04874-e104590": [
-      "disambiguate"
+      "father-george",
+      "mother-george"
     ],
     "A04874-e104620": [
       "george"
     ],
     "A04874-e104700": [
-      "disambiguate"
+      "father-george",
+      "mother-george"
     ],
     "A04874-e104720": [
       "george"
@@ -614,7 +635,12 @@
       "george"
     ],
     "A04874-e107010": [
-      "disambiguate"
+      "andrew",
+      "david",
+      "patricke",
+      "denis",
+      "james",
+      "anthony"
     ],
     "A04874-e107040": [
       "david"
@@ -644,13 +670,25 @@
       "george"
     ],
     "A04874-e107400": [
-      "disambiguate"
+      "andrew",
+      "david",
+      "patricke",
+      "george",
+      "denis",
+      "james",
+      "anthony"
     ],
     "A04874-e107420": [
       "george"
     ],
     "A04874-e107560": [
-      "disambiguate"
+      "andrew",
+      "david",
+      "patricke",
+      "george",
+      "denis",
+      "james",
+      "anthony"
     ],
     "A04874-e107580": [
       "george"
@@ -728,13 +766,17 @@
       "baptisto"
     ],
     "A04874-e109510": [
-      "disambiguate"
+      "country-swain-1",
+      "country-swain-2",
+      "country-swain-3"
     ],
     "A04874-e109530": [
       "baptisto"
     ],
     "A04874-e109600": [
-      "disambiguate"
+      "country-swain-1",
+      "country-swain-2",
+      "country-swain-3"
     ],
     "A04874-e109620": [
       "baptisto"
@@ -767,7 +809,11 @@
       "andrew"
     ],
     "A04874-e110410": [
-      "disambiguate"
+      "anthony",
+      "ancetes",
+      "daughter-anthony",
+      "virgins",
+      "attendants"
     ],
     "A04874-e110440": [
       "emperor"
@@ -809,13 +855,15 @@
       "emperor"
     ],
     "A04874-e111150": [
-      "disambiguate"
+      "anthony",
+      "andrew"
     ],
     "A04874-e111170": [
       "emperor"
     ],
     "A04874-e111190": [
-      "disambiguate"
+      "anthony",
+      "andrew"
     ],
     "A04874-e111210": [
       "emperor"
@@ -827,13 +875,15 @@
       "emperor"
     ],
     "A04874-e111410": [
-      "disambiguate"
+      "anthony",
+      "andrew"
     ],
     "A04874-e111430": [
       "emperor"
     ],
     "A04874-e111640": [
-      "disambiguate"
+      "anthony",
+      "andrew"
     ],
     "A04874-e111660": [
       "emperor"
@@ -890,7 +940,8 @@
       "emperor"
     ],
     "A04874-e112680": [
-      "disambiguate"
+      "anthony",
+      "andrew"
     ],
     "A04874-e112700": [
       "anthony"
@@ -944,7 +995,8 @@
       "messenger"
     ],
     "A04874-e113710": [
-      "disambiguate"
+      "almona",
+      "lenon"
     ],
     "A04874-e113730": [
       "almona"
@@ -1433,7 +1485,7 @@
       "george"
     ],
     "A04874-e121830": [
-      "disambiguate"
+      "ormandine-friends"
     ],
     "A04874-e121850": [
       "george"
@@ -1838,37 +1890,73 @@
       "clown"
     ],
     "A04874-e128460": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e128480": [
       "clown"
     ],
     "A04874-e128500": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e128520": [
       "clown"
     ],
     "A04874-e128540": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e128560": [
       "clown"
     ],
     "A04874-e128580": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e128610": [
       "clown"
     ],
     "A04874-e128630": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e128650": [
       "clown"
     ],
     "A04874-e128680": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e128720": [
       "brandron"
@@ -1946,7 +2034,12 @@
       "george"
     ],
     "A04874-e130260": [
-      "disambiguate"
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e130280": [
       "george"
@@ -1997,7 +2090,12 @@
       "george"
     ],
     "A04874-e130770": [
-      "disambiguate"
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e130790": [
       "james"
@@ -2045,7 +2143,12 @@
       "george"
     ],
     "A04874-e131470": [
-      "disambiguate"
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e131490": [
       "macedon"
@@ -2105,19 +2208,36 @@
       "macedon"
     ],
     "A04874-e132290": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e132310": [
       "george"
     ],
     "A04874-e132370": [
-      "disambiguate"
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e132390": [
       "macedon"
     ],
     "A04874-e132420": [
-      "disambiguate"
+      "george",
+      "james",
+      "anthony",
+      "andrew",
+      "patrick",
+      "david",
+      "denis
     ],
     "A04874-e132440": [
       "george"

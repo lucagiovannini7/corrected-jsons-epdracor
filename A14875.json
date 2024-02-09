@@ -115,8 +115,8 @@
       "sex": "MALE"
     },
     {
-      "id": "frenchman",
-      "name": "Frenchman",
+      "id": "french-ambassador",
+      "name": "French Ambassador",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -145,9 +145,10 @@
       "sex": "MALE"
     },
     {
-      "id": "omnes",
-      "name": "Omnes",
-      "isGroup": true
+      "id": "attendants",
+      "name": "Attendants",
+      "isGroup": true,
+      "sex": "UNKNOWN"
     },
     {
       "id": "hortensio",
@@ -1388,7 +1389,7 @@
       "monticelso"
     ],
     "A14875-e115530": [
-      "frenchman"
+      "french-ambassador"
     ],
     "A14875-e115550": [
       "english-ambassador"
@@ -1715,7 +1716,7 @@
       "flamineo"
     ],
     "A14875-e119530": [
-      "frenchman"
+      "french-ambassador"
     ],
     "A14875-e119550": [
       "flamineo"
@@ -2249,7 +2250,7 @@
       "servant"
     ],
     "A14875-e127070": [
-      "frenchman"
+      "french-ambassador"
     ],
     "A14875-e127100": [
       "english-ambassador"
@@ -2270,7 +2271,12 @@
       "arragon"
     ],
     "A14875-e127380": [
-      "omnes"
+      "francisco",
+      "lodovico",
+      "gasparo",
+      "english-ambassador",
+      "french-ambassador",
+      "servant"
     ],
     "A14875-e127400": [
       "servant"
@@ -2999,7 +3005,8 @@
       "lodovico"
     ],
     "A14875-e136020": [
-      "omnes"
+      "vittoria",
+      "attendants"
     ],
     "A14875-e136040": [
       "vittoria"

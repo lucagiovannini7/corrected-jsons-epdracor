@@ -7,11 +7,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "nicoletto",
       "name": "Nicoletto",
       "isGroup": false,
@@ -84,8 +79,8 @@
       "sex": "MALE"
     },
     {
-      "id": "gentleman",
-      "name": "Gentleman",
+      "id": "gentili",
+      "name": "gentili",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -150,6 +145,12 @@
       "sex": "MALE"
     },
     {
+      "id": "gallant-3",
+      "name": "Gallant 3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "gallant-4",
       "name": "Gallant 4",
       "isGroup": false,
@@ -169,7 +170,7 @@
     },
     {
       "id": "gentili",
-      "name": "Gentili",
+      "name": "Iacomo Gentili",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -183,6 +184,12 @@
       "id": "servant",
       "name": "Servant",
       "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "servants",
+      "name": "Servants",
+      "isGroup": true,
       "sex": "MALE"
     },
     {
@@ -671,7 +678,7 @@
       "cargo"
     ],
     "A20093-e105400": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e105460": [
       "mutio"
@@ -680,7 +687,7 @@
       "philippo"
     ],
     "A20093-e105530": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e105590": [
       "tornelli"
@@ -689,7 +696,7 @@
       "montinello"
     ],
     "A20093-e105650": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e105810": [
       "montinello"
@@ -698,43 +705,43 @@
       "steward"
     ],
     "A20093-e105860": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e105910": [
       "steward"
     ],
     "A20093-e105940": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e106060": [
       "montinello"
     ],
     "A20093-e106080": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e106160": [
       "philippo"
     ],
     "A20093-e106180": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e106290": [
       "tornelli"
     ],
     "A20093-e106330": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e106540": [
       "montinello"
     ],
     "A20093-e106560": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e106630": [
       "montinello"
     ],
     "A20093-e106680": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e106810": [
       "mutio"
@@ -743,91 +750,94 @@
       "philippo"
     ],
     "A20093-e106850": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e106970": [
       "mutio"
     ],
     "A20093-e107040": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107080": [
       "philippo"
     ],
     "A20093-e107100": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107130": [
-      "disambiguate"
+      "mutio", 
+      "philippo", 
+      "tornelli", 
+      "montinello"
     ],
     "A20093-e107150": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107190": [
       "steward"
     ],
     "A20093-e107210": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107230": [
       "steward"
     ],
     "A20093-e107250": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107270": [
       "buzardo"
     ],
     "A20093-e107290": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107330": [
       "buzardo"
     ],
     "A20093-e107350": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107370": [
       "buzardo"
     ],
     "A20093-e107390": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107410": [
       "buzardo"
     ],
     "A20093-e107430": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107450": [
       "buzardo"
     ],
     "A20093-e107480": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107500": [
       "buzardo"
     ],
     "A20093-e107520": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107540": [
       "buzardo"
     ],
     "A20093-e107570": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107590": [
       "buzardo"
     ],
     "A20093-e107610": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107630": [
       "buzardo"
     ],
     "A20093-e107650": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e107710": [
       "mutio"
@@ -851,7 +861,10 @@
       "alphonsina"
     ],
     "A20093-e107910": [
-      "disambiguate"
+      "mutio", 
+      "philippo", 
+      "tornelli", 
+      "montinello"
     ],
     "A20093-e107930": [
       "mutio"
@@ -1337,7 +1350,10 @@
       "tornelli"
     ],
     "A20093-e113110": [
-      "disambiguate"
+      "gallant-1",
+      "gallant-2",
+      "gallant-3,
+      "gallant-4"
     ],
     "A20093-e113140": [
       "torrenti"
@@ -1439,7 +1455,10 @@
       "brother"
     ],
     "A20093-e114610": [
-      "disambiguate"
+      "gallant-1",
+      "gallant-2",
+      "gallant-3,
+      "gallant-4"
     ],
     "A20093-e114630": [
       "tornelli"
@@ -1840,19 +1859,19 @@
       "nicoletto"
     ],
     "A20093-e118900": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e118920": [
-      "disambiguate"
+      "servants"
     ],
     "A20093-e118940": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e118960": [
       "steward"
     ],
     "A20093-e118990": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119120": [
       "steward"
@@ -1867,37 +1886,37 @@
       "broker"
     ],
     "A20093-e119200": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119220": [
       "broker"
     ],
     "A20093-e119240": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119260": [
       "broker"
     ],
     "A20093-e119280": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119300": [
       "broker"
     ],
     "A20093-e119320": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119340": [
       "broker"
     ],
     "A20093-e119360": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119400": [
       "broker"
     ],
     "A20093-e119420": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119500": [
       "soldier"
@@ -1906,7 +1925,7 @@
       "broker"
     ],
     "A20093-e119550": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119570": [
       "steward"
@@ -1915,13 +1934,13 @@
       "soldier"
     ],
     "A20093-e119620": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119640": [
       "soldier"
     ],
     "A20093-e119710": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119730": [
       "soldier"
@@ -1933,19 +1952,19 @@
       "soldier"
     ],
     "A20093-e119910": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119940": [
       "broker"
     ],
     "A20093-e119960": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e119980": [
       "soldier"
     ],
     "A20093-e120060": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120080": [
       "soldier"
@@ -1957,7 +1976,7 @@
       "soldier"
     ],
     "A20093-e120140": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120220": [
       "broker"
@@ -1966,13 +1985,13 @@
       "soldier"
     ],
     "A20093-e120260": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120290": [
       "soldier"
     ],
     "A20093-e120310": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120340": [
       "broker"
@@ -1981,43 +2000,43 @@
       "soldier"
     ],
     "A20093-e120400": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120420": [
       "servant"
     ],
     "A20093-e120440": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120470": [
       "servant"
     ],
     "A20093-e120490": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120510": [
       "servant"
     ],
     "A20093-e120530": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120630": [
       "apothecary"
     ],
     "A20093-e120650": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120730": [
       "apothecary"
     ],
     "A20093-e120750": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120810": [
       "apothecary"
     ],
     "A20093-e120830": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e120920": [
       "apothecary"
@@ -2038,13 +2057,13 @@
       "servant"
     ],
     "A20093-e121040": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121060": [
       "apothecary"
     ],
     "A20093-e121090": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121190": [
       "apothecary"
@@ -2056,76 +2075,76 @@
       "goldsmith"
     ],
     "A20093-e121260": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121280": [
       "goldsmith"
     ],
     "A20093-e121310": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121330": [
       "goldsmith"
     ],
     "A20093-e121370": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121390": [
       "goldsmith"
     ],
     "A20093-e121450": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121470": [
       "goldsmith"
     ],
     "A20093-e121490": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121590": [
       "goldsmith"
     ],
     "A20093-e121610": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121650": [
       "goldsmith"
     ],
     "A20093-e121680": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121710": [
       "steward"
     ],
     "A20093-e121730": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121810": [
       "brother"
     ],
     "A20093-e121850": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121870": [
       "brother"
     ],
     "A20093-e121930": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e121990": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e122040": [
       "steward"
     ],
     "A20093-e122060": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e122110": [
       "steward"
     ],
     "A20093-e122130": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e122180": [
       "nicoletto"
@@ -2506,10 +2525,10 @@
       "florence"
     ],
     "A20093-e125870": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e125940": [
-      "gentleman"
+      "gentili"
     ],
     "A20093-e126080": [
       "florence"

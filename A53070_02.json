@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Jeerer 2",
       "id": "jeerer-2",
       "isGroup": false,
@@ -2232,7 +2227,8 @@
       "newman"
     ],
     "A53070-e117080": [
-      "disambiguate"
+      "jeerer-1",
+      "jeerer-2"
     ],
     "A53070-e117100": [
       "newman"
@@ -2762,7 +2758,10 @@
       "william"
     ],
     "A53070-e121010": [
-      "disambiguate"
+      "nice",
+      "manley",
+      "beaufield",
+      "jeerer-1"
     ],
     "A53070-e121030": [
       "galliard"
@@ -2840,7 +2839,11 @@
       "simpleton"
     ],
     "A53070-e121550": [
-      "disambiguate"
+      "nice",
+      "manley",
+      "beaufield",
+      "jeerer-1",
+      "jeerer-2"
     ],
     "A53070-e121570": [
       "mother"

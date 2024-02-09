@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "id": "attendants",
+      "name": "Attendants",
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "volterre",
@@ -221,7 +222,7 @@
       "orseolo"
     ],
     "A12141-e102610": [
-      "disambiguate"
+      "contarini"
     ],
     "A12141-e102630": [
       "orseolo"
@@ -323,7 +324,7 @@
       "duchess"
     ],
     "A12141-e104190": [
-      "disambiguate"
+      "attendants"
     ],
     "A12141-e104210": [
       "comachio"
@@ -2486,7 +2487,9 @@
       "depazzi"
     ],
     "A12141-e130430": [
-      "disambiguate"
+      "carintha",
+      "laura",
+      "duchess"
     ],
     "A12141-e130450": [
       "depazzi"
@@ -2813,7 +2816,12 @@
       "giotto"
     ],
     "A12141-e134360": [
-      "disambiguate"
+      "attendants",
+      "laura",
+      "comachio",
+      "depazzi",
+      "crispino",
+      "volterre"
     ],
     "A12141-e134390": [
       "duchess"

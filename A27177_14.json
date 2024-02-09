@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "piniero",
       "name": "Piniero",
       "isGroup": false,
@@ -114,6 +109,24 @@
       "sex": "MALE"
     },
     {
+      "id": "citizen-1",
+      "name": "Citizen 1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "citizen-2",
+      "name": "Citizen 2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "citizen-3",
+      "name": "Citizen 3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "soldier",
       "name": "Soldier",
       "isGroup": false,
@@ -138,12 +151,6 @@
       "sex": "FEMALE"
     },
     {
-      "id": "women",
-      "name": "Women",
-      "isGroup": true,
-      "sex": "FEMALE"
-    },
-    {
       "id": "panura",
       "name": "Panura",
       "isGroup": false,
@@ -155,6 +162,24 @@
       "isGroup": false,
       "sex": "MALE"
     },
+    {
+      "id": "townsman-1",
+      "name": "Townsman 1",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+    {
+      "id": "townsman-2",
+      "name": "Townsman 2",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+    {
+      "id": "townsman-3",
+      "name": "Townsman 3",
+      "isGroup": false,
+      "sex": "MALE"
+    }
     {
       "id": "townsman-4",
       "name": "Townsman 4",
@@ -497,7 +522,16 @@
       "armusia"
     ],
     "A27177-e105360": [
-      "disambiguate"
+      "quisara",
+      "quisana",
+      "panura",
+      "ruydias",
+      "bakam",
+      "syana",
+      "governour",
+      "pyniero",
+      "christophero",
+      "emanuel"
     ],
     "A27177-e105380": [
       "armusia"
@@ -506,7 +540,15 @@
       "quisara"
     ],
     "A27177-e105510": [
-      "disambiguate"
+      "quisana",
+      "panura",
+      "ruydias",
+      "bakam",
+      "syana",
+      "governour",
+      "pyniero",
+      "christophero",
+      "emanuel"
     ],
     "A27177-e105530": [
       "quisara"
@@ -635,13 +677,13 @@
       "keeper"
     ],
     "A27177-e107680": [
-      "disambiguate"
+      "moor-1"
     ],
     "A27177-e107720": [
       "keeper"
     ],
     "A27177-e107800": [
-      "disambiguate"
+      "moor-2"
     ],
     "A27177-e107830": [
       "keeper"
@@ -650,7 +692,7 @@
       "moor-1"
     ],
     "A27177-e107880": [
-      "disambiguate"
+      "moor-2"
     ],
     "A27177-e107940": [
       "keeper"
@@ -710,34 +752,37 @@
       "governor"
     ],
     "A27177-e109050": [
-      "disambiguate"
+      "moor-1",
+      "moor-2",
+      "keeper"
     ],
     "A27177-e109080": [
       "governor"
     ],
     "A27177-e109100": [
-      "disambiguate"
+      "moor-1"
     ],
     "A27177-e109170": [
       "keeper"
     ],
     "A27177-e109230": [
-      "disambiguate"
+      "moor-2"
     ],
     "A27177-e109270": [
-      "disambiguate"
+      "moor-1"
     ],
     "A27177-e109300": [
       "keeper"
     ],
     "A27177-e109330": [
-      "disambiguate"
+      "moor-2"
     ],
     "A27177-e109380": [
       "armusia"
     ],
     "A27177-e109410": [
-      "disambiguate"
+      "soza",
+      "emanuel"
     ],
     "A27177-e109430": [
       "armusia"
@@ -842,7 +887,7 @@
       "governor"
     ],
     "A27177-e110920": [
-      "disambiguate"
+      "citizen"
     ],
     "A27177-e110940": [
       "governor"
@@ -929,28 +974,28 @@
       "soza"
     ],
     "A27177-e112100": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A27177-e112120": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A27177-e112220": [
-      "disambiguate"
+      "citizen-3"
     ],
     "A27177-e112240": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A27177-e112270": [
-      "disambiguate"
+      "citizen-3"
     ],
     "A27177-e112320": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A27177-e112340": [
       "woman-1"
     ],
     "A27177-e112360": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A27177-e112430": [
       "woman-2"
@@ -959,37 +1004,41 @@
       "woman-3"
     ],
     "A27177-e112470": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A27177-e112540": [
       "woman-1"
     ],
     "A27177-e112560": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A27177-e112580": [
-      "women"
+      "woman-1",
+      "woman-2",
+      "woman-3"
     ],
     "A27177-e112600": [
-      "disambiguate"
+      "citizen-3"
     ],
     "A27177-e112650": [
       "woman-3"
     ],
     "A27177-e112670": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A27177-e112700": [
-      "disambiguate"
+      "citizen-1"
     ],
     "A27177-e112720": [
       "woman-2"
     ],
     "A27177-e112780": [
-      "women"
+      "woman-1",
+      "woman-2",
+      "woman-3"
     ],
     "A27177-e112800": [
-      "disambiguate"
+      "citizen-2"
     ],
     "A27177-e112830": [
       "governor"
@@ -1055,7 +1104,7 @@
       "ruydias"
     ],
     "A27177-e113740": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e113770": [
       "ruydias"
@@ -1319,7 +1368,7 @@
       "piniero"
     ],
     "A27177-e118030": [
-      "disambiguate"
+      "quisana"
     ],
     "A27177-e118050": [
       "piniero"
@@ -1340,7 +1389,7 @@
       "panura"
     ],
     "A27177-e118230": [
-      "disambiguate"
+      "quisana"
     ],
     "A27177-e118250": [
       "piniero"
@@ -1421,7 +1470,7 @@
       "quisara"
     ],
     "A27177-e119460": [
-      "disambiguate"
+      "quisana"
     ],
     "A27177-e119490": [
       "panura"
@@ -1433,13 +1482,13 @@
       "piniero"
     ],
     "A27177-e119580": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e119600": [
       "piniero"
     ],
     "A27177-e119640": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e119680": [
       "piniero"
@@ -1463,13 +1512,13 @@
       "piniero"
     ],
     "A27177-e120210": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e120230": [
       "piniero"
     ],
     "A27177-e120290": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e120370": [
       "piniero"
@@ -2240,13 +2289,13 @@
       "armusia"
     ],
     "A27177-e131750": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e131770": [
       "armusia"
     ],
     "A27177-e131890": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e131920": [
       "armusia"
@@ -2258,7 +2307,7 @@
       "armusia"
     ],
     "A27177-e132010": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e132040": [
       "armusia"
@@ -2267,7 +2316,7 @@
       "governor"
     ],
     "A27177-e132300": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e132390": [
       "armusia"
@@ -2333,7 +2382,7 @@
       "governor"
     ],
     "A27177-e133100": [
-      "disambiguate"
+      "quisara"
     ],
     "A27177-e133160": [
       "christophero"
@@ -2568,34 +2617,34 @@
       "governor"
     ],
     "A27177-e136820": [
-      "disambiguate"
+      "townsman-1"
     ],
     "A27177-e136860": [
-      "disambiguate"
+      "townsman-2"
     ],
     "A27177-e136960": [
-      "disambiguate"
+      "townsman-3"
     ],
     "A27177-e136980": [
-      "disambiguate"
+      "townsman-2"
     ],
     "A27177-e137010": [
       "townsman-4"
     ],
     "A27177-e137040": [
-      "disambiguate"
+      "townsman-2"
     ],
     "A27177-e137140": [
-      "disambiguate"
+      "townsman-1"
     ],
     "A27177-e137160": [
-      "disambiguate"
+      "townsman-2"
     ],
     "A27177-e137220": [
-      "disambiguate"
+      "townsman-3"
     ],
     "A27177-e137260": [
-      "disambiguate"
+      "townsman-2"
     ],
     "A27177-e137350": [
       "piniero"

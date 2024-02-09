@@ -7,11 +7,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Thracian Lord 2",
       "id": "thracian-lord-2",
       "isGroup": false,
@@ -617,7 +612,12 @@
       "tityrus"
     ],
     "A62477-e105260": [
-      "disambiguate"
+      "antimon",
+      "radagon",
+      "sheperd-1",
+      "sheperd-2",
+      "clown",
+      "serena"
     ],
     "A62477-e105320": [
       "clown"
@@ -1520,13 +1520,20 @@
       "pheander"
     ],
     "A62477-e114290": [
-      "disambiguate"
+      "pheander"
     ],
     "A62477-e114340": [
       "pheander"
     ],
     "A62477-e114360": [
-      "disambiguate"
+      "shepherd-1",
+      "sheperd-2",
+      "radagon",
+      "eusanius",
+      "tytirus",
+      "pallemon",
+      "clown",
+      "antimon"
     ],
     "A62477-e114380": [
       "pheander"
@@ -1571,7 +1578,12 @@
       "tityrus"
     ],
     "A62477-e114900": [
-      "disambiguate"
+      "shepherd-1",
+      "sheperd-2",
+      "radagon",
+      "pallemon",
+      "clown",
+      "antimon"
     ],
     "A62477-e114920": [
       "pheander"
@@ -1609,9 +1621,7 @@
     "A62477-e115480": [
       "sicilian-king"
     ],
-    "A62477-e115620": [
-      "disambiguate"
-    ],
+    "A62477-e115620": [],
     "A62477-e115650": [
       "radagon"
     ],
@@ -1619,7 +1629,7 @@
       "eusanius"
     ],
     "A62477-e115920": [
-      "disambiguate"
+      "eusanius"
     ],
     "A62477-e115950": [
       "radagon"

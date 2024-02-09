@@ -43,11 +43,6 @@
       "sex": "MALE"
     },
     {
-      "id": "omnes",
-      "name": "Omnes",
-      "isGroup": true
-    },
-    {
       "id": "servant_1",
       "name": "Servant 1",
       "isGroup": false,
@@ -454,10 +449,13 @@
       "philip"
     ],
     "A20098-e101970": [
-      "omnes"
+      "chartley",
+      "lever",
+      "mayberry",
+      "bellamont"
     ],
     "A20098-e101990": [
-      "servant_1"
+      "sergeant_1"
     ],
     "A20098-e102010": [
       "doll"
@@ -466,13 +464,13 @@
       "philip"
     ],
     "A20098-e102050": [
-      "servants"
+      "sergeants"
     ],
     "A20098-e102070": [
       "chartley"
     ],
     "A20098-e102100": [
-      "servant_1"
+      "sergeant_1"
     ],
     "A20098-e102120": [
       "doll"
@@ -481,10 +479,10 @@
       "philip"
     ],
     "A20098-e102160": [
-      "servant_1"
+      "sergeant_1"
     ],
     "A20098-e102180": [
-      "servant_2"
+      "sergeant_2"
     ],
     "A20098-e102210": [
       "doll"
@@ -828,7 +826,9 @@
       "hornet"
     ],
     "A20098-e105110": [
-      "omnes"
+      "lever",
+      "doll",
+      "chartley"
     ],
     "A20098-e105130": [
       "doll"
@@ -1236,7 +1236,8 @@
       "doll"
     ],
     "A20098-e107960": [
-      "omnes"
+      "lever",
+      "chartley"
     ],
     "A20098-e107980": [
       "doll"
@@ -1617,7 +1618,9 @@
       "doll"
     ],
     "A20098-e110670": [
-      "omnes"
+      "taylor",
+      "lever",
+      "chartley"
     ],
     "A20098-e110690": [
       "philip"
@@ -2212,13 +2215,21 @@
       "bellamont"
     ],
     "A20098-e114990": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e115010": [
       "bellamont"
     ],
     "A20098-e115030": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e115050": [
       "bellamont"
@@ -2230,7 +2241,10 @@
       "greenshield"
     ],
     "A20098-e115110": [
-      "omnes"
+      "mayberry",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e115130": [
       "bellamont"
@@ -2284,7 +2298,11 @@
       "full-moon"
     ],
     "A20098-e115500": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e115520": [
       "bellamont"
@@ -2332,13 +2350,23 @@
       "bawd"
     ],
     "A20098-e115830": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley",
+      "bellamont"
     ],
     "A20098-e115850": [
       "bawd"
     ],
     "A20098-e115870": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley",
+      "bellamont"
     ],
     "A20098-e115890": [
       "bawd"
@@ -2377,7 +2405,12 @@
       "musician"
     ],
     "A20098-e116230": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley",
+      "bellamont"
     ],
     "A20098-e116250": [
       "musician"
@@ -2441,7 +2474,10 @@
       "greenshield"
     ],
     "A20098-e116700": [
-      "omnes"
+      "mayberry",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e116720": [
       "greenshield"
@@ -2450,19 +2486,31 @@
       "full-moon"
     ],
     "A20098-e116770": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e116790": [
       "mayberry"
     ],
     "A20098-e116810": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e116840": [
       "bellamont"
     ],
     "A20098-e116860": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e116880": [
       "mayberry"
@@ -2471,7 +2519,11 @@
       "bellamont"
     ],
     "A20098-e116920": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e116950": [
       "bellamont"
@@ -2507,7 +2559,12 @@
       "bellamont"
     ],
     "A20098-e117190": [
-      "omnes"
+      "mayberry",
+      "greenshield",
+      "lever",
+      "philip",
+      "chartley",
+      "bellamont"
     ],
     "A20098-e117210": [
       "full-moon"
@@ -2960,7 +3017,9 @@
       "bellamont"
     ],
     "A20098-e120400": [
-      "omnes"
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e120420": [
       "bellamont"
@@ -2981,19 +3040,25 @@
       "bellamont"
     ],
     "A20098-e120540": [
-      "omnes"
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e120560": [
       "bellamont"
     ],
     "A20098-e120580": [
-      "omnes"
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e120600": [
       "bellamont"
     ],
     "A20098-e120620": [
-      "omnes"
+      "lever",
+      "philip",
+      "chartley"
     ],
     "A20098-e120640": [
       "bellamont"
@@ -3020,7 +3085,8 @@
       "bellamont"
     ],
     "A20098-e120810": [
-      "omnes"
+      "chartley",
+      "lever"
     ],
     "A20098-e120830": [
       "bellamont"
@@ -3134,7 +3200,14 @@
       "featherstone"
     ],
     "A20098-e121610": [
-      "omnes"
+      "lever",
+      "philip",
+      "chartley",
+      "bellamont",
+      "hornet",
+      "doll",
+      "greenshield",
+      "kate"
     ],
     "A20098-e121630": [
       "mayberry"

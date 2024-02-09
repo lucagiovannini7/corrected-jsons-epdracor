@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "captain",
       "name": "Captain",
       "isGroup": false,
@@ -1430,7 +1425,9 @@
       "jolly"
     ],
     "A47372-e109500": [
-      "disambiguate"
+      "wild",
+      "careless",
+      "captain"
     ],
     "A47372-e109520": [
       "careless"
@@ -1496,7 +1493,9 @@
       "jolly"
     ],
     "A47372-e109960": [
-      "disambiguate"
+      "wild",
+      "careless",
+      "captain"
     ],
     "A47372-e109980": [
       "jolly"
@@ -2129,7 +2128,14 @@
       "captain"
     ],
     "A47372-e114460": [
-      "disambiguate"
+      "wild",
+      "careless",
+      "widow",
+      "sadd",
+      "jolly",
+      "pleasant",
+      "constant",
+      "secret"
     ],
     "A47372-e114480": [
       "captain"
@@ -2219,7 +2225,9 @@
       "captain"
     ],
     "A47372-e115060": [
-      "disambiguate"
+      "wild",
+      "careless",
+      "jolly"
     ],
     "A47372-e115080": [
       "captain"
@@ -2240,7 +2248,9 @@
       "captain"
     ],
     "A47372-e115200": [
-      "disambiguate"
+      "wild",
+      "careless",
+      "jolly"
     ],
     "A47372-e115250": [
       "wanton"
@@ -2990,7 +3000,8 @@
       "wild"
     ],
     "A47372-e120670": [
-      "disambiguate"
+      "careless",
+      "jolly"
     ],
     "A47372-e120690": [
       "captain"
@@ -4693,7 +4704,13 @@
       "wild"
     ],
     "A47372-e132910": [
-      "disambiguate"
+      "captain",
+      "constant"
+      "widow",
+      "careless",
+      "wanton",
+      "pleasant",
+      "jolly"
     ],
     "A47372-e132940": [
       "wild"

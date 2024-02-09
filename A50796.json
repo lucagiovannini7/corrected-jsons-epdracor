@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Gipsies",
+      "id": "gipsies",
+      "isGroup": true,
+      "sex": "UNKNOWN"
     },
     {
       "name": "Maria",
@@ -536,9 +537,7 @@
       "alvarez"
     ],
     "A50796-e105780": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "carlo"
     ],
     "A50796-e105800": [
       "antonio"
@@ -547,9 +546,7 @@
       "alvarez"
     ],
     "A50796-e105840": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "carlo"
     ],
     "A50796-e105860": [
       "alvarez"
@@ -587,9 +584,7 @@
       "alvarez"
     ],
     "A50796-e106130": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "carlo"
     ],
     "A50796-e106150": [
       "alvarez"
@@ -658,9 +653,7 @@
       "alvarez"
     ],
     "A50796-e106820": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e106840": [
       "alvarez"
@@ -786,7 +779,13 @@
       "sancho"
     ],
     "A50796-e107760": [
-      "disambiguate"
+      "eugenia",
+      "pretiosa",
+      "christiana",
+      "cardochia",
+      "alvarez",
+      "carlo",
+      "antonio"
     ],
     "A50796-e107780": [
       "alvarez"
@@ -822,7 +821,13 @@
       "sancho"
     ],
     "A50796-e108050": [
-      "disambiguate"
+      "eugenia",
+      "pretiosa",
+      "christiana",
+      "cardochia",
+      "alvarez",
+      "carlo",
+      "antonio"
     ],
     "A50796-e108070": [
       "sancho"
@@ -1221,7 +1226,10 @@
       "sancho"
     ],
     "A50796-e112350": [
-      "disambiguate"
+      "alvarez", 
+      "eugenia", 
+      "pretiosa", 
+      "gipsies"
     ],
     "A50796-e112370": [
       "pretiosa"
@@ -1269,13 +1277,21 @@
       "lewys"
     ],
     "A50796-e113280": [
-      "disambiguate"
+      "fernando",
+      "john",
+      "maria",
+      "francisco",
+      "diego"
     ],
     "A50796-e113300": [
       "fernando"
     ],
     "A50796-e113360": [
-      "disambiguate"
+      "lewys",
+      "john",
+      "maria",
+      "francisco",
+      "diego"
     ],
     "A50796-e113380": [
       "fernando"
@@ -1290,7 +1306,11 @@
       "fernando"
     ],
     "A50796-e113530": [
-      "disambiguate"
+      "lewys",
+      "john",
+      "maria",
+      "francisco",
+      "diego"
     ],
     "A50796-e113550": [
       "lewys"
@@ -1302,13 +1322,22 @@
       "alvarez"
     ],
     "A50796-e113700": [
-      "disambiguate"
+      "fernando",
+      "john",
+      "maria",
+      "francisco",
+      "diego",
+      "lewys"
     ],
     "A50796-e113720": [
       "lewys"
     ],
     "A50796-e113780": [
-      "disambiguate"
+      "fernando",
+      "john",
+      "maria",
+      "francisco",
+      "diego"
     ],
     "A50796-e113800": [
       "fernando"
@@ -1338,7 +1367,11 @@
       "soto"
     ],
     "A50796-e114150": [
-      "disambiguate"
+      "fernando",
+      "john",
+      "maria",
+      "francisco",
+      "diego"
     ],
     "A50796-e114170": [
       "francisco"
@@ -1374,7 +1407,7 @@
       "soto"
     ],
     "A50796-e114860": [
-      "disambiguate"
+      "gipsies"
     ],
     "A50796-e114880": [
       "pedro"
@@ -1446,7 +1479,16 @@
       "francisco"
     ],
     "A50796-e115580": [
-      "disambiguate"
+      "alvarez",
+      "eugenia",
+      "pretiosa",
+      "roderigo",
+      "sancho",
+      "soto",
+      "fernando",
+      "lewys",
+      "maria",
+      "pedro"
     ],
     "A50796-e115600": [
       "lewys"
@@ -1802,7 +1844,15 @@
       "john"
     ],
     "A50796-e119990": [
-      "disambiguate"
+      "alvarez",
+      "sancho",
+      "soto",
+      "antonio",
+      "carlo",
+      "eugenia",
+      "pretiosa",
+      "christiana",
+      "john"
     ],
     "A50796-e120010": [
       "sancho"
@@ -1862,19 +1912,43 @@
       "sancho"
     ],
     "A50796-e120500": [
-      "disambiguate"
+      "alvarez",
+      "soto",
+      "antonio",
+      "carlo",
+      "eugenia",
+      "pretiosa",
+      "christiana",
+      "john",
+      "gipsies"
     ],
     "A50796-e120550": [
       "alvarez"
     ],
     "A50796-e120640": [
-      "disambiguate"
+      "sancho",
+      "soto",
+      "antonio",
+      "carlo",
+      "eugenia",
+      "pretiosa",
+      "christiana",
+      "john",
+      "gipsies"
     ],
     "A50796-e120670": [
       "john"
     ],
     "A50796-e120700": [
-      "disambiguate"
+      "sancho",
+      "soto",
+      "antonio",
+      "carlo",
+      "eugenia",
+      "pretiosa",
+      "christiana",
+      "john",
+      "gipsies"
     ],
     "A50796-e120720": [
       "eugenia"
@@ -1898,7 +1972,14 @@
       "john"
     ],
     "A50796-e121020": [
-      "disambiguate"
+      "sancho",
+      "soto",
+      "antonio",
+      "carlo",
+      "eugenia",
+      "pretiosa",
+      "christiana",
+      "gipsies"
     ],
     "A50796-e121050": [
       "alvarez"
@@ -1946,153 +2027,115 @@
       "sancho"
     ],
     "A50796-e121720": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e121740": [
       "soto"
     ],
     "A50796-e121760": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e121800": [
       "soto"
     ],
     "A50796-e121820": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e121840": [
       "soto"
     ],
     "A50796-e121870": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e121920": [
       "john"
     ],
     "A50796-e121940": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e121960": [
       "john"
     ],
     "A50796-e121980": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122000": [
       "john"
     ],
     "A50796-e122040": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122080": [
       "john"
     ],
     "A50796-e122100": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122140": [
       "john"
     ],
     "A50796-e122160": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122250": [
       "john"
     ],
     "A50796-e122300": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122330": [
       "john"
     ],
     "A50796-e122380": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122430": [
       "john"
     ],
     "A50796-e122480": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122510": [
       "john"
     ],
     "A50796-e122530": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122590": [
       "john"
     ],
     "A50796-e122610": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122630": [
       "john"
     ],
     "A50796-e122670": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122720": [
       "diego"
     ],
     "A50796-e122740": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122760": [
       "diego"
     ],
     "A50796-e122800": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122820": [
       "diego"
     ],
     "A50796-e122840": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122880": [
       "diego"
     ],
     "A50796-e122900": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e122930": [
       "diego"
@@ -2305,7 +2348,13 @@
       "fernando"
     ],
     "A50796-e125150": [
-      "disambiguate"
+      "francisco",
+      "pedro",
+      "diego",
+      "maria",
+      "clara",
+      "alvarez",
+      "soto
     ],
     "A50796-e125180": [
       "soto"
@@ -2564,7 +2613,13 @@
       "fernando"
     ],
     "A50796-e127310": [
-      "disambiguate"
+      "francisco",
+      "pedro",
+      "diego",
+      "maria",
+      "clara",
+      "sancho",
+      "alvarez"
     ],
     "A50796-e127340": [
       "fernando"
@@ -2842,9 +2897,7 @@
       "john"
     ],
     "A50796-e130750": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e130790": [
       "john"
@@ -2883,9 +2936,7 @@
       "john"
     ],
     "A50796-e131270": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e131300": [
       "pretiosa"
@@ -3149,9 +3200,7 @@
       "lewys"
     ],
     "A50796-e134490": [
-      "carlo",
-      "cardochia",
-      "disambiguate"
+      "cardochia"
     ],
     "A50796-e134520": [
       "diego"
@@ -3166,7 +3215,18 @@
       "lewys"
     ],
     "A50796-e134610": [
-      "disambiguate"
+      "diego",
+      "sancho",
+      "soto",
+      "cardocha",
+      "francisco",
+      "pedro",
+      "maria",
+      "roderigo",
+      "clara",
+      "john",
+      "pretiosa",
+      "fernando"
     ],
     "A50796-e134630": [
       "alvarez"
@@ -3196,7 +3256,17 @@
       "fernando"
     ],
     "A50796-e134930": [
-      "disambiguate"
+      "alvarez",
+      "lewys",
+      "diego",
+      "sancho",
+      "soto",
+      "cardocha",
+      "francisco",
+      "pedro",
+      "maria",
+      "roderigo",
+      "clara"
     ],
     "A50796-e134950": [
       "pedro"

@@ -7,9 +7,10 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Soldiers",
+      "id": "soldiers",
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "virolet",
@@ -995,7 +996,10 @@
       "sesse"
     ],
     "A27177-e112270": [
-      "disambiguate"
+      "martia",
+      "master",
+      "boatswain",
+      "gunner"
     ],
     "A27177-e112320": [
       "sailor-1"
@@ -1373,7 +1377,11 @@
       "sesse"
     ],
     "A27177-e116920": [
-      "disambiguate"
+      "master",
+      "boatswain",
+      "gunner",
+      "sailor-1",
+      "sailor-2"
     ],
     "A27177-e116980": [
       "ronvere"
@@ -2924,7 +2932,9 @@
       "sesse"
     ],
     "A27177-e138740": [
-      "disambiguate"
+      "boatswain",
+      "castruchio",
+      "gunner"
     ],
     "A27177-e138780": [
       "juliana"
@@ -3029,7 +3039,11 @@
       "sesse"
     ],
     "A27177-e141020": [
-      "disambiguate"
+      "boatswain",
+      "master",
+      "gunner",
+      "citizens",
+      "soldiers"
     ],
     "A27177-e141040": [
       "sesse"
@@ -3164,7 +3178,11 @@
       "sesse"
     ],
     "A27177-e143280": [
-      "disambiguate"
+      "citizens",
+      "master",
+      "boatswain",
+      "gunner",
+      "soldiers"
     ],
     "A27177-e143300": [
       "sesse"

@@ -13,11 +13,6 @@
       "sex": "UNKNOWN"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "archimagus",
       "name": "Archimagus",
       "isGroup": false,
@@ -146,37 +141,37 @@
   ],
   "speeches": {
     "A12151-e100690": [
-      "disambiguate"
+      "magician-1"
     ],
     "A12151-e100710": [
-      "disambiguate"
+      "magician-2"
     ],
     "A12151-e100730": [
       "archimagus"
     ],
     "A12151-e100840": [
-      "disambiguate"
+      "magician-1"
     ],
     "A12151-e100890": [
       "archimagus"
     ],
     "A12151-e100950": [
-      "disambiguate"
+      "magician-2"
     ],
     "A12151-e101020": [
-      "disambiguate"
+      "magician-1"
     ],
     "A12151-e101070": [
       "archimagus"
     ],
     "A12151-e101230": [
-      "disambiguate"
+      "magician-1"
     ],
     "A12151-e101270": [
-      "disambiguate"
+      "magician-2"
     ],
     "A12151-e101310": [
-      "disambiguate"
+      "magician-1"
     ],
     "A12151-e101350": [
       "archimagus"
@@ -242,10 +237,10 @@
       "leogarius"
     ],
     "A12151-e102890": [
-      "disambiguate"
+      "spirit-1"
     ],
     "A12151-e102910": [
-      "disambiguate"
+      "spirit-2"
     ],
     "A12151-e102930": [
       "spirit-3"
@@ -263,16 +258,18 @@
       "archimagus"
     ],
     "A12151-e103050": [
-      "disambiguate"
+      "spirit-1"
     ],
     "A12151-e103070": [
-      "disambiguate"
+      "spirit-2"
     ],
     "A12151-e103090": [
       "spirit-3"
     ],
     "A12151-e103110": [
-      "disambiguate"
+      "spirit-1",
+      "spirit-2",
+      "spirit-3"
     ],
     "A12151-e103150": [
       "leogarius"
@@ -1965,7 +1962,7 @@
       "soldier-1"
     ],
     "A12151-e127810": [
-      "disambiguate"
+      "soldier-2"
     ],
     "A12151-e127840": [
       "rodamant"
@@ -2064,10 +2061,10 @@
       "soldier-2"
     ],
     "A12151-e128560": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A12151-e128580": [
-      "disambiguate"
+      "soldier-2"
     ],
     "A12151-e128610": [
       "rodamant"
@@ -2317,7 +2314,10 @@
       "ferochus"
     ],
     "A12151-e133690": [
-      "disambiguate"
+      "endarius",
+      "ferochus",
+      "leogarius",
+      "king
     ],
     "A12151-e133710": [
       "patrick"

@@ -7,9 +7,34 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Old man 2",
+      "id": "old-man-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Old man 3",
+      "id": "old-man-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Theban 1",
+      "id": "theban-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Theban 2",
+      "id": "theban-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Theban 3",
+      "id": "theban-3",
+      "isGroup": false,
+      "sex": "MALE"
     },
     {
       "id": "oedipus",
@@ -347,19 +372,19 @@
       "antigone"
     ],
     "A07329-e106490": [
-      "disambiguate"
+      "theban-1"
     ],
     "A07329-e106660": [
-      "chorus"
+      "theban-2"
     ],
     "A07329-e106810": [
-      "disambiguate"
+      "theban-3"
     ],
     "A07329-e106980": [
-      "disambiguate"
+      "theban-1"
     ],
     "A07329-e107010": [
-      "disambiguate"
+      "theban-2"
     ],
     "A07329-e107040": [
       "aemon"
@@ -452,46 +477,46 @@
       "creon"
     ],
     "A07329-e109940": [
-      "disambiguate"
+      "hagg-1"
     ],
     "A07329-e110110": [
-      "disambiguate"
+      "hagg-2"
     ],
     "A07329-e110300": [
-      "disambiguate"
+      "hagg-1"
     ],
     "A07329-e110380": [
-      "disambiguate"
+      "hagg-3"
     ],
     "A07329-e110480": [
       "creon"
     ],
     "A07329-e110630": [
-      "disambiguate"
+      "hagg-3"
     ],
     "A07329-e110670": [
-      "disambiguate"
+      "hagg-1"
     ],
     "A07329-e110840": [
-      "disambiguate"
+      "hagg-3"
     ],
     "A07329-e110970": [
-      "disambiguate"
+      "hagg-2"
     ],
     "A07329-e111000": [
-      "disambiguate"
+      "hagg-1"
     ],
     "A07329-e111140": [
-      "disambiguate"
+      "hagg-2"
     ],
     "A07329-e111160": [
-      "disambiguate"
+      "hagg-3"
     ],
     "A07329-e111280": [
-      "disambiguate"
+      "hagg-1"
     ],
     "A07329-e111300": [
-      "disambiguate"
+      "hagg-3"
     ],
     "A07329-e111340": [
       "creon"
@@ -500,7 +525,7 @@
       "ianthus"
     ],
     "A07329-e111440": [
-      "disambiguate"
+      "hagg-3"
     ],
     "A07329-e111730": [
       "ianthus"
@@ -647,25 +672,25 @@
       "old-man-1"
     ],
     "A07329-e115700": [
-      "disambiguate"
+      "old-man-2"
     ],
     "A07329-e115760": [
-      "disambiguate"
+      "old-man-3"
     ],
     "A07329-e115840": [
-      "disambiguate"
+      "old-man-1"
     ],
     "A07329-e115900": [
-      "disambiguate"
+      "old-man-2"
     ],
     "A07329-e115980": [
-      "disambiguate"
+      "old-man-3"
     ],
     "A07329-e116050": [
-      "disambiguate"
+      "old-man-1"
     ],
     "A07329-e116180": [
-      "disambiguate"
+      "old-man-1"
     ],
     "A07329-e116330": [
       "dircus"

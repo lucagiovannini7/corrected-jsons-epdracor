@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "cockbrain",
       "name": "Cockbrain",
       "isGroup": false,
@@ -1471,7 +1466,9 @@
       "captain"
     ],
     "A77567_03-e112430": [
-      "disambiguate"
+      "clotpoll",
+      "anthony",
+      "nicholas"
     ],
     "A77567_03-e112450": [
       "cockbrain"
@@ -3206,7 +3203,12 @@
       "crossewill"
     ],
     "A77567_03-e125340": [
-      "disambiguate"
+      "crossewill",
+      "rooksbill"
+      "anthony",
+      "madge"
+      "katharine",
+      "parson"
     ],
     "A77567_03-e125360": [
       "crossewill"
@@ -3215,7 +3217,9 @@
       "parson"
     ],
     "A77567_03-e125400": [
-      "anthony"
+      "anthony",
+      "madge",
+      "katherine"
     ],
     "A77567_03-e125420": [
       "crossewill"
@@ -3423,7 +3427,10 @@
       "gabriel"
     ],
     "A77567_03-e126880": [
-      "disambiguate"
+      "clotpoll",
+      "nicholas",
+      "anthony",
+      "captain"
     ],
     "A77567_03-e126900": [
       "clotpoll"
@@ -3432,13 +3439,19 @@
       "gabriel"
     ],
     "A77567_03-e126960": [
-      "disambiguate"
+      "clotpoll",
+      "nicholas",
+      "anthony",
+      "captain"
     ],
     "A77567_03-e126980": [
       "gabriel"
     ],
     "A77567_03-e127000": [
-      "disambiguate"
+      "clotpoll",
+      "nicholas",
+      "anthony",
+      "captain"
     ],
     "A77567_03-e127020": [
       "clotpoll"
@@ -3450,7 +3463,10 @@
       "nicholas"
     ],
     "A77567_03-e127080": [
-      "disambiguate"
+      "clotpoll",
+      "nicholas",
+      "anthony",
+      "captain"
     ],
     "A77567_03-e127110": [
       "crossewill"
@@ -3705,7 +3721,14 @@
       "crossewill"
     ],
     "A77567_03-e129020": [
-      "disambiguate"
+      "nickholas",
+      "dorcas",
+      "anthony",
+      "katherine",
+      "lucie",
+      "cockbrain",
+      "madge",
+      "citizen"
     ],
     "A77567_03-e129040": [
       "crossewill"

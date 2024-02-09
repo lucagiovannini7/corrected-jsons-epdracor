@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Recorder 2",
       "id": "recorder-2",
       "isGroup": false,
@@ -34,6 +29,18 @@
       "id": "women",
       "isGroup": true,
       "sex": "FEMALE"
+    },
+    {
+      "name": "Wildbrain's Friend 2",
+      "id": "wildbrain-friend-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Wildbrain's Friend 1",
+      "id": "wildbrain-friend-1",
+      "isGroup": false,
+      "sex": "MALE"
     },
     {
       "name": "Gentlewoman 2",
@@ -230,22 +237,22 @@
       "wildbrain"
     ],
     "A00966-e101730": [
-      "disambiguate"
+      "wildbrain-friend-1"
     ],
     "A00966-e101770": [
-      "disambiguate"
+      "wildbrain-friend-2"
     ],
     "A00966-e101820": [
       "wildbrain"
     ],
     "A00966-e101870": [
-      "disambiguate"
+      "wildbrain-friend-1"
     ],
     "A00966-e101890": [
       "wildbrain"
     ],
     "A00966-e101970": [
-      "disambiguate"
+      "wildbrain-friend-1"
     ],
     "A00966-e102020": [
       "hartlove"
@@ -266,10 +273,10 @@
       "wildbrain"
     ],
     "A00966-e102180": [
-      "disambiguate"
+      "wildbrain-friend-1"
     ],
     "A00966-e102220": [
-      "disambiguate"
+      "wildbrain-friend-2"
     ],
     "A00966-e102240": [
       "wildbrain"
@@ -563,22 +570,22 @@
       "mrs-newlove"
     ],
     "A00966-e106140": [
-      "disambiguate"
+      "gentlewoman-1"
     ],
     "A00966-e106160": [
-      "disambiguate"
+      "gentlewoman-2"
     ],
     "A00966-e106180": [
-      "disambiguate"
+      "gentlewoman-1"
     ],
     "A00966-e106210": [
-      "disambiguate"
+      "gentlewoman-2"
     ],
     "A00966-e106250": [
       "maria"
     ],
     "A00966-e106270": [
-      "disambiguate"
+      "gentlewoman-1"
     ],
     "A00966-e106310": [
       "justice-algrip"
@@ -738,10 +745,10 @@
       "wildbrain"
     ],
     "A00966-e107900": [
-      "disambiguate"
+      "gentlewoman-1"
     ],
     "A00966-e107920": [
-      "disambiguate"
+      "gentlewoman-2"
     ],
     "A00966-e107940": [
       "justice-algrip"
@@ -768,10 +775,10 @@
       "justice-algrip"
     ],
     "A00966-e108290": [
-      "disambiguate"
+      "gentlewoman-1"
     ],
     "A00966-e108310": [
-      "disambiguate"
+      "gentlewoman-2"
     ],
     "A00966-e108330": [
       "maria"
@@ -789,7 +796,7 @@
       "nurse"
     ],
     "A00966-e108470": [
-      "disambiguate"
+      "gentlewoman-1"
     ],
     "A00966-e108490": [
       "justice-algrip"
@@ -1783,88 +1790,88 @@
       "lady"
     ],
     "A00966-e120400": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e120420": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e120480": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e120500": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e120520": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e120560": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e120580": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e120680": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e120720": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e120750": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e120770": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e120790": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e120830": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e120860": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e120880": [
       "justice-algrip"
     ],
     "A00966-e120950": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e121000": [
       "justice-algrip"
     ],
     "A00966-e121030": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e121050": [
       "justice-algrip"
     ],
     "A00966-e121130": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e121150": [
       "justice-algrip"
     ],
     "A00966-e121190": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e121210": [
       "justice-algrip"
     ],
     "A00966-e121260": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e121280": [
       "justice-algrip"
     ],
     "A00966-e121330": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e121350": [
       "justice-algrip"
     ],
     "A00966-e121410": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e121440": [
       "justice-algrip"
@@ -1924,7 +1931,7 @@
       "lady"
     ],
     "A00966-e122040": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e122060": [
       "maria"
@@ -1966,13 +1973,13 @@
       "lady"
     ],
     "A00966-e122370": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e122390": [
       "hartlove"
     ],
     "A00966-e122430": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e122450": [
       "maria"
@@ -2005,10 +2012,10 @@
       "hartlove"
     ],
     "A00966-e122770": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e122790": [
-      "disambiguate"
+      "servant-2"
     ],
     "A00966-e122810": [
       "hartlove"
@@ -2038,7 +2045,7 @@
       "hartlove"
     ],
     "A00966-e123090": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e123110": [
       "hartlove"
@@ -2059,7 +2066,7 @@
       "hartlove"
     ],
     "A00966-e123330": [
-      "disambiguate"
+      "servant-1"
     ],
     "A00966-e123350": [
       "hartlove"
@@ -2549,46 +2556,46 @@
       "justice-algrip"
     ],
     "A00966-e128930": [
-      "disambiguate"
+      "fury-1"
     ],
     "A00966-e128970": [
       "justice-algrip"
     ],
     "A00966-e128990": [
-      "disambiguate"
+      "fury-1"
     ],
     "A00966-e129020": [
-      "disambiguate"
+      "fury-2"
     ],
     "A00966-e129040": [
-      "disambiguate"
+      "fury-1"
     ],
     "A00966-e129060": [
-      "disambiguate"
+      "fury-2"
     ],
     "A00966-e129090": [
-      "disambiguate"
+      "fury-2"
     ],
     "A00966-e129120": [
-      "disambiguate"
+      "fury-1"
     ],
     "A00966-e129160": [
       "justice-algrip"
     ],
     "A00966-e129180": [
-      "disambiguate"
+      "fury-1"
     ],
     "A00966-e129320": [
       "justice-algrip"
     ],
     "A00966-e129340": [
-      "disambiguate"
+      "fury-2"
     ],
     "A00966-e129360": [
       "justice-algrip"
     ],
     "A00966-e129400": [
-      "disambiguate"
+      "fury-1"
     ],
     "A00966-e129430": [
       "justice-algrip"

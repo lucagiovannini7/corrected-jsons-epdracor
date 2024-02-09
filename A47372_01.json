@@ -7,11 +7,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Soldiers",
       "id": "soldiers",
       "isGroup": true,
@@ -55,7 +50,7 @@
     },
     {
       "id": "cilius",
-      "name": "Cilius",
+      "name": "Lucius/Cilius",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -701,7 +696,9 @@
       "soldier-3"
     ],
     "A47372-e104410": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e104430": [
       "soldier-3"
@@ -2823,13 +2820,17 @@
       "lieutenant"
     ],
     "A47372-e120540": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e120560": [
       "lieutenant"
     ],
     "A47372-e120580": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e120600": [
       "lieutenant"
@@ -2841,7 +2842,9 @@
       "lieutenant"
     ],
     "A47372-e120660": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e120680": [
       "lieutenant"
@@ -2853,34 +2856,50 @@
       "lieutenant"
     ],
     "A47372-e120780": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e120980": [
       "bacchus"
     ],
     "A47372-e121010": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e121210": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e121260": [
       "bacchus"
     ],
     "A47372-e121300": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e121510": [
       "bacchus"
     ],
     "A47372-e121550": [
-      "disambiguate"
+      "bacchus",
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e121780": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e121820": [
-      "bacchus"
+      "bacchus",
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e121880": [
       "soldier-1"
@@ -2922,7 +2941,10 @@
       "cilius"
     ],
     "A47372-e122180": [
-      "disambiguate"
+      "liutenant",
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e122200": [
       "cilius"
@@ -2940,13 +2962,18 @@
       "tullius"
     ],
     "A47372-e122320": [
-      "disambiguate"
+      "liutenant",
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e122340": [
       "tullius"
     ],
     "A47372-e122360": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2",
+      "soldier-3"
     ],
     "A47372-e122380": [
       "tullius"

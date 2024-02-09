@@ -43,9 +43,40 @@
       "sex": "UNKNOWN"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Tangle's petitioner 1",
+      "id": "petitioner-tangle-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tangle's petitioner 2",
+      "id": "petitioner-tangle-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tangle's petitioner 3",
+      "id": "petitioner-tangle-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Tangle's petitioner 4",
+      "id": "petitioner-tangle-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Falso's petitioner",
+      "id": "petitioner-falso",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Whin",
+      "id": "whin",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "name": "Soldier 3",
@@ -377,82 +408,82 @@
       "fidelio"
     ],
     "A07507-e102240": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102260": [
-      "disambiguate"
+      "soldier-2"
     ],
     "A07507-e102280": [
-      "disambiguate"
+      "soldier-3"
     ],
     "A07507-e102300": [
       "captain"
     ],
     "A07507-e102320": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102340": [
       "captain"
     ],
     "A07507-e102360": [
-      "disambiguate"
+      "soldier-2"
     ],
     "A07507-e102380": [
-      "disambiguate"
+      "soldier-3"
     ],
     "A07507-e102400": [
       "captain"
     ],
     "A07507-e102420": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102440": [
       "captain"
     ],
     "A07507-e102460": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102480": [
       "captain"
     ],
     "A07507-e102500": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102520": [
       "captain"
     ],
     "A07507-e102540": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102560": [
-      "disambiguate"
+      "soldier-2"
     ],
     "A07507-e102580": [
-      "disambiguate"
+      "soldier-3"
     ],
     "A07507-e102600": [
       "captain"
     ],
     "A07507-e102620": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102640": [
       "captain"
     ],
     "A07507-e102660": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102680": [
       "captain"
     ],
     "A07507-e102700": [
-      "disambiguate"
+      "soldier-2"
     ],
     "A07507-e102720": [
       "captain"
     ],
     "A07507-e102740": [
-      "disambiguate"
+      "soldier-1"
     ],
     "A07507-e102770": [
       "captain"
@@ -626,7 +657,7 @@
       "phoenix"
     ],
     "A07507-e104200": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104220": [
       "tangle"
@@ -656,67 +687,67 @@
       "tangle"
     ],
     "A07507-e104400": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104420": [
       "tangle"
     ],
     "A07507-e104440": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104460": [
       "tangle"
     ],
     "A07507-e104480": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104500": [
       "tangle"
     ],
     "A07507-e104520": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104540": [
       "tangle"
     ],
     "A07507-e104560": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104580": [
       "tangle"
     ],
     "A07507-e104600": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104620": [
       "tangle"
     ],
     "A07507-e104640": [
-      "disambiguate"
+      "petitioner-tangle-1"
     ],
     "A07507-e104660": [
       "tangle"
     ],
     "A07507-e104680": [
-      "disambiguate"
+      "petitioner-tangle-2"
     ],
     "A07507-e104700": [
       "tangle"
     ],
     "A07507-e104720": [
-      "disambiguate"
+      "petitioner-tangle-2"
     ],
     "A07507-e104740": [
       "tangle"
     ],
     "A07507-e104760": [
-      "disambiguate"
+      "petitioner-tangle-2"
     ],
     "A07507-e104780": [
       "tangle"
     ],
     "A07507-e104800": [
-      "disambiguate"
+      "petitioner-tangle-2"
     ],
     "A07507-e104820": [
       "phoenix"
@@ -971,55 +1002,55 @@
       "knight"
     ],
     "A07507-e106950": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e106970": [
       "falso"
     ],
     "A07507-e107000": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107020": [
       "falso"
     ],
     "A07507-e107040": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107060": [
       "falso"
     ],
     "A07507-e107080": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107100": [
       "falso"
     ],
     "A07507-e107120": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107140": [
       "falso"
     ],
     "A07507-e107160": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107180": [
       "falso"
     ],
     "A07507-e107200": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107220": [
       "falso"
     ],
     "A07507-e107240": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107260": [
       "falso"
     ],
     "A07507-e107280": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107300": [
       "falso"
@@ -1031,7 +1062,7 @@
       "falso"
     ],
     "A07507-e107360": [
-      "disambiguate"
+      "petitioner-falso"
     ],
     "A07507-e107390": [
       "falso"
@@ -1769,13 +1800,13 @@
       "tangle"
     ],
     "A07507-e113750": [
-      "disambiguate"
+      "whin"
     ],
     "A07507-e113770": [
       "tangle"
     ],
     "A07507-e113790": [
-      "disambiguate"
+      "whin"
     ],
     "A07507-e113810": [
       "tangle"
@@ -2516,25 +2547,25 @@
       "tangle"
     ],
     "A07507-e119310": [
-      "disambiguate"
+      "petitioner-tangle-3"
     ],
     "A07507-e119330": [
       "tangle"
     ],
     "A07507-e119350": [
-      "disambiguate"
+      "petitioner-tangle-3"
     ],
     "A07507-e119370": [
       "tangle"
     ],
     "A07507-e119390": [
-      "disambiguate"
+      "petitioner-tangle-3"
     ],
     "A07507-e119410": [
       "tangle"
     ],
     "A07507-e119430": [
-      "disambiguate"
+      "petitioner-tangle-4"
     ],
     "A07507-e119450": [
       "tangle"
@@ -2616,25 +2647,25 @@
       "phoenix"
     ],
     "A07507-e120000": [
-      "disambiguate"
+      "man-1"
     ],
     "A07507-e120030": [
       "tangle"
     ],
     "A07507-e120050": [
-      "disambiguate"
+      "man-1"
     ],
     "A07507-e120070": [
       "tangle"
     ],
     "A07507-e120090": [
-      "disambiguate"
+      "man-2"
     ],
     "A07507-e120120": [
       "tangle"
     ],
     "A07507-e120140": [
-      "disambiguate"
+      "man-2"
     ],
     "A07507-e120160": [
       "tangle"
@@ -2664,7 +2695,7 @@
       "tangle"
     ],
     "A07507-e120370": [
-      "disambiguate"
+      "man-1"
     ],
     "A07507-e120390": [
       "phoenix"
@@ -2790,10 +2821,10 @@
       "officer-1"
     ],
     "A07507-e121530": [
-      "disambiguate"
+      "officer-2"
     ],
     "A07507-e121550": [
-      "disambiguate"
+      "officer-1"
     ],
     "A07507-e121580": [
       "quicto"

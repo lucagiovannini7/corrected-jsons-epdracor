@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "king",
       "name": "King",
       "isGroup": false,
@@ -166,48 +161,20 @@
     "A11145-e100940": [
       "king"
     ],
-    "A11145-e101130": [
-      "disambiguate"
-    ],
-    "A11145-e101150": [
-      "disambiguate"
-    ],
-    "A11145-e101170": [
-      "disambiguate"
-    ],
-    "A11145-e101190": [
-      "disambiguate"
-    ],
-    "A11145-e101210": [
-      "disambiguate"
-    ],
-    "A11145-e101230": [
-      "disambiguate"
-    ],
-    "A11145-e101250": [
-      "disambiguate"
-    ],
-    "A11145-e101270": [
-      "disambiguate"
-    ],
-    "A11145-e101290": [
-      "disambiguate"
-    ],
-    "A11145-e101310": [
-      "disambiguate"
-    ],
-    "A11145-e101330": [
-      "disambiguate"
-    ],
-    "A11145-e101350": [
-      "disambiguate"
-    ],
-    "A11145-e101390": [
-      "disambiguate"
-    ],
-    "A11145-e101410": [
-      "disambiguate"
-    ],
+    "A11145-e101130": [],
+    "A11145-e101150": [],
+    "A11145-e101170": [],
+    "A11145-e101190": [],
+    "A11145-e101210": [],
+    "A11145-e101230": [],
+    "A11145-e101250": [],
+    "A11145-e101270": [],
+    "A11145-e101290": [],
+    "A11145-e101310": [],
+    "A11145-e101330": [],
+    "A11145-e101350": [],
+    "A11145-e101390": [],
+    "A11145-e101410": [],
     "A11145-e101450": [
       "cornego"
     ],
@@ -575,7 +542,10 @@
       "king"
     ],
     "A11145-e105850": [
-      "disambiguate"
+      "alanzo",
+      "carlo",
+      "cockadillo",
+      "baltazar"
     ],
     "A11145-e105870": [
       "king"
@@ -653,7 +623,7 @@
       "king"
     ],
     "A11145-e106460": [
-      "disambiguate"
+      "guards"
     ],
     "A11145-e106480": [
       "king"
@@ -683,7 +653,10 @@
       "king"
     ],
     "A11145-e106900": [
-      "disambiguate"
+      "rodrigo",
+      "alba",
+      "daenia",
+      "valasco
     ],
     "A11145-e106920": [
       "daenia"
@@ -1123,7 +1096,12 @@
       "onaelia"
     ],
     "A11145-e112360": [
-      "disambiguate"
+      "medina", 
+      "alanzo",
+      "carlo",
+      "alba",
+      "sebastian",
+      "daenia"
     ],
     "A11145-e112380": [
       "sebastian"
@@ -1452,7 +1430,10 @@
       "baltazar"
     ],
     "A11145-e115710": [
-      "disambiguate"
+      "medina",
+      "alba",
+      "carlo",
+      "daenia"
     ],
     "A11145-e115730": [
       "baltazar"
@@ -1512,7 +1493,10 @@
       "medina"
     ],
     "A11145-e116610": [
-      "disambiguate"
+      "medina",
+      "alba",
+      "carlo",
+      "daenia"
     ],
     "A11145-e116630": [
       "medina"
@@ -2106,7 +2090,9 @@
       "medina"
     ],
     "A11145-e122790": [
-      "disambiguate"
+      "alba",
+      "carlo",
+      "daenia"
     ],
     "A11145-e122810": [
       "baltazar"
@@ -2283,7 +2269,10 @@
       "king"
     ],
     "A11145-e124810": [
-      "disambiguate"
+      "medina",
+      "alba",
+      "carlo",
+      "daenia"
     ],
     "A11145-e124840": [
       "malateste"
@@ -2379,7 +2368,11 @@
       "king"
     ],
     "A11145-e125790": [
-      "disambiguate"
+      "medina",
+      "alba",
+      "carlo",
+      "daenia",
+      "baltazar"
     ],
     "A11145-e125810": [
       "onaelia"

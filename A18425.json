@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Salvius",
       "id": "salvius",
       "isGroup": false,
@@ -78,14 +73,14 @@
       "sex": "MALE"
     },
     {
-      "name": "Constable 2",
-      "id": "constable-2",
+      "name": "consul 2",
+      "id": "consul-2",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "name": "Constable 1",
-      "id": "constable-1",
+      "name": "consul 1",
+      "id": "consul-1",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -440,7 +435,7 @@
       "antony"
     ],
     "A18425-e103830": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e103860": [
       "antony"
@@ -448,7 +443,6 @@
     "A18425-e103880": [
       "metellus",
       "cato",
-      "pompey",
       "man-1",
       "man-2",
       "man-3",
@@ -456,6 +450,7 @@
       "man-5",
       "man-6",
       "gabinius",
+      "demetrius",
       "vibius",
       "minutius",
       "athenodorus",
@@ -465,16 +460,48 @@
       "senators"
     ],
     "A18425-e103900": [
-      "constable-2"
+      "consul-2"
     ],
     "A18425-e103920": [
-      "disambiguate"
+	  "metellus",
+      "cato",
+      "man-1",
+      "man-2",
+      "man-3",
+      "man-4",
+      "man-5",
+      "man-6",
+      "gabinius",
+      "demetrius",
+      "vibius",
+      "minutius",
+      "athenodorus",
+      "statilius",
+      "porcius",
+      "people",
+      "senators"
     ],
     "A18425-e103940": [
       "antony"
     ],
     "A18425-e103980": [
-      "disambiguate"
+	  "metellus",
+      "cato",
+      "man-1",
+      "man-2",
+      "man-3",
+      "man-4",
+      "man-5",
+      "man-6",
+      "demetrius",
+      "gabinius",
+      "vibius",
+      "minutius",
+      "athenodorus",
+      "statilius",
+      "porcius",
+      "people",
+      "senators"
     ],
     "A18425-e104000": [
       "metellus"
@@ -504,7 +531,7 @@
       "pompey"
     ],
     "A18425-e104250": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e104280": [
       "pompey"
@@ -534,10 +561,10 @@
       "caesar"
     ],
     "A18425-e105190": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e105220": [
-      "constable-2"
+      "consul-2"
     ],
     "A18425-e105250": [
       "ruffians"
@@ -853,10 +880,10 @@
       "gabinius"
     ],
     "A18425-e110960": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e111010": [
-      "constable-2"
+      "consul-2"
     ],
     "A18425-e111080": [
       "pompey"
@@ -868,10 +895,10 @@
       "pompey"
     ],
     "A18425-e111310": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e111330": [
-      "constable-2"
+      "consul-2"
     ],
     "A18425-e111360": [
       "king-of-iberia"
@@ -892,7 +919,11 @@
       "pompey"
     ],
     "A18425-e111690": [
-      "disambiguate"
+      "king-of-iberia",
+      "king-of-thessaly",
+      "king-of-cilicia",
+      "king-of-epirus",
+      "king-of-thrace"
     ],
     "A18425-e111710": [
       "demetrius"
@@ -904,10 +935,10 @@
       "brutus"
     ],
     "A18425-e111800": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e111830": [
-      "constable-2"
+      "consul-2"
     ],
     "A18425-e111860": [
       "pompey"
@@ -925,7 +956,7 @@
       "caesar"
     ],
     "A18425-e112710": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e112740": [
       "brutus"
@@ -934,7 +965,7 @@
       "pompey"
     ],
     "A18425-e112800": [
-      "constable-2"
+      "consul-2"
     ],
     "A18425-e112830": [
       "king-of-thessaly"
@@ -1009,7 +1040,17 @@
       "pompey"
     ],
     "A18425-e113730": [
-      "disambiguate"
+      "vibius",
+      "consul-1",
+      "consul-2",
+      "king-of-iberia",
+      "king-of-thessaly",
+      "king-of-cilicia",
+      "king-of-epirus",
+      "king-of-thrace",
+      "brutus",
+      "gabinius",
+      "demetrius"
     ],
     "A18425-e113750": [
       "brutus"
@@ -1030,13 +1071,23 @@
       "pompey"
     ],
     "A18425-e114010": [
-      "constable-1"
+      "consul-1"
     ],
     "A18425-e114030": [
       "pompey"
     ],
     "A18425-e114050": [
-      "disambiguate"
+      "vibius",
+      "consul-1",
+      "consul-2",
+      "king-of-iberia",
+      "king-of-thessaly",
+      "king-of-cilicia",
+      "king-of-epirus",
+      "king-of-thrace",
+      "brutus",
+      "gabinius",
+      "demetrius"
     ],
     "A18425-e114070": [
       "pompey"
@@ -1054,13 +1105,17 @@
       "soothsayer"
     ],
     "A18425-e114710": [
-      "disambiguate"
+      "antony",
+      "crassinius",
+      "acilius"
     ],
     "A18425-e114730": [
       "soothsayer"
     ],
     "A18425-e114770": [
-      "disambiguate"
+      "antony",
+      "crassinius",
+      "acilius"
     ],
     "A18425-e114790": [
       "soothsayer"
@@ -1674,7 +1729,11 @@
       "lentulus-1"
     ],
     "A18425-e125300": [
-      "disambiguate"
+      "demetrius",
+      "lentulus-1",
+      "lentulus-2",
+      "septimius",
+      "cyris"
     ],
     "A18425-e125570": [
       "marcillius"
@@ -1798,7 +1857,9 @@
       "soldiers"
     ],
     "A18425-e128100": [
-      "disambiguate"
+      "achillas",
+      "septimius",
+      "salvius"
     ],
     "A18425-e128120": [
       "caesar"

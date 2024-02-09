@@ -61,11 +61,6 @@
       "sex": "FEMALE"
     },
     {
-      "id": "omnes",
-      "name": "Omnes",
-      "isGroup": true
-    },
-    {
       "id": "page",
       "name": "Page",
       "isGroup": false,
@@ -1597,7 +1592,14 @@
       "cornelio"
     ],
     "A18400-e125740": [
-      "omnes"
+      "rinaldo",
+      "claudio",
+      "dariotto",
+      "page",
+      "gazetta",
+      "bell",
+      "gratiana",
+      "valerio"
     ],
     "A18400-e125760": [
       "notary"
@@ -1618,13 +1620,27 @@
       "cornelio"
     ],
     "A18400-e125890": [
-      "omnes"
+      "rinaldo",
+      "claudio",
+      "dariotto",
+      "page",
+      "gazetta",
+      "bell",
+      "gratiana",
+      "valerio"
     ],
     "A18400-e125910": [
       "cornelio"
     ],
     "A18400-e125930": [
-      "omnes"
+      "rinaldo",
+      "claudio",
+      "dariotto",
+      "page",
+      "gazetta",
+      "bell",
+      "gratiana",
+      "valerio"
     ],
     "A18400-e125950": [
       "valerio"

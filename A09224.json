@@ -7,9 +7,10 @@
       "sex": "FEMALE"
     },
     {
-      "name": "Omnes",
-      "id": "omnes",
-      "isGroup": true
+      "name": "Courtiers",
+      "id": "courtiers",
+      "isGroup": true,
+      "sex": "UNKNOWN"
     },
     {
       "name": "Soldiers",
@@ -1680,13 +1681,13 @@
       "bishop"
     ],
     "A09224-e122250": [
-      "omnes"
+      "courtiers"
     ],
     "A09224-e122270": [
       "longshanks"
     ],
     "A09224-e122340": [
-      "omnes"
+      "courtiers"
     ],
     "A09224-e122390": [
       "longshanks"
@@ -1731,7 +1732,7 @@
       "longshanks"
     ],
     "A09224-e123010": [
-      "omnes"
+      "courtiers"
     ],
     "A09224-e123040": [
       "longshanks"

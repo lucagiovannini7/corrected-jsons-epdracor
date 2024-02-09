@@ -1,15 +1,16 @@
 {
   "particDesc": [
     {
+      "name": "Country Lasses",
+      "id": "country-lasses",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
       "name": "Spirits",
       "id": "spirits",
       "isGroup": true,
-      "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "sex": "UNKNOWN"
     },
     {
       "id": "arthur",
@@ -731,7 +732,10 @@
       "parnell"
     ],
     "A03258-e106660": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson"
     ],
     "A03258-e106720": [
       "meg"
@@ -761,7 +765,10 @@
       "meg"
     ],
     "A03258-e107160": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson"
     ],
     "A03258-e107180": [
       "meg"
@@ -776,7 +783,10 @@
       "gillian"
     ],
     "A03258-e107380": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson"
     ],
     "A03258-e107400": [
       "meg"
@@ -800,7 +810,10 @@
       "gillian"
     ],
     "A03258-e107740": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson"
     ],
     "A03258-e107760": [
       "meg"
@@ -1257,7 +1270,17 @@
       "seely"
     ],
     "A03258-e112750": [
-      "disambiguate"
+      "gregory",
+      "seely",
+      "joan"
+      "winny",
+      "arthur",
+      "shakstone",
+      "mall",
+      "spencer",
+      "bantam",
+      "whetstone"
+      "country-lasses"
     ],
     "A03258-e112770": [
       "lawrence"
@@ -1292,23 +1315,33 @@
     "A03258-e113080": [
       "joan"
     ],
-    "A03258-e113100": [],
+    "A03258-e113100": [
+      "doughty"
+    ],
     "A03258-e113120": [
       "parnell"
     ],
-    "A03258-e113150": [],
+    "A03258-e113150": [
+	  "whetstone"
+    ],
     "A03258-e113170": [
       "arthur"
     ],
     "A03258-e113190": [
       "bantam"
     ],
-    "A03258-e113210": [],
+    "A03258-e113210": [
+      "shakstone"
+    ],
     "A03258-e113230": [
       "doughty"
     ],
-    "A03258-e113250": [],
-    "A03258-e113270": [],
+    "A03258-e113250": [
+      "gregory"
+    ],
+    "A03258-e113270": [
+      "seely"
+    ],
     "A03258-e113290": [
       "doughty"
     ],
@@ -1322,7 +1355,14 @@
       "seely"
     ],
     "A03258-e113370": [
-      "disambiguate"
+      "gregory",
+      "winny",
+      "arthur",
+      "shakstone",
+      "mall",
+      "spencer",
+      "bantam",
+      "whetstone"
     ],
     "A03258-e113390": [
       "seely"
@@ -1445,7 +1485,13 @@
       "seely"
     ],
     "A03258-e114280": [
-      "disambiguate"
+      "gregory",
+      "lawrence",
+      "doughty",
+      "arthur",
+      "shakstone",
+      "bantam",
+      "whetstone"
     ],
     "A03258-e114300": [
       "doughty"
@@ -1616,7 +1662,11 @@
       "doughty"
     ],
     "A03258-e115630": [
-      "disambiguate"
+      "arthur",
+      "shakstone",
+      "bantam",
+      "whetstone",
+      "doughty"
     ],
     "A03258-e115650": [
       "arthur"
@@ -1770,7 +1820,13 @@
       "doughty"
     ],
     "A03258-e116730": [
-      "disambiguate"
+      "arthur",
+      "shakstone",
+      "bantam",
+      "whetstone",
+      "doughty",
+      "lawrence",
+      "parnell"
     ],
     "A03258-e116750": [
       "doughty"
@@ -1791,7 +1847,13 @@
       "doughty"
     ],
     "A03258-e116910": [
-      "disambiguate"
+      "arthur",
+      "shakstone",
+      "bantam",
+      "whetstone",
+      "doughty",
+      "lawrence",
+      "parnell"
     ],
     "A03258-e116930": [
       "doughty"
@@ -1829,7 +1891,13 @@
       "parnell"
     ],
     "A03258-e117140": [
-      "disambiguate"
+      "arthur",
+      "shakstone",
+      "bantam",
+      "whetstone",
+      "doughty",
+      "lawrence",
+      "parnell"
     ],
     "A03258-e117200": [
       "robin"
@@ -1847,7 +1915,11 @@
       "robin"
     ],
     "A03258-e117310": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson",
+      "mall"
     ],
     "A03258-e117330": [
       "mrs-generous"
@@ -1859,7 +1931,11 @@
       "mrs-generous"
     ],
     "A03258-e117410": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson",
+      "mall"
     ],
     "A03258-e117440": [
       "robin"
@@ -1877,7 +1953,10 @@
       "mall"
     ],
     "A03258-e117590": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson"
     ],
     "A03258-e117610": [
       "meg"
@@ -1904,7 +1983,11 @@
       "mall"
     ],
     "A03258-e117890": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson",
+      "mall"
     ],
     "A03258-e117910": [
       "goody-dickieson"
@@ -1937,7 +2020,11 @@
       "boy"
     ],
     "A03258-e118150": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson",
+      "mall"
     ],
     "A03258-e118170": [
       "robin"
@@ -1991,7 +2078,11 @@
       "mrs-generous"
     ],
     "A03258-e118790": [
-      "disambiguate"
+      "maud",
+      "gillian",
+      "meg",
+      "goody-dickieson",
+      "mall"
     ],
     "A03258-e118810": [
       "mrs-generous"
@@ -2255,7 +2346,14 @@
       "doughty"
     ],
     "A03258-e122440": [
-      "disambiguate"
+      "whetstone",
+      "arthur",
+      "shakstone",
+      "mall",
+      "mrs-generous",
+      "bantam",
+      "whetstone"
+      "spirits"
     ],
     "A03258-e122460": [
       "doughty"
@@ -2264,10 +2362,17 @@
       "arthur"
     ],
     "A03258-e122510": [
-      "shakstone"
+      "whetstone",
+      "arthur",
+      "shakstone",
+      "mall",
+      "mrs-generous",
+      "bantam",
+      "whetstone"
+      "spirits"
     ],
     "A03258-e122530": [
-      "disambiguate"
+      "bantam"
     ],
     "A03258-e122550": [
       "shakstone"
@@ -2514,13 +2619,13 @@
       "whetstone"
     ],
     "A03258-e124560": [
-      "disambiguate"
+      "whetstone"
     ],
     "A03258-e124580": [
-      "bantam"
+      "whetstone"
     ],
     "A03258-e124600": [
-      "whetstone"
+      "bantam"
     ],
     "A03258-e124620": [
       "arthur"
@@ -3020,7 +3125,10 @@
       "peg"
     ],
     "A03258-e130270": [
-      "disambiguate"
+      "maud",
+      "peg",
+      "gillian",
+      "goody-dickieson"
     ],
     "A03258-e130290": [
       "maud"

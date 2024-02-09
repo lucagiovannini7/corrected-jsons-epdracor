@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "petruchi",
       "name": "Petruchi",
       "isGroup": false,
@@ -439,7 +434,9 @@
       "messenger"
     ],
     "A56872-e105170": [
-      "disambiguate"
+      "pynto",
+      "bufo",
+      "moretto"
     ],
     "A56872-e105190": [
       "messenger"
@@ -499,7 +496,10 @@
       "lodovico"
     ],
     "A56872-e105630": [
-      "disambiguate"
+      "collumello",
+      "almada",
+      "petruchi",
+      "herophil"
     ],
     "A56872-e105650": [
       "alphonso"
@@ -889,7 +889,11 @@
       "collumello"
     ],
     "A56872-e108840": [
-      "disambiguate"
+      "pynto",
+      "mureto",
+      "bufo",
+      "almada",
+      "alphonso"
     ],
     "A56872-e108860": [
       "collumello"
@@ -1417,7 +1421,10 @@
       "queen"
     ],
     "A56872-e115580": [
-      "disambiguate"
+      "almado",
+      "collumello",
+      "petruchi",
+      "herophil"
     ],
     "A56872-e115600": [
       "queen"
@@ -1543,7 +1550,11 @@
       "alphonso"
     ],
     "A56872-e116980": [
-      "disambiguate"
+      "almado",
+      "collumello",
+      "petruchi",
+      "herophil",
+      "mureto"
     ],
     "A56872-e117000": [
       "alphonso"
@@ -2529,7 +2540,13 @@
       "alphonso"
     ],
     "A56872-e128670": [
-      "disambiguate"
+      "almado",
+      "collumello",
+      "mureto",
+      "herophil",
+      "petruchi",
+      "lodovico",
+      "velasco"
     ],
     "A56872-e128690": [
       "queen"
@@ -2574,7 +2591,13 @@
       "alphonso"
     ],
     "A56872-e129090": [
-      "disambiguate"
+      "almado",
+      "collumello",
+      "mureto",
+      "herophil",
+      "petruchi",
+      "lodovico",
+      "velasco"
     ],
     "A56872-e129110": [
       "alphonso"
@@ -2598,7 +2621,12 @@
       "velasco"
     ],
     "A56872-e129290": [
-      "disambiguate"
+      "almado",
+      "collumello",
+      "mureto",
+      "herophil",
+      "petruchi",
+      "lodovico"
     ],
     "A56872-e129310": [
       "lodovico"
@@ -2692,7 +2720,14 @@
       "velasco"
     ],
     "A56872-e130310": [
-      "disambiguate"
+      "almado",
+      "collumello",
+      "mureto",
+      "herophil",
+      "petruchi",
+      "lodovico",
+      "velasco",
+      "salassa"
     ],
     "A56872-e130330": [
       "alphonso"

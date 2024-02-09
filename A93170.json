@@ -7,11 +7,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "rodriguez",
       "name": "Rodriguez",
       "isGroup": false,
@@ -1770,7 +1765,11 @@
       "captain"
     ],
     "A93170-e125320": [
-      "disambiguate"
+      "ferdinand", 
+      "leandro", 
+      "rodriguez", 
+      "ernesto", 
+      "guard"
     ],
     "A93170-e125340": [
       "violinda"
@@ -1857,19 +1856,25 @@
       "ferdinand"
     ],
     "A93170-e126690": [
-      "disambiguate"
+      "leandro",
+      "ernesto",
+      "rodriguez"
     ],
     "A93170-e126710": [
       "ferdinand"
     ],
     "A93170-e126730": [
-      "disambiguate"
+      "leandro",
+      "ernesto",
+      "rodriguez"
     ],
     "A93170-e126750": [
       "ferdinand"
     ],
     "A93170-e126800": [
-      "disambiguate"
+      "leandro",
+      "ernesto",
+      "rodriguez"
     ],
     "A93170-e126820": [
       "leandro"
@@ -2287,7 +2292,10 @@
       "queen"
     ],
     "A93170-e131210": [
-      "disambiguate"
+      "leandro",
+      "ernesto",
+      "rodriguez",
+      "servants"
     ],
     "A93170-e131230": [
       "ferdinand"

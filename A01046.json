@@ -19,11 +19,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "crotolon",
       "name": "Crotolon",
       "isGroup": false,
@@ -2157,7 +2152,13 @@
       "amyclas"
     ],
     "A01046-e131970": [
-      "disambiguate"
+      "ithocles", 
+      "calantha", 
+      "prophilus", 
+      "orgilus", 
+      "euphranea", 
+      "hemophil", 
+      "groneas"
     ],
     "A01046-e131990": [
       "calantha"
@@ -2415,7 +2416,18 @@
       "nearchus"
     ],
     "A01046-e135900": [
-      "disambiguate"
+      "groneas",
+      "hemophil",
+      "euphranea",
+      "christalla",
+      "philema", 
+      "propholus", 
+      "nearchius",
+      "crotolon", 
+      "amelus",
+      "armostes",
+      "bassanes",
+      "orgisus"
     ],
     "A01046-e135920": [
       "calantha"
@@ -2629,7 +2641,17 @@
       "nearchus"
     ],
     "A01046-e139350": [
-      "disambiguate"
+      "groneas",
+      "hemophil",
+      "euphranea",
+      "christalla",
+      "philema", 
+      "propholus", 
+      "nearchius",
+      "crotolon", 
+      "amelus",
+      "armostes",
+      "bassanes""
     ],
     "A01046-e139380": [
       "nearchus"

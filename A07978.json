@@ -13,11 +13,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "worthgood",
       "name": "Worthgood",
       "isGroup": false,
@@ -148,9 +143,7 @@
     "A07978-e100990": [
       "worthgood"
     ],
-    "A07978-e101030": [
-      "disambiguate"
-    ],
+    "A07978-e101030": [],
     "A07978-e101060": [
       "bellamie"
     ],
@@ -163,21 +156,15 @@
     "A07978-e101150": [
       "worthgood"
     ],
-    "A07978-e101220": [
-      "disambiguate"
-    ],
+    "A07978-e101220": [],
     "A07978-e101240": [
       "worthgood"
     ],
-    "A07978-e101430": [
-      "disambiguate"
-    ],
+    "A07978-e101430": [],
     "A07978-e101450": [
       "worthgood"
     ],
-    "A07978-e101510": [
-      "disambiguate"
-    ],
+    "A07978-e101510": [],
     "A07978-e101550": [
       "uncle"
     ],
@@ -737,7 +724,7 @@
       "cicely"
     ],
     "A07978-e108160": [
-      "disambiguate"
+      "slip"
     ],
     "A07978-e108180": [
       "bellamie"
@@ -1295,7 +1282,7 @@
       "george"
     ],
     "A07978-e113880": [
-      "disambiguate"
+      "stitchwell"
     ],
     "A07978-e113900": [
       "mrs-stitchwell"

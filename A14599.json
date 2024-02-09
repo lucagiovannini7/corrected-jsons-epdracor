@@ -1,8 +1,14 @@
 {
   "particDesc": [
     {
-      "name": "Soldiers",
-      "id": "soldiers",
+      "name": "Scottish Soldiers",
+      "id": "scottish-soldiers",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
+      "name": "English Soldiers",
+      "id": "english-soldiers",
       "isGroup": true,
       "sex": "MALE"
     },
@@ -17,11 +23,6 @@
       "id": "soldier-1",
       "isGroup": false,
       "sex": "MALE"
-    },
-    {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
     },
     {
       "name": "Gallant 2",
@@ -429,7 +430,9 @@
       "selby-jr"
     ],
     "A14599-e102580": [
-      "disambiguate"
+      "wallace-jr", 
+      "comming",
+      "menteith"
     ],
     "A14599-e102600": [
       "wallace-jr"
@@ -528,7 +531,12 @@
       "wallace-jr"
     ],
     "A14599-e103480": [
-      "disambiguate"
+      "selby-sr",
+      "thorn",
+      "haslerig",
+      "peggy",
+      "gallant-1",
+      "gallant-2"
     ],
     "A14599-e103500": [
       "peggy"
@@ -537,7 +545,12 @@
       "selby-sr"
     ],
     "A14599-e103550": [
-      "disambiguate"
+      "selby-sr",
+      "thorn",
+      "haslerig",
+      "peggy",
+      "gallant-1",
+      "gallant-2"
     ],
     "A14599-e103570": [
       "selby-sr"
@@ -771,7 +784,10 @@
       "wallace-sr"
     ],
     "A14599-e106300": [
-      "disambiguate"
+      "wallace-jr",
+      "coming",
+      "menteith",
+      "graham"
     ],
     "A14599-e106320": [
       "wallace-jr"
@@ -1285,7 +1301,8 @@
       "wallace-jr"
     ],
     "A14599-e113530": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2"
     ],
     "A14599-e113550": [
       "bolt"
@@ -1321,7 +1338,8 @@
       "wallace-jr"
     ],
     "A14599-e113840": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2"
     ],
     "A14599-e113860": [
       "bolt"
@@ -1333,7 +1351,8 @@
       "bolt"
     ],
     "A14599-e113970": [
-      "disambiguate"
+      "soldier-1",
+      "soldier-2"
     ],
     "A14599-e113990": [
       "bolt"
@@ -1363,7 +1382,10 @@
       "glascot"
     ],
     "A14599-e114270": [
-      "disambiguate"
+      "eleanor",
+      "clifford",
+      "percy",
+      "beaumont" 
     ],
     "A14599-e114290": [
       "clifford"
@@ -1955,7 +1977,7 @@
       "bolt"
     ],
     "A14599-e119940": [
-      "disambiguate"
+      "scottish-soldiers"
     ],
     "A14599-e119960": [
       "jeffrey"
@@ -1964,7 +1986,7 @@
       "bolt"
     ],
     "A14599-e120000": [
-      "disambiguate"
+      "scottish-soldiers"
     ],
     "A14599-e120020": [
       "bolt"
@@ -1997,7 +2019,7 @@
       "bolt"
     ],
     "A14599-e120260": [
-      "disambiguate"
+      "scottish-soldiers"
     ],
     "A14599-e120290": [
       "wallace-jr"
@@ -2007,7 +2029,7 @@
     ],
     "A14599-e120500": [
       "menteith",
-      "soldiers"
+      "scottish-soldiers"
     ],
     "A14599-e120520": [
       "general"
@@ -2022,7 +2044,7 @@
       "grimsby"
     ],
     "A14599-e120700": [
-      "within"
+      "scottish-soldiers"
     ],
     "A14599-e120730": [
       "general"
@@ -2031,13 +2053,16 @@
       "rugecrosse"
     ],
     "A14599-e120790": [
-      "disambiguate"
+      "general",
+      "grimsby", 
+      "mentith", 
+      "comming"
     ],
     "A14599-e120810": [
       "rugecrosse"
     ],
     "A14599-e120870": [
-      "within"
+      "scottish-soldiers"
     ],
     "A14599-e120890": [
       "grimsby"
@@ -2058,7 +2083,7 @@
       "general"
     ],
     "A14599-e121040": [
-      "disambiguate"
+      "scottish-soldiers"
     ],
     "A14599-e121060": [
       "general"
@@ -2070,7 +2095,7 @@
       "general"
     ],
     "A14599-e121180": [
-      "disambiguate"
+      "scottish-soldiers"
     ],
     "A14599-e121200": [
       "wallace-jr"
@@ -2214,7 +2239,12 @@
       "bolt"
     ],
     "A14599-e122550": [
-      "disambiguate"
+      "king",
+      "clifford",
+      "bruce",
+      "hertford",
+      "jeffrey",
+      "bolt"
     ],
     "A14599-e122580": [
       "king"
@@ -2282,9 +2312,7 @@
     "A14599-e123170": [
       "menteith"
     ],
-    "A14599-e123190": [
-      "disambiguate"
-    ],
+    "A14599-e123190": [],
     "A14599-e123220": [
       "clifford"
     ],
@@ -2412,7 +2440,7 @@
       "king"
     ],
     "A14599-e124450": [
-      "disambiguate"
+      "english-soldiers"
     ],
     "A14599-e124470": [
       "clifford"
@@ -2514,13 +2542,13 @@
       "bruce"
     ],
     "A14599-e125390": [
-      "disambiguate"
+      "english-soldiers"
     ],
     "A14599-e125410": [
       "percy"
     ],
     "A14599-e125430": [
-      "disambiguate"
+      "english-soldiers"
     ],
     "A14599-e125450": [
       "king"
@@ -2547,7 +2575,7 @@
       "bruce"
     ],
     "A14599-e125630": [
-      "disambiguate"
+      "english-soldiers"
     ],
     "A14599-e125650": [
       "king"
@@ -2577,7 +2605,7 @@
       "king"
     ],
     "A14599-e125960": [
-      "disambiguate"
+      "english-soldiers"
     ],
     "A14599-e125980": [
       "king"
@@ -2706,7 +2734,9 @@
       "grimsby"
     ],
     "A14599-e127460": [
-      "disambiguate"
+      "mentith",
+      "comming",
+      "grimsby"
     ],
     "A14599-e127480": [
       "wallace-jr"

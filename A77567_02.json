@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "name": "Soldiers",
       "id": "soldiers",
       "isGroup": true,
@@ -1504,17 +1499,14 @@
       "doris"
     ],
     "A77567_02-e121520": [
-      "varillus"
+      "tersulus"
     ],
     "A77567_02-e121540": [
       "doris"
     ],
     "A77567_02-e121580": [
       "varillus",
-      "tersulus",
-      "philocles",
-      "philargus",
-      "disambiguate"
+      "tersulus"
     ],
     "A77567_02-e121600": [
       "doris"
@@ -2263,11 +2255,8 @@
       "disanius"
     ],
     "A77567_02-e130860": [
-      "varillus",
-      "tersulus",
       "philocles",
-      "philargus",
-      "disambiguate"
+      "philargus"
     ],
     "A77567_02-e130880": [
       "disanius"

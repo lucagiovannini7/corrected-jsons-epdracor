@@ -1,11 +1,6 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "doctor",
       "name": "Doctor",
       "isGroup": false,
@@ -1597,9 +1592,7 @@
     "A01773-e118880": [
       "sconce"
     ],
-    "A01773-e118900": [
-      "disambiguate"
-    ],
+    "A01773-e118900": [],
     "A01773-e118920": [
       "fortress"
     ],

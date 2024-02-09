@@ -13,11 +13,6 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
-    },
-    {
       "id": "lysander",
       "name": "Lysander",
       "isGroup": false,
@@ -1634,9 +1629,7 @@
     "A18426-e118150": [
       "tharsalio"
     ],
-    "A18426-e118200": [
-      "disambiguate"
-    ],
+    "A18426-e118200": [],
     "A18426-e118230": [
       "argus"
     ],

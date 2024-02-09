@@ -73,11 +73,6 @@
       "sex": "FEMALE"
     },
     {
-      "id": "omnes",
-      "name": "Omnes",
-      "isGroup": true
-    },
-    {
       "id": "worldly",
       "name": "Worldly",
       "isGroup": false,
@@ -482,7 +477,12 @@
       "abraham"
     ],
     "A00725-e104880": [
-      "omnes"
+      "lady_ninny",
+      "frederick",
+      "pendant",
+      "innocent",
+      "wagtayle",
+      "powts"
     ],
     "A00725-e104900": [
       "abraham"
@@ -758,7 +758,13 @@
       "abraham"
     ],
     "A00725-e107200": [
-      "omnes"
+      "worldly",
+      "pendant",
+      "strange",
+      "lucida",
+      "kate",
+      "frederick",
+      "powts"
     ],
     "A00725-e107230": [
       "worldly"
@@ -836,7 +842,13 @@
       "pendant"
     ],
     "A00725-e108880": [
-      "omnes"
+      "worldly",
+      "abraham",
+      "strange",
+      "lucida",
+      "kate",
+      "frederick",
+      "bellafront"
     ],
     "A00725-e108900": [
       "scudmore"
@@ -932,7 +944,13 @@
       "powts"
     ],
     "A00725-e110130": [
-      "omnes"
+      "worldly",
+      "abraham",
+      "strange",
+      "lucida",
+      "kate",
+      "frederick",
+      "bellafront"
     ],
     "A00725-e110150": [
       "lady_ninny"
@@ -983,7 +1001,13 @@
       "strange"
     ],
     "A00725-e110960": [
-      "omnes"
+      "worldly",
+      "abraham",
+      "powts",
+      "lucida",
+      "kate",
+      "frederick",
+      "bellafront"
     ],
     "A00725-e110980": [
       "strange"
@@ -1226,7 +1250,13 @@
       "abraham"
     ],
     "A00725-e113250": [
-      "omnes"
+      "worldly",
+      "neville",
+      "pendant",
+      "lucida",
+      "frederick",
+      "innocent"
+      "lady_ninny"
     ],
     "A00725-e113270": [
       "lucida"
@@ -1841,7 +1871,9 @@
       "frederick"
     ],
     "A00725-e122240": [
-      "omnes"
+      "pendant",
+      "abraham",
+      "neville"
     ],
     "A00725-e122290": [
       "2_servant"
@@ -1886,7 +1918,9 @@
       "neville"
     ],
     "A00725-e122570": [
-      "omnes"
+      "pendant",
+      "abraham",
+      "scudmore"
     ],
     "A00725-e122600": [
       "neville"
@@ -1961,13 +1995,33 @@
       "lady_ninny"
     ],
     "A00725-e123280": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "powts",
+      "lucida",
+      "kate",
+      "frederick",
+      "bellafront",
+      "wagtayle",
+      "neville",
+      "scudmore"
     ],
     "A00725-e123310": [
       "frederick"
     ],
     "A00725-e123330": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "powts",
+      "lucida",
+      "kate",
+      "lady_ninny",
+      "bellafront",
+      "wagtayle",
+      "neville",
+      "scudmore"
     ],
     "A00725-e123350": [
       "abraham"
@@ -1979,7 +2033,17 @@
       "frederick"
     ],
     "A00725-e123420": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "powts",
+      "lucida",
+      "kate",
+      "lady_ninny",
+      "bellafront",
+      "wagtayle",
+      "neville",
+      "scudmore"
     ],
     "A00725-e123440": [
       "frederick"
@@ -2036,13 +2100,31 @@
       "scudmore"
     ],
     "A00725-e123880": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "lucida",
+      "kate",
+      "lady_ninny",
+      "bellafront",
+      "wagtayle",
+      "frederick",
+      "scudmore"
     ],
     "A00725-e123900": [
       "neville"
     ],
     "A00725-e123970": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "lucida",
+      "kate",
+      "lady_ninny",
+      "bellafront",
+      "wagtayle",
+      "frederick",
+      "scudmore"
     ],
     "A00725-e123990": [
       "frederick"
@@ -2069,7 +2151,17 @@
       "strange"
     ],
     "A00725-e124160": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "lucida",
+      "kate",
+      "lady_ninny",
+      "bellafront",
+      "wagtayle",
+      "frederick",
+      "scudmore",
+      "neville"
     ],
     "A00725-e124180": [
       "kate"
@@ -2090,7 +2182,16 @@
       "lady_ninny"
     ],
     "A00725-e124300": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "lucida",
+      "kate",
+      "bellafront",
+      "wagtayle",
+      "scudmore",
+      "neville",
+      "frederick"
     ],
     "A00725-e124320": [
       "powts"
@@ -2117,7 +2218,16 @@
       "powts"
     ],
     "A00725-e124550": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "lucida",
+      "kate",
+      "lady_ninny",
+      "bellafront",
+      "wagtayle",
+      "scudmore",
+      "neville"
     ],
     "A00725-e124570": [
       "strange"
@@ -2132,7 +2242,16 @@
       "powts"
     ],
     "A00725-e124720": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "lucida",
+      "kate",
+      "lady_ninny",
+      "bellafront",
+      "wagtayle",
+      "scudmore",
+      "neville"
     ],
     "A00725-e124740": [
       "worldly"
@@ -2191,7 +2310,14 @@
       "scudmore"
     ],
     "A00725-e125250": [
-      "omnes"
+      "worldly",
+      "innocent",
+      "abraham",
+      "kate",
+      "lady_ninny",
+      "wagtayle",
+      "neville",
+      "neville"
     ],
     "A00725-e125270": [
       "powts"

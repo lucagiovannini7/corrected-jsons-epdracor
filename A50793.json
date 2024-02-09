@@ -1,9 +1,10 @@
 {
   "particDesc": [
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "id": "petitioners",
+      "name": "Petitioners",
+      "isGroup": true,
+      "sex": "MALE"
     },
     {
       "id": "raynulph",
@@ -262,7 +263,9 @@
     "A50793-e101280": [
       "constantius"
     ],
-    "A50793-e101400": [],
+    "A50793-e101400": [
+      "vortiger"
+    ],
     "A50793-e101490": [
       "constantius"
     ],
@@ -279,7 +282,10 @@
       "constantius"
     ],
     "A50793-e101800": [
-      "disambiguate"
+      "raynulph",
+      "devon",
+      "stafford",
+      "vortiger"
     ],
     "A50793-e101830": [
       "constantius"
@@ -333,13 +339,19 @@
       "vortiger"
     ],
     "A50793-e103140": [
-      "disambiguate"
+      "feltmonger",
+      "button-maker",
+      "grasier",
+      "petitioners"
     ],
     "A50793-e103160": [
       "vortiger"
     ],
     "A50793-e103180": [
-      "disambiguate"
+      "feltmonger",
+      "button-maker",
+      "grasier",
+      "petitioners"
     ],
     "A50793-e103200": [
       "vortiger"
@@ -351,13 +363,19 @@
       "vortiger"
     ],
     "A50793-e103270": [
-      "disambiguate"
+      "feltmonger",
+      "button-maker",
+      "grasier",
+      "petitioners"
     ],
     "A50793-e103290": [
       "vortiger"
     ],
     "A50793-e103350": [
-      "disambiguate"
+      "feltmonger",
+      "button-maker",
+      "grasier",
+      "petitioners"
     ],
     "A50793-e103380": [
       "vortiger"
@@ -1428,7 +1446,11 @@
       "hengist"
     ],
     "A50793-e118280": [
-      "disambiguate"
+      "barber",
+      "glover",
+      "tailor"
+      "simon",
+      "oliver"
     ],
     "A50793-e118300": [
       "simon"
@@ -1452,7 +1474,9 @@
       "simon"
     ],
     "A50793-e118580": [
-      "disambiguate"
+      "barber",
+      "glover",
+      "tailor"
     ],
     "A50793-e118600": [
       "simon"
@@ -1476,7 +1500,9 @@
       "simon"
     ],
     "A50793-e119160": [
-      "disambiguate"
+      "barber",
+      "glover",
+      "tailor"
     ],
     "A50793-e119190": [
       "hengist"
@@ -1590,7 +1616,9 @@
       "simon"
     ],
     "A50793-e120740": [
-      "disambiguate"
+      "barber",
+      "glover",
+      "tailor"
     ],
     "A50793-e120760": [
       "simon"
