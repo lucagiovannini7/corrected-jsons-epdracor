@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "name": "Lepidus",
+      "id": "lepidus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Marius junior",
       "id": "marius-junior",
       "isGroup": false,
@@ -50,7 +56,7 @@
     },
     {
       "id": "merula",
-      "name": "Lucius Merula",
+      "name": "Merula",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -570,19 +576,19 @@
       "pausanius"
     ],
     "A06184-e107830": [
-      "lucius"
+      "merula"
     ],
     "A06184-e107850": [
       "pausanius"
     ],
     "A06184-e107970": [
-      "lucius"
+      "merula"
     ],
     "A06184-e107990": [
       "pausanius"
     ],
     "A06184-e108050": [
-      "lucius"
+      "merula"
     ],
     "A06184-e108090": [
       "marius-junior"

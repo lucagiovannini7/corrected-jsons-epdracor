@@ -7,6 +7,12 @@
       "sex": "FEMALE"
     },
     {
+      "name": "Prudence",
+      "id": "prudence",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
       "id": "host",
       "name": "Host",
       "isGroup": false,

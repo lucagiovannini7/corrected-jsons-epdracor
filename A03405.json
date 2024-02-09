@@ -37,8 +37,8 @@
       "sex": "MALE"
     },
     {
-      "name": "Morrice dancers",
-      "id": "morrice-dancers",
+      "name": "Morris dancers",
+      "id": "morris-dancers",
       "isGroup": true,
       "sex": "MALE"
     },
@@ -58,49 +58,49 @@
       "id": "peace",
       "name": "Peace",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "grammar",
       "name": "Grammar",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "logic",
       "name": "Logic",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "rhetoric",
       "name": "Rhetoric",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "arithmetic",
       "name": "Arithmetic",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "music",
       "name": "Music",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "astronomy",
       "name": "Astronomy",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "geometry",
       "name": "Geometry",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "chrisoganus",
@@ -208,7 +208,7 @@
       "id": "ceres",
       "name": "Ceres",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "FEMALE"
     },
     {
       "id": "bacchus",
@@ -286,7 +286,7 @@
       "id": "prologue",
       "name": "Prologue",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "troylus",
@@ -304,7 +304,7 @@
       "id": "vice",
       "name": "Vice",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "juvenis",
@@ -316,7 +316,7 @@
       "id": "iniquity",
       "name": "Iniquity",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "devil",
@@ -328,19 +328,19 @@
       "id": "pride",
       "name": "Pride",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "hypocrisy",
       "name": "Hypocrisy",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "contempt",
       "name": "Contempt",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "1_servant",
@@ -406,7 +406,7 @@
       "id": "envy",
       "name": "Envy",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "bellula",
@@ -466,31 +466,37 @@
       "id": "poverty",
       "name": "Poverty",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "fury",
+      "name": "Furry",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "id": "famine",
       "name": "Famine",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "sickness",
       "name": "Sickness",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "bondage",
       "name": "Bondage",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "sluttishness",
       "name": "Sluttishness",
       "isGroup": false,
-      "sex": "FEMALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "hostess",
@@ -1116,7 +1122,7 @@
       "clark"
     ],
     "A03405-e106880": [
-      "morrice-dancers"
+      "morris-dancers"
     ],
     "A03405-e106900": [
       "clark"

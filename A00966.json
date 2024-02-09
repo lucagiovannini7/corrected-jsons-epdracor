@@ -1,6 +1,18 @@
 {
   "particDesc": [
     {
+      "name": "Servant 2",
+      "id": "servant-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Servant 1",
+      "id": "servant-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Recorder 2",
       "id": "recorder-2",
       "isGroup": false,
@@ -294,7 +306,7 @@
       "wildbrain"
     ],
     "A00966-e102430": [
-      "disambiguate"
+      "wildbrain-friend-2"
     ],
     "A00966-e102460": [
       "hartlove"

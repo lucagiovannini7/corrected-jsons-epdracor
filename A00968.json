@@ -1,6 +1,24 @@
 {
   "particDesc": [
     {
+      "name": "Doctor 2",
+      "id": "doctor-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Doctor 1",
+      "id": "doctor-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Courtier 4",
+      "id": "courtier-4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Courtier 3",
       "id": "courtier-3",
       "isGroup": false,
@@ -2537,8 +2555,8 @@
       "soldier-3",
       "soldier-4",
       "devitry",
-      "1-doctor",
-      "2-doctor"
+      "doctor-1",
+      "doctor-2"
     ],
     "A00968-e140950": [
       "martell"

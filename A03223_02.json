@@ -7,6 +7,24 @@
       "sex": "FEMALE"
     },
     {
+      "id": "pilades",
+      "name": "Pilades",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "polythes",
+      "name": "Polythes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "anthenor",
+      "name": "Anthenor",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "agamemnon",
       "name": "Agamemnon",
       "isGroup": false,
@@ -211,7 +229,7 @@
       "sex": "MALE"
     },
     {
-      "id": "greel-soldiers",
+      "id": "greek-soldiers",
       "name": "Greek Soldiers",
       "isGroup": true,
       "sex": "MALE"
@@ -588,7 +606,7 @@
       "menelaus",
       "agamemnon",
       "ulysses",
-      "diomedes",
+      "diomede",
       "synon",
       "thersites"
     ],
@@ -938,7 +956,7 @@
     ],
     "A03223_02-e111620": [
       "pyrrhus",
-      "diomedes",
+      "diomede",
       "agamemnon",
       "menelaus",
       "ulysses",
@@ -986,7 +1004,7 @@
     ],
     "A03223_02-e112250": [
       "pyrrhus",
-      "diomedes",
+      "diomede",
       "agamemnon",
       "menelaus",
       "ulysses",
@@ -1813,8 +1831,8 @@
     "A03223_02-e125080": [
       "agamemnon",
       "ulysses", 
-      "diomedes", 
-      "pyrhus", 
+      "diomede", 
+      "pyrrhus", 
       "menelaus",
       "hermione",
       "pilades",

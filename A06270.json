@@ -13,10 +13,16 @@
       "sex": "FEMALE"
     },
     {
+      "name": "Fat Burgher",
+      "id": "fat-burgher",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
       "name": "Burghers",
       "id": "burghers",
       "isGroup": true,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "danila",
@@ -1396,31 +1402,31 @@
       "soldier_1"
     ],
     "A06270-e118870": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e118910": [
       "soldier_2"
     ],
     "A06270-e118930": [
-      "burgher"
+      "fat-burgher"
     ],
     "A06270-e118960": [
       "soldier_2"
     ],
     "A06270-e118980": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119020": [
       "soldier_1"
     ],
     "A06270-e119090": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119110": [
       "soldier_2"
     ],
     "A06270-e119140": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119160": [
       "soldier_1"
@@ -1429,31 +1435,31 @@
       "soldier_2"
     ],
     "A06270-e119250": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119270": [
       "soldier_1"
     ],
     "A06270-e119300": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119320": [
       "soldier_2"
     ],
     "A06270-e119340": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119370": [
       "soldier_1"
     ],
     "A06270-e119390": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119420": [
       "soldier_2"
     ],
     "A06270-e119440": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119490": [
       "captain"
@@ -1462,37 +1468,37 @@
       "stump"
     ],
     "A06270-e119550": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119570": [
       "stump"
     ],
     "A06270-e119590": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119620": [
       "stump"
     ],
     "A06270-e119750": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119790": [
       "stump"
     ],
     "A06270-e119840": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119870": [
       "stump"
     ],
     "A06270-e119890": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119920": [
       "captain"
     ],
     "A06270-e119940": [
-      "burgher_1"
+      "fat-burgher"
     ],
     "A06270-e119970": [
       "captain"
