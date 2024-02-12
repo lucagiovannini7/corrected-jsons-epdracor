@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "name": "Ladies",
+      "id": "ladies",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
       "name": "Attendants",
       "id": "attendants",
       "isGroup": true,
@@ -2958,7 +2964,7 @@
     ],
     "A27177-e139470": [
       "norandine",
-      "collona",
+      "colonna",
       "astorius",
       "castriot",
       "valetta",
@@ -3003,7 +3009,7 @@
     ],
     "A27177-e140030": [
       "norandine",
-      "collona",
+      "colonna",
       "astorius",
       "castriot",
       "valetta",
@@ -3033,7 +3039,7 @@
     ],
     "A27177-e140230": [
       "norandine",
-      "collona",
+      "colonna",
       "astorius",
       "castriot",
       "bishop-1",
@@ -3156,7 +3162,7 @@
     ],
     "A27177-e142120": [
       "norandine",
-      "collona",
+      "colonna",
       "astorius",
       "castriot",
       "valetta",

@@ -13,6 +13,12 @@
       "sex": "MALE"
     },
     {
+      "id": "critobulus",
+      "name": "Critobulus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "araspas",
       "name": "Araspas",
       "isGroup": false,

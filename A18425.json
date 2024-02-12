@@ -1,4 +1,4 @@
-{
+\{
   "particDesc": [
     {
       "name": "Salvius",
@@ -129,6 +129,18 @@
     {
       "id": "athenodorus",
       "name": "Athenodorus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "crassinius",
+      "name": "Crassinius",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "acilius",
+      "name": "Acilius",
       "isGroup": false,
       "sex": "MALE"
     },

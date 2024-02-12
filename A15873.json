@@ -4,127 +4,133 @@
       "id": "fallacy",
       "name": "Fallacy",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "discourse",
       "name": "Discourse",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "conclusion",
+      "name": "Conclusion",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "id": "topicus",
       "name": "Topicus",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "demonstration",
       "name": "Demonstration",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "intellect",
       "name": "Intellect",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "invention",
       "name": "Invention",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "judicium",
       "name": "Judicium",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "amico",
       "name": "Amico",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "distinction",
       "name": "Distinction",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "definition",
       "name": "Definition",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "division",
       "name": "Division",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "description",
       "name": "Description",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "opposition",
       "name": "Opposition",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "proposition",
       "name": "Proposition",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "ambiguity",
       "name": "Ambiguity",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "contradiction",
       "name": "Contradiction",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "ignoratio",
       "name": "Ignoratio",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "reduction",
       "name": "Reduction",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "conversion",
       "name": "Conversion",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "aequipolency",
       "name": "Aequipolency",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     },
     {
       "id": "analysis",
       "name": "Analysis",
       "isGroup": false,
-      "sex": "MALE"
+      "sex": "UNKNOWN"
     }
   ],
   "speeches": {

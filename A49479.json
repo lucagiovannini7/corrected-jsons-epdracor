@@ -73,8 +73,8 @@
       "sex": "MALE"
     },
     {
-      "id": "Mendoza",
-      "name": "cardinal-mendoza",
+      "id": "cardinal-mendoza",
+      "name": "Mendoza",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -327,13 +327,13 @@
       "eleazar"
     ],
     "A49479-e102260": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e102280": [
       "eleazar"
     ],
     "A49479-e102300": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e102330": [
       "eleazar"
@@ -640,7 +640,7 @@
     ],
     "A49479-e106940": [
       "zarack",
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e106970": [
       "prince-philip"
@@ -664,11 +664,11 @@
       "fernando"
     ],
     "A49479-e107210": [
-      "philip",
+      "prince-philip",
       "queen-mother",
       "alvero",
       "roderigo",
-      "christofero",
+      "christophero",
       "attendants"
     ],
     "A49479-e107230": [
@@ -937,7 +937,7 @@
       "eleazar"
     ],
     "A49479-e110760": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e110780": [
       "queen-mother"
@@ -946,19 +946,19 @@
       "eleazar"
     ],
     "A49479-e110850": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e110870": [
       "eleazar"
     ],
     "A49479-e110890": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e110910": [
       "eleazar"
     ],
     "A49479-e110950": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e110980": [
       "eleazar"
@@ -1014,7 +1014,7 @@
       "alvero"
     ],
     "A49479-e111670": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e111690": [
       "eleazar"
@@ -1054,7 +1054,7 @@
       "eleazar"
     ],
     "A49479-e112350": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e112380": [
       "eleazar"
@@ -1435,37 +1435,37 @@
       "eleazar"
     ],
     "A49479-e118360": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e118380": [
       "zarack"
     ],
     "A49479-e118420": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e118460": [
       "zarack"
     ],
     "A49479-e118520": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e118540": [
       "zarack"
     ],
     "A49479-e118580": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e118600": [
       "zarack"
     ],
     "A49479-e118640": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e118660": [
       "zarack"
     ],
     "A49479-e118720": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e118760": [
       "zarack"
@@ -1871,7 +1871,7 @@
     ],
     "A49479-e123340": [
       "zarack",
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e123360": [
       "prince-philip"
@@ -2200,7 +2200,7 @@
     ],
     "A49479-e127640": [
       "zarack",
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e127670": [
       "eleazar"
@@ -2483,7 +2483,7 @@
       "eleazar"
     ],
     "A49479-e131270": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e131320": [
       "zarack"
@@ -2586,7 +2586,7 @@
       "hortenzo"
     ],
     "A49479-e132660": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e132690": [
       "cardinal-mendoza"
@@ -2699,7 +2699,7 @@
     ],
     "A49479-e133870": [
       "zarack",
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e133890": [
       "eleazar"
@@ -2829,13 +2829,13 @@
       "hortenzo"
     ],
     "A49479-e135390": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e135420": [
       "zarack"
     ],
     "A49479-e135440": [
-      "baltazar"
+      "balthazar"
     ],
     "A49479-e135460": [
       "zarack"
@@ -2864,7 +2864,7 @@
     "A49479-e135680": [
       "alvero",
       "roderigo",
-      "christofero",
+      "christophero",
       "lords"
     ],
     "A49479-e135700": [
