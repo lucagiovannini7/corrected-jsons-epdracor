@@ -103,6 +103,12 @@
       "sex": "FEMALE"
     },
     {
+      "id": "franceschina",
+      "name": "Franceschina",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
       "id": "lucio",
       "name": "Lucio",
       "isGroup": false,
@@ -260,7 +266,7 @@
     "A93178-e102060": [
       "longino",
       "pacheco",
-      "rangone",
+      "rangine",
       "strozzo",
       "banditi"
     ],

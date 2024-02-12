@@ -67,6 +67,12 @@
       "sex": "MALE"
     },
     {
+      "id": "servants",
+      "name": "Servants",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "lieutenant",
       "name": "Lieutenant",
       "isGroup": false,

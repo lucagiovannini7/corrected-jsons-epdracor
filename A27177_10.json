@@ -7,6 +7,12 @@
       "sex": "MALE"
     },
     {
+      "id": "francisco",
+      "name": "Francisco",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "peter",
       "name": "Peter",
       "isGroup": false,

@@ -31,13 +31,13 @@
       "sex": "MALE"
     },
     {
-      "id": "1",
+      "id": "lord-1",
       "name": "Lord 1",
       "isGroup": false,
       "sex": "MALE"
     },
     {
-      "id": "2",
+      "id": "lord-2",
       "name": "Lord 2",
       "isGroup": false,
       "sex": "MALE"
@@ -85,7 +85,7 @@
       "sex": "MALE"
     },
     {
-      "id": "provi",
+      "id": "providence",
       "name": "Providence",
       "isGroup": false,
       "sex": "MALE"
@@ -111,6 +111,12 @@
     {
       "id": "lord",
       "name": "Lord",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "king",
+      "name": "King",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -264,7 +270,7 @@
       "alexander"
     ],
     "A69121-e103480": [
-      "1"
+      "lord-1"
     ],
     "A69121-e103510": [
       "alexander"
@@ -273,7 +279,7 @@
       "shift"
     ],
     "A69121-e103580": [
-      "2"
+      "lord-2"
     ],
     "A69121-e103600": [
       "alexander"
@@ -318,8 +324,8 @@
       "alexander"
     ],
     "A69121-e104170": [
-      "1",
-      "2",
+      "lord-1",
+      "lord-2",
       "clamydes",
       "shift"
     ],
@@ -339,14 +345,14 @@
       "alexander"
     ],
     "A69121-e104720": [
-      "1"
+      "lord-1"
     ],
     "A69121-e104910": [
       "alexander"
     ],
     "A69121-e105020": [
-      "1",
-      "2",
+      "lord-1",
+      "lord-2",
       "clamydes",
       "shift"
     ],
@@ -615,25 +621,25 @@
       "neronis"
     ],
     "A69121-e109120": [
-      "1"
+      "lord-1"
     ],
     "A69121-e109140": [
       "neronis"
     ],
     "A69121-e109160": [
-      "2"
+      "lord-2"
     ],
     "A69121-e109180": [
       "neronis"
     ],
     "A69121-e109200": [
-      "1"
+      "lord-1"
     ],
     "A69121-e109230": [
       "neronis"
     ],
     "A69121-e109290": [
-      "1"
+      "lord-1"
     ],
     "A69121-e109310": [
       "neronis"
@@ -645,7 +651,7 @@
       "neronis"
     ],
     "A69121-e109680": [
-      "1"
+      "lord-1"
     ],
     "A69121-e109720": [
       "neronis"
@@ -657,7 +663,7 @@
       "neronis"
     ],
     "A69121-e109810": [
-      "2"
+      "lord-2"
     ],
     "A69121-e109830": [
       "neronis"
@@ -681,7 +687,7 @@
       "neronis"
     ],
     "A69121-e110060": [
-      "1"
+      "lord-1"
     ],
     "A69121-e110080": [
       "clyomon"
@@ -691,7 +697,7 @@
     ],
     "A69121-e110130": [
       "clyomon",
-      "1"
+      "lord-1"
     ],
     "A69121-e110170": [
       "bryan"
@@ -751,8 +757,8 @@
       "clamydes"
     ],
     "A69121-e111680": [
-      "1",
-      "2",
+      "lord-1",
+      "lord-2",
       "clamydes",
       "shift"
     ],
@@ -853,16 +859,16 @@
       "thrasellus"
     ],
     "A69121-e113810": [
-      "1"
+      "lord-1"
     ],
     "A69121-e113960": [
-      "2"
+      "lord-2"
     ],
     "A69121-e113990": [
       "thrasellus"
     ],
     "A69121-e114030": [
-      "1"
+      "lord-1"
     ],
     "A69121-e114070": [
       "clyomon"
@@ -944,7 +950,7 @@
     ],
     "A69121-e116190": [
       "clyomon",
-      "1"
+      "lord-1"
     ],
     "A69121-e116220": [
       "thrasellus"
@@ -1037,13 +1043,13 @@
       "neronis"
     ],
     "A69121-e118450": [
-      "provi"
+      "providence"
     ],
     "A69121-e118510": [
       "neronis"
     ],
     "A69121-e118590": [
-      "provi"
+      "providence"
     ],
     "A69121-e118630": [
       "neronis"
@@ -1686,8 +1692,8 @@
       "alexander"
     ],
     "A69121-e127260": [
-      "1",
-      "2",
+      "lord-1",
+      "lord-2",
       "clamydes",
       "shift"
     ]

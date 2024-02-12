@@ -103,8 +103,8 @@
       "sex": "FEMALE"
     },
     {
-      "id": "rosellia",
-      "name": "Rosellia",
+      "id": "rossella",
+      "name": "Rossella",
       "isGroup": false,
       "sex": "FEMALE"
     },
@@ -984,13 +984,13 @@
       "crocale"
     ],
     "A27177-e111920": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e111960": [
       "clarinda"
     ],
     "A27177-e111980": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e112190": [
       "clarinda"
@@ -1002,7 +1002,7 @@
       "crocale"
     ],
     "A27177-e112310": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e112360": [
       "albert"
@@ -1026,7 +1026,7 @@
       "clarinda"
     ],
     "A27177-e112620": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e112790": [
       "clarinda"
@@ -1386,7 +1386,7 @@
       "tibalt"
     ],
     "A27177-e116890": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e116960": [
       "juletta"
@@ -1398,7 +1398,7 @@
       "clarinda"
     ],
     "A27177-e117060": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e117120": [
       "master"
@@ -1410,13 +1410,13 @@
       "albert"
     ],
     "A27177-e117210": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e117360": [
       "albert"
     ],
     "A27177-e117400": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e117440": [
       "albert"
@@ -1425,7 +1425,7 @@
       "tibalt"
     ],
     "A27177-e117500": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e117570": [
       "franville"
@@ -1444,7 +1444,7 @@
       "morillat",
       "lamure",
       "albert",
-      "rosellia",
+      "rossella",
       "aminta",
       "master",
       "clarinda",
@@ -1471,13 +1471,13 @@
       "tibalt"
     ],
     "A27177-e118130": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e118170": [
       "tibalt"
     ],
     "A27177-e118260": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e118280": [
       "tibalt"
@@ -1495,13 +1495,13 @@
       "tibalt"
     ],
     "A27177-e118420": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e118450": [
       "tibalt"
     ],
     "A27177-e118600": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e118660": [
       "tibalt"
@@ -1528,7 +1528,7 @@
       "tibalt"
     ],
     "A27177-e118910": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e118940": [
       "clarinda"
@@ -1549,7 +1549,7 @@
       "clarinda"
     ],
     "A27177-e119160": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e119180": [
       "albert"
@@ -1573,13 +1573,13 @@
       "tibalt"
     ],
     "A27177-e119370": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e119420": [
       "albert"
     ],
     "A27177-e119450": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e119530": [
       "crocale"
@@ -1591,7 +1591,7 @@
       "juletta"
     ],
     "A27177-e119600": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e119630": [
       "albert"
@@ -1600,13 +1600,13 @@
       "tibalt"
     ],
     "A27177-e119700": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e119720": [
       "clarinda"
     ],
     "A27177-e119810": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e119830": [
       "albert",
@@ -1615,7 +1615,7 @@
       "morillat"
     ],
     "A27177-e119860": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e119980": [
       "sailor-1"
@@ -1702,23 +1702,23 @@
       "sebastian"
     ],
     "A27177-e121110": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e121220": [
       "clarinda"
     ],
     "A27177-e121240": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e121410": [
       "rossella",
       "clarinda",
       "crocale",
-      "hippolita",
+      "hippolyta",
       "juletta"
     ],
     "A27177-e121430": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e121460": [
       "clarinda"
@@ -1781,7 +1781,7 @@
       "rossella",
       "clarinda",
       "crocale",
-      "hippolita",
+      "hippolyta",
       "juletta"
     ],
     "A27177-e122290": [
@@ -2331,19 +2331,19 @@
       "clarinda"
     ],
     "A27177-e128600": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e128710": [
       "clarinda"
     ],
     "A27177-e128730": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e128830": [
       "crocale"
     ],
     "A27177-e128850": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e128960": [
       "crocale"
@@ -2514,7 +2514,7 @@
       "aminta"
     ],
     "A27177-e131740": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e132180": [
       "aminta"
@@ -2526,7 +2526,7 @@
       "raymond"
     ],
     "A27177-e132250": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e132370": [
       "crocale"
@@ -2535,13 +2535,13 @@
       "sebastian"
     ],
     "A27177-e132550": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e132570": [
       "sebastian"
     ],
     "A27177-e132770": [
-      "rosellia"
+      "rossella"
     ],
     "A27177-e132820": [
       "sebastian"

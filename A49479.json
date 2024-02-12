@@ -49,8 +49,8 @@
       "sex": "MALE"
     },
     {
-      "id": "baltazar",
-      "name": "Baltazar",
+      "id": "balthazar",
+      "name": "Balthazar",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -399,7 +399,7 @@
     "A49479-e103830": [
       "cardinal-mendoza",
       "alvero",
-      "hortensio",
+      "hortenzo",
       "fernando",
       "roderigo"
     ],
@@ -526,7 +526,7 @@
     "A49479-e105320": [
       "cardinal-mendoza",
       "alvero",
-      "hortensio",
+      "hortenzo",
       "fernando",
       "roderigo"
     ],
@@ -971,7 +971,7 @@
       "prince-philip"
     ],
     "A49479-e111120": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e111140": [
       "prince-philip"
@@ -984,13 +984,13 @@
       "prince-philip"
     ],
     "A49479-e111210": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e111240": [
       "prince-philip"
     ],
     "A49479-e111260": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e111280": [
       "prince-philip"
@@ -1002,7 +1002,7 @@
       "prince-philip"
     ],
     "A49479-e111530": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e111550": [
       "prince-philip"
@@ -1685,7 +1685,7 @@
       "alvero"
     ],
     "A49479-e121040": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121090": [
       "prince-philip"
@@ -1700,43 +1700,43 @@
       "prince-philip"
     ],
     "A49479-e121250": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121270": [
       "prince-philip"
     ],
     "A49479-e121290": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121320": [
       "prince-philip"
     ],
     "A49479-e121340": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121360": [
       "prince-philip"
     ],
     "A49479-e121440": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121490": [
       "prince-philip"
     ],
     "A49479-e121510": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121530": [
       "prince-philip"
     ],
     "A49479-e121550": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121570": [
       "prince-philip"
     ],
     "A49479-e121590": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e121640": [
       "prince-philip"
@@ -1867,7 +1867,7 @@
       "eleazar"
     ],
     "A49479-e123320": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e123340": [
       "zarack",
@@ -1886,7 +1886,7 @@
       "eleazar"
     ],
     "A49479-e123450": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e123470": [
       "prince-philip"
@@ -1928,19 +1928,19 @@
       "queen-mother"
     ],
     "A49479-e124190": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e124210": [
       "queen-mother"
     ],
     "A49479-e124270": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e124430": [
       "queen-mother"
     ],
     "A49479-e124480": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e124500": [
       "eleazar"
@@ -1949,13 +1949,13 @@
       "queen-mother"
     ],
     "A49479-e124580": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e124600": [
       "eleazar"
     ],
     "A49479-e124630": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e124650": [
       "eleazar"
@@ -1964,7 +1964,7 @@
       "queen-mother"
     ],
     "A49479-e124700": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e124730": [
       "eleazar"
@@ -1976,55 +1976,55 @@
       "eleazar"
     ],
     "A49479-e124960": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e124980": [
       "queen-mother"
     ],
     "A49479-e125000": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125020": [
       "eleazar"
     ],
     "A49479-e125080": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125100": [
       "eleazar"
     ],
     "A49479-e125230": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125250": [
       "eleazar"
     ],
     "A49479-e125270": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125290": [
       "eleazar"
     ],
     "A49479-e125310": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125330": [
       "eleazar"
     ],
     "A49479-e125350": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125370": [
       "eleazar"
     ],
     "A49479-e125390": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125420": [
       "eleazar"
     ],
     "A49479-e125440": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125460": [
       "queen-mother"
@@ -2058,7 +2058,7 @@
       "prince-philip"
     ],
     "A49479-e125930": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e125960": [
       "prince-philip"
@@ -2136,37 +2136,37 @@
       "prince-philip"
     ],
     "A49479-e126800": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e126820": [
       "prince-philip"
     ],
     "A49479-e126840": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e126860": [
       "prince-philip"
     ],
     "A49479-e126940": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e126960": [
       "prince-philip"
     ],
     "A49479-e127010": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e127060": [
       "prince-philip"
     ],
     "A49479-e127090": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e127110": [
       "prince-philip"
     ],
     "A49479-e127130": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e127190": [
       "prince-philip"
@@ -2184,7 +2184,7 @@
       "prince-philip"
     ],
     "A49479-e127490": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e127540": [
       "alvero"
@@ -2206,7 +2206,7 @@
       "eleazar"
     ],
     "A49479-e127980": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e128000": [
       "roderigo",
@@ -2228,7 +2228,7 @@
       "lords"
     ],
     "A49479-e128340": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e128360": [
       "hortenzo"
@@ -2253,19 +2253,19 @@
     ],
     "A49479-e128590": [],
     "A49479-e128610": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e128640": [
       "queen-mother"
     ],
     "A49479-e128670": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e128700": [
       "christophero"
     ],
     "A49479-e128720": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e128750": [
       "alvero"
@@ -2292,7 +2292,7 @@
       "hortenzo"
     ],
     "A49479-e129070": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129130": [
       "eleazar"
@@ -2312,13 +2312,13 @@
       "eleazar"
     ],
     "A49479-e129340": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129370": [
       "roderigo"
     ],
     "A49479-e129390": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129410": [
       "eleazar"
@@ -2333,7 +2333,7 @@
       "eleazar"
     ],
     "A49479-e129510": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129550": [
       "eleazar"
@@ -2345,37 +2345,37 @@
       "alvero"
     ],
     "A49479-e129610": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129650": [
       "queen-mother"
     ],
     "A49479-e129670": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129700": [
       "eleazar"
     ],
     "A49479-e129720": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129740": [
       "eleazar"
     ],
     "A49479-e129760": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129780": [
       "eleazar"
     ],
     "A49479-e129800": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129820": [
       "eleazar"
     ],
     "A49479-e129840": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129860": [
       "eleazar"
@@ -2384,7 +2384,7 @@
       "alvero"
     ],
     "A49479-e129910": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e129960": [
       "queen-mother"
@@ -2589,7 +2589,7 @@
       "baltazar"
     ],
     "A49479-e132690": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e132710": [
       "moor-1",
@@ -2605,7 +2605,7 @@
       "prince-philip"
     ],
     "A49479-e132950": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e133010": [
       "queen-mother"
@@ -2628,7 +2628,7 @@
     "A49479-e133260": [
       "hortenzo",
       "queen-mother",
-      "cardinal",
+      "cardinal-mendoza",
       "prince-philip"
     ],
     "A49479-e133280": [
@@ -2644,7 +2644,7 @@
       "prince-philip"
     ],
     "A49479-e133380": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e133400": [
       "queen-mother"
@@ -2706,14 +2706,14 @@
     ],
     "A49479-e133910": [
       "hortenzo",
-      "cardinal",
+      "cardinal-mendoza",
       "queen-mother"
     ],
     "A49479-e133930": [
       "eleazar"
     ],
     "A49479-e133950": [
-      "cardinal"
+      "cardinal-mendoza"
     ],
     "A49479-e133980": [
       "queen-mother"
@@ -2729,7 +2729,7 @@
     ],
     "A49479-e134060": [
       "hortenzo",
-      "cardinal",
+      "cardinal-mendoza",
       "queen-mother"
     ],
     "A49479-e134080": [

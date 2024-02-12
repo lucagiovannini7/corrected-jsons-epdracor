@@ -31,15 +31,9 @@
       "sex": "MALE"
     },
     {
-      "name": "Colonels",
-      "id": "colonels",
-      "isGroup": true,
-      "sex": "MALE"
-    },
-    {
-      "name": "Captains",
-      "id": "captains",
-      "isGroup": true,
+      "name": "A Colonel",
+      "id": "colonel",
+      "isGroup": false,
       "sex": "MALE"
     },
     {
@@ -600,7 +594,6 @@
       "hernando"
     ],
     "A93167-e106730": [
-      "captains",
       "captain-2",
       "captain-1"
     ],
@@ -608,7 +601,6 @@
       "hernando"
     ],
     "A93167-e106800": [
-      "colonels",
       "colonel-1",
       "colonel-2"
     ],

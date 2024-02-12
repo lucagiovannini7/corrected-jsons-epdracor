@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "id": "fuentes",
+      "name": "Fuentes",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "malevento",
       "name": "Malevento",
       "isGroup": false,
@@ -1572,7 +1578,8 @@
       "cordolente"
     ],
     "A20088-e113590": [
-      "gentlemen"
+      "gentleman-1",
+      "gentleman-2"
     ],
     "A20088-e113610": [
       "cordolente"
@@ -1611,7 +1618,8 @@
       "tormiella"
     ],
     "A20088-e113860": [
-      "gentlemen"
+      "gentleman-1",
+      "gentleman-2"
     ],
     "A20088-e113880": [
       "gentleman-1"

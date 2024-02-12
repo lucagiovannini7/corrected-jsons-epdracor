@@ -50,7 +50,7 @@
     },
     {
       "id": "prophilus",
-      "name": "Prophilus",
+      "name": "prophilus",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -2421,7 +2421,7 @@
       "euphrania",
       "christalla",
       "philema", 
-      "propholus", 
+      "prophilus", 
       "nearchus",
       "crotolon", 
       "amelus",
@@ -2646,7 +2646,7 @@
       "euphrania",
       "christalla",
       "philema", 
-      "propholus", 
+      "prophilus", 
       "nearchus",
       "crotolon",
       "amelus",

@@ -614,8 +614,8 @@
     "A62477-e105260": [
       "antimon",
       "radagon",
-      "sheperd-1",
-      "sheperd-2",
+      "shepherd-1",
+      "shepherd-2",
       "clown",
       "serena"
     ],
@@ -1235,7 +1235,7 @@
       "clown"
     ],
     "A62477-e111410": [
-      "antic"
+      "antimon"
     ],
     "A62477-e111430": [
       "clown"
@@ -1527,11 +1527,11 @@
     ],
     "A62477-e114360": [
       "shepherd-1",
-      "sheperd-2",
+      "shepherd-2",
       "radagon",
       "eusanius",
-      "tytirus",
-      "pallemon",
+      "tityrus",
+      "palaemon",
       "clown",
       "antimon"
     ],
@@ -1579,9 +1579,9 @@
     ],
     "A62477-e114900": [
       "shepherd-1",
-      "sheperd-2",
+      "shepherd-2",
       "radagon",
-      "pallemon",
+      "palaemon",
       "clown",
       "antimon"
     ],

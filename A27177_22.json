@@ -139,6 +139,12 @@
       "sex": "MALE"
     },
     {
+      "id": "outlaw-4",
+      "name": "Outlaw 4",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "gentleman",
       "name": "Gentleman",
       "isGroup": false,

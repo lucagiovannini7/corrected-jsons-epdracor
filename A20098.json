@@ -1,6 +1,18 @@
 {
   "particDesc": [
     {
+      "name": "Sergeant 1",
+      "id": "sergeant-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Sergeant 2",
+      "id": "sergeant-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Servant",
       "id": "servant",
       "isGroup": false,
@@ -455,7 +467,7 @@
       "bellamont"
     ],
     "A20098-e101990": [
-      "sergeant_1"
+      "sergeant-1"
     ],
     "A20098-e102010": [
       "doll"
@@ -464,13 +476,14 @@
       "philip"
     ],
     "A20098-e102050": [
-      "sergeants"
+      "sergeant-1",
+      "sergeant-2"
     ],
     "A20098-e102070": [
       "chartley"
     ],
     "A20098-e102100": [
-      "sergeant_1"
+      "sergeant-1"
     ],
     "A20098-e102120": [
       "doll"
@@ -479,10 +492,10 @@
       "philip"
     ],
     "A20098-e102160": [
-      "sergeant_1"
+      "sergeant-1"
     ],
     "A20098-e102180": [
-      "sergeant_2"
+      "sergeant-2"
     ],
     "A20098-e102210": [
       "doll"

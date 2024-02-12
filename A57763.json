@@ -163,6 +163,12 @@
       "sex": "MALE"
     },
     {
+      "id": "bishop-2",
+      "name": "bishop-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "bishop-1",
       "name": "bishop-1",
       "isGroup": false,
