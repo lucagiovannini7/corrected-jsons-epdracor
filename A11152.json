@@ -1,8 +1,44 @@
 {
   "particDesc": [
     {
-      "name": "Country man 4",
-      "id": "country-man-4",
+      "name": "Shoemaker 1",
+      "id": "shoemaker-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shoemaker 2",
+      "id": "shoemaker-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Shoemaker 3",
+      "id": "shoemaker-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman 1",
+      "id": "countryman-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman 2",
+      "id": "countryman-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman 3",
+      "id": "countryman-3",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Countryman 4",
+      "id": "countryman-4",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -196,7 +232,7 @@
     ],
     "A11152-e100670": [
       "elred",
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e100690": [
       "allured"
@@ -220,7 +256,7 @@
       "elred"
     ],
     "A11152-e101110": [
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e101130": [
       "queen"
@@ -241,13 +277,13 @@
       "amphiabel"
     ],
     "A11152-e101320": [
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e101360": [
       "elred"
     ],
     "A11152-e101410": [
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e101450": [
       "elred"
@@ -289,7 +325,7 @@
       "queen"
     ],
     "A11152-e102260": [
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e102280": [
       "queen"
@@ -301,7 +337,7 @@
       "queen"
     ],
     "A11152-e102430": [
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e102480": [
       "queen"
@@ -403,13 +439,13 @@
       "elred"
     ],
     "A11152-e104280": [
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e104300": [
       "elred"
     ],
     "A11152-e104340": [
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e104400": [
       "elred"
@@ -449,7 +485,7 @@
     ],
     "A11152-e104860": [
       "elred",
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e104880": [
       "sisly"
@@ -468,7 +504,7 @@
     ],
     "A11152-e105030": [
       "elred",
-      "offa"
+      "offa-crispianus"
     ],
     "A11152-e105070": [
       "shoemaker"
@@ -2251,7 +2287,9 @@
       "barnaby"
     ],
     "A11152-e128960": [
-      "disambiguate"
+      "shoemaker-1",
+      "shoemaker-2",
+      "shoemaker-3"
     ],
     "A11152-e128980": [
       "barnaby"
@@ -2263,19 +2301,25 @@
       "barnaby"
     ],
     "A11152-e129040": [
-      "disambiguate"
+      "shoemaker-1",
+      "shoemaker-2",
+      "shoemaker-3"
     ],
     "A11152-e129080": [
       "barnaby"
     ],
     "A11152-e129100": [
-      "disambiguate"
+      "shoemaker-1",
+      "shoemaker-2",
+      "shoemaker-3"
     ],
     "A11152-e129120": [
       "barnaby"
     ],
     "A11152-e129140": [
-      "disambiguate"
+      "shoemaker-1",
+      "shoemaker-2",
+      "shoemaker-3"
     ],
     "A11152-e129160": [
       "ralph"
@@ -2284,13 +2328,17 @@
       "barnaby"
     ],
     "A11152-e129200": [
-      "disambiguate"
+      "shoemaker-1",
+      "shoemaker-2",
+      "shoemaker-3"
     ],
     "A11152-e129220": [
       "barnaby"
     ],
     "A11152-e129240": [
-      "disambiguate"
+      "shoemaker-1",
+      "shoemaker-2",
+      "shoemaker-3"
     ],
     "A11152-e129260": [
       "barnaby"
@@ -2299,55 +2347,61 @@
       "ralph"
     ],
     "A11152-e129300": [
-      "disambiguate"
+      "shoemaker-1"
     ],
     "A11152-e129320": [
-      "disambiguate"
+      "shoemaker-2"
     ],
     "A11152-e129340": [
-      "disambiguate"
+      "shoemaker-3"
     ],
     "A11152-e129360": [
       "barnaby"
     ],
     "A11152-e129560": [
-      "disambiguate"
+      "countryman-1",
+      "countryman-2",
+      "countryman-3",
+      "countryman-4"
     ],
     "A11152-e129580": [
-      "disambiguate"
+      "countryman-1"
     ],
     "A11152-e129600": [
-      "disambiguate"
+      "countryman-2"
     ],
     "A11152-e129640": [
-      "disambiguate"
+      "countryman-3"
     ],
     "A11152-e129680": [
-      "country-man-4"
+      "countryman-4"
     ],
     "A11152-e129730": [
-      "disambiguate"
+      "countryman-1"
     ],
     "A11152-e129750": [
-      "disambiguate"
+      "countryman-1",
+      "countryman-2",
+      "countryman-3",
+      "countryman-4"
     ],
     "A11152-e129780": [
       "bassianus"
     ],
     "A11152-e129820": [
-      "disambiguate"
+      "countryman-1"
     ],
     "A11152-e129840": [
       "lutius"
     ],
     "A11152-e129860": [
-      "disambiguate"
+      "countryman-2"
     ],
     "A11152-e129900": [
       "bassianus"
     ],
     "A11152-e129940": [
-      "country-man-4"
+      "countryman-4"
     ],
     "A11152-e129990": [],
     "A11152-e130010": [
@@ -2357,7 +2411,7 @@
       "bassianus"
     ],
     "A11152-e130100": [
-      "disambiguate"
+      "countryman-2"
     ],
     "A11152-e130170": [
       "elred-crispinus"
@@ -2373,7 +2427,7 @@
       "maximinus"
     ],
     "A11152-e130400": [
-      "disambiguate"
+      "lords"
     ],
     "A11152-e130420": [
       "barnaby"

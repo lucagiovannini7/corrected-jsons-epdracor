@@ -37,8 +37,8 @@
       "sex": "MALE"
     },
     {
-      "id": "artichoake",
-      "name": "Artichoake",
+      "id": "artichoke",
+      "name": "Artichoke",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -405,7 +405,7 @@
       "lancelot"
     ],
     "A12023-e102840": [
-      "artichoake"
+      "artichoke"
     ],
     "A12023-e102860": [
       "lancelot"
@@ -978,7 +978,7 @@
       "lancelot"
     ],
     "A12023-e108960": [
-      "artichoake"
+      "artichoke"
     ],
     "A12023-e108980": [
       "lancelot"
@@ -1779,13 +1779,13 @@
       "delia"
     ],
     "A12023-e119430": [
-      "artichoake"
+      "artichoke"
     ],
     "A12023-e119470": [
       "flowerdale"
     ],
     "A12023-e119490": [
-      "artichoake"
+      "artichoke"
     ],
     "A12023-e119520": [
       "flowerdale"
@@ -1806,7 +1806,7 @@
       "delia"
     ],
     "A12023-e119770": [
-      "artichoake"
+      "artichoke"
     ],
     "A12023-e119790": [
       "oliver"

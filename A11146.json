@@ -7,6 +7,30 @@
       "sex": "MALE"
     },
     {
+      "id": "1_priest",
+      "name": "Priest 1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "blackwill",
+      "name": "Black Will",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "browne",
+      "name": "Browne",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "compton",
+      "name": "compton",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "wolsey",
       "name": "Wolsey",
       "isGroup": false,
@@ -1195,7 +1219,7 @@
       "king"
     ],
     "A11146-e112520": [
-      "black-will"
+      "blackwill"
     ],
     "A11146-e112540": [
       "king"
@@ -2600,7 +2624,7 @@
       "gardiner"
     ],
     "A11146-e130220": [
-      "boneuet"
+      "bonevet"
     ],
     "A11146-e130260": [
       "king"
@@ -2618,7 +2642,7 @@
       "king"
     ],
     "A11146-e130420": [
-      "boneuet"
+      "bonevet"
     ],
     "A11146-e130440": [
       "king"

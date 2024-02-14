@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "name": "Harald",
+      "id": "harald",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
       "name": "Officer",
       "id": "officer",
       "isGroup": false,
@@ -17,6 +23,18 @@
       "id": "sadler",
       "isGroup": false,
       "sex": "MALE"
+    },
+    {
+      "name": "Merchant 2",
+      "id": "merchant-2",
+      "isGroup": false,
+      "sex": "UNKNOWN"
+    },
+    {
+      "name": "Merchant 1",
+      "id": "merchant-1",
+      "isGroup": false,
+      "sex": "UNKNOWN"
     },
     {
       "name": "Citizen 2",
@@ -1342,7 +1360,7 @@
       "gardiner"
     ],
     "A11265-e124500": [
-      "halberdier"
+      "harald"
     ],
     "A11265-e124590": [
       "gardiner"

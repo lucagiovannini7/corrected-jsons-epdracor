@@ -133,6 +133,30 @@
       "sex": "MALE"
     },
     {
+      "id": "magician-1",
+      "name": "Magician 1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "magician-2",
+      "name": "Magician 2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+        {
+      "id": "spirit-1",
+      "name": "Spirit 1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "spirit-2",
+      "name": "Spirit 2",
+      "isGroup": false,
+      "sex": "MALE"
+    }
+    {
       "id": "victor",
       "name": "Victor",
       "isGroup": false,
@@ -2317,7 +2341,7 @@
       "endarius",
       "ferochus",
       "leogarius",
-      "king"
+      "leogarius"
     ],
     "A12151-e133710": [
       "patrick"

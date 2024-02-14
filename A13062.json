@@ -127,7 +127,7 @@
       "sex": "MALE"
     },
     {
-      "id": "lord",
+      "id": "lord-mayor",
       "name": "Lord Mayor",
       "isGroup": false,
       "sex": "MALE"
@@ -399,13 +399,13 @@
       "king"
     ],
     "A13062-e105830": [
-      "lord"
+      "lord-mayor"
     ],
     "A13062-e106080": [
       "king"
     ],
     "A13062-e106140": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e106170": [
       "king"
@@ -441,7 +441,7 @@
       "ball"
     ],
     "A13062-e106670": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e106700": [
       "king"
@@ -549,7 +549,7 @@
       "king"
     ],
     "A13062-e107990": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e108070": [
       "king"
@@ -588,7 +588,7 @@
       "king"
     ],
     "A13062-e108490": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e108670": [
       "king"
@@ -600,7 +600,7 @@
       "newton"
     ],
     "A13062-e108800": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e108920": [
       "king"
@@ -609,7 +609,7 @@
       "newton"
     ],
     "A13062-e109360": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e109390": [
       "king"
@@ -651,13 +651,13 @@
       "king"
     ],
     "A13062-e110340": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e110440": [
       "king"
     ],
     "A13062-e110580": [
-      "mayor"
+      "lord-mayor"
     ],
     "A13062-e110710": [
       "king"

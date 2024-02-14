@@ -1,6 +1,12 @@
 {
   "particDesc": [
     {
+      "id": "guards",
+      "name": "Guards",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
       "id": "king",
       "name": "King",
       "isGroup": false,
@@ -544,7 +550,7 @@
     "A11145-e105850": [
       "alanzo",
       "carlo",
-      "cockadillo",
+      "cockadillio",
       "baltazar"
     ],
     "A11145-e105870": [
@@ -653,7 +659,7 @@
       "king"
     ],
     "A11145-e106900": [
-      "rodrigo",
+      "roderigo",
       "alba",
       "daenia",
       "valasco"

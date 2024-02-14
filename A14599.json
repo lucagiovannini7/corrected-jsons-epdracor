@@ -13,6 +13,12 @@
       "sex": "MALE"
     },
     {
+      "name": "Hertford",
+      "id": "hertford",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Soldier 2",
       "id": "soldier-2",
       "isGroup": false,
@@ -532,8 +538,8 @@
     ],
     "A14599-e103480": [
       "selby-sr",
-      "thorn",
-      "haslerig",
+      "thorne",
+      "haslerigg",
       "peggy",
       "gallant-1",
       "gallant-2"
@@ -546,8 +552,8 @@
     ],
     "A14599-e103550": [
       "selby-sr",
-      "thorn",
-      "haslerig",
+      "thorne",
+      "haslerigg",
       "peggy",
       "gallant-1",
       "gallant-2"
@@ -785,7 +791,7 @@
     ],
     "A14599-e106300": [
       "wallace-jr",
-      "coming",
+      "comming",
       "menteith",
       "graham"
     ],
@@ -1833,7 +1839,7 @@
       "wallace-jr"
     ],
     "A14599-e118390": [
-      "selby"
+      "selby-sr"
     ],
     "A14599-e118410": [
       "wallace-jr"
@@ -2055,7 +2061,7 @@
     "A14599-e120790": [
       "general",
       "grimsby", 
-      "mentith", 
+      "menteith", 
       "comming"
     ],
     "A14599-e120810": [
@@ -2734,7 +2740,7 @@
       "grimsby"
     ],
     "A14599-e127460": [
-      "mentith",
+      "menteith",
       "comming",
       "grimsby"
     ],
