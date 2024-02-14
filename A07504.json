@@ -97,6 +97,12 @@
       "sex": "MALE"
     },
     {
+      "id": "man",
+      "name": "Man",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "gunwater",
       "name": "Gunwater",
       "isGroup": false,

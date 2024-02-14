@@ -49,11 +49,6 @@
       "sex": "FEMALE"
     },
     {
-      "id": "dance",
-      "name": "Dance",
-      "isGroup": false
-    },
-    {
       "id": "juno",
       "name": "Juno",
       "isGroup": false,

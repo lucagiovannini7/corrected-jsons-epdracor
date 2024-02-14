@@ -215,6 +215,24 @@
       "name": "Ladies",
       "isGroup": true,
       "sex": "FEMALE"
+    },
+    {
+      "id": "country-swain-1",
+      "name": "Country swain 1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "country-swain-2",
+      "name": "Country swain 2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "country-swain-3",
+      "name": "Country swain 3",
+      "isGroup": false,
+      "sex": "MALE"
     }
   ],
   "speeches": {
@@ -637,7 +655,7 @@
     "A04874-e107010": [
       "andrew",
       "david",
-      "patricke",
+      "patrick",
       "denis",
       "james",
       "anthony"
@@ -672,7 +690,7 @@
     "A04874-e107400": [
       "andrew",
       "david",
-      "patricke",
+      "patrick",
       "george",
       "denis",
       "james",
@@ -684,7 +702,7 @@
     "A04874-e107560": [
       "andrew",
       "david",
-      "patricke",
+      "patrick",
       "george",
       "denis",
       "james",

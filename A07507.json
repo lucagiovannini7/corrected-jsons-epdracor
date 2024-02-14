@@ -1,6 +1,18 @@
 {
   "particDesc": [
     {
+      "name": "Man 1",
+      "id": "man-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Man 2",
+      "id": "man-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Gentleman",
       "id": "gentleman",
       "isGroup": false,

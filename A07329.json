@@ -1,6 +1,24 @@
 {
   "particDesc": [
     {
+      "name": "Hagg 1",
+      "id": "hagg-1",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Hagg 2",
+      "id": "hagg-2",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Hagg 3",
+      "id": "hagg-3",
+      "isGroup": false,
+      "sex": "FEMALE"
+    },
+    {
       "name": "Old man 1",
       "id": "old-man-1",
       "isGroup": false,

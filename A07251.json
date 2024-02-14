@@ -161,7 +161,19 @@
       "name": "Officer",
       "isGroup": false,
       "sex": "MALE"
-    }
+    },
+    {
+      "id": "novall-jr",
+      "name": "Novall Jr.",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "id": "novall-sr",
+      "name": "Novall Sr.",
+      "isGroup": false,
+      "sex": "MALE"
+    }    
   ],
   "speeches": {
     "A07251-e100880": [

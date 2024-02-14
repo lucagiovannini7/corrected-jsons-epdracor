@@ -13,6 +13,12 @@
       "sex": "MALE"
     },
     {
+      "id": "agerinus",
+      "name": "Agerinus",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "id": "pallas",
       "name": "Pallas",
       "isGroup": false,

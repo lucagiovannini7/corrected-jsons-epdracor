@@ -49,9 +49,10 @@
       "sex": "MALE"
     },
     {
-      "name": "disambiguate",
-      "id": "disambiguate",
-      "isGroup": false
+      "name": "Merchant 1",
+      "id": "merchant-1",
+      "isGroup": false,
+      "sex": "MALE"
     },
     {
       "name": "Merchant 2",
@@ -218,37 +219,37 @@
       "barabas"
     ],
     "A06991-e101510": [
-      "merchant"
+      "merchant-1"
     ],
     "A06991-e101570": [
       "barabas"
     ],
     "A06991-e101590": [
-      "merchant"
+      "merchant-1"
     ],
     "A06991-e101610": [
       "barabas"
     ],
     "A06991-e101700": [
-      "merchant"
+      "merchant-1"
     ],
     "A06991-e101740": [
       "barabas"
     ],
     "A06991-e101770": [
-      "merchant"
+      "merchant-1"
     ],
     "A06991-e101790": [
       "barabas"
     ],
     "A06991-e101820": [
-      "merchant"
+      "merchant-1"
     ],
     "A06991-e101840": [
       "barabas"
     ],
     "A06991-e101900": [
-      "merchant"
+      "merchant-1"
     ],
     "A06991-e101950": [
       "barabas"
@@ -272,37 +273,37 @@
       "barabas"
     ],
     "A06991-e102240": [
-      "merchant"
+      "merchant-1"
     ],
     "A06991-e102270": [
       "barabas"
     ],
     "A06991-e102660": [
-      "disambiguate"
+      "jew-1"
     ],
     "A06991-e102680": [
-      "disambiguate"
+      "jew-2"
     ],
     "A06991-e102720": [
       "barabas"
     ],
     "A06991-e102760": [
-      "disambiguate"
+      "jew-1"
     ],
     "A06991-e102810": [
       "barabas"
     ],
     "A06991-e102870": [
-      "disambiguate"
+      "jew-1"
     ],
     "A06991-e102900": [
-      "disambiguate"
+      "jew-2"
     ],
     "A06991-e102920": [
       "barabas"
     ],
     "A06991-e102970": [
-      "disambiguate"
+      "jew-1"
     ],
     "A06991-e102990": [
       "barabas"
@@ -311,16 +312,16 @@
       "jew-3"
     ],
     "A06991-e103060": [
-      "disambiguate"
+      "jew-2"
     ],
     "A06991-e103090": [
       "barabas"
     ],
     "A06991-e103160": [
-      "disambiguate"
+      "jew-1"
     ],
     "A06991-e103180": [
-      "disambiguate"
+      "jew-2"
     ],
     "A06991-e103200": [
       "barabas"
@@ -1726,55 +1727,55 @@
       "ithamore"
     ],
     "A06991-e121720": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e121740": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e121760": [
       "barabas"
     ],
     "A06991-e121780": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e121800": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e121820": [
       "barabas"
     ],
     "A06991-e121840": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e121860": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e121880": [
       "barabas"
     ],
     "A06991-e121900": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e121920": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e121940": [
       "barabas"
     ],
     "A06991-e121960": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e121980": [
       "barabas"
     ],
     "A06991-e122010": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e122030": [
       "barabas"
     ],
     "A06991-e122050": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e122070": [
       "barabas"
@@ -1786,52 +1787,52 @@
       "barabas"
     ],
     "A06991-e122420": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e122440": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e122470": [
       "barabas"
     ],
     "A06991-e122500": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e122520": [
       "barabas"
     ],
     "A06991-e122540": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e122560": [
       "barabas"
     ],
     "A06991-e122590": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e122610": [
       "barabas"
     ],
     "A06991-e122640": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e122660": [
       "barabas"
     ],
     "A06991-e122680": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e122700": [
       "friar-2"
     ],
     "A06991-e122720": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e122740": [
-      "disambiguate"
+      "friar-2"
     ],
     "A06991-e122760": [
-      "disambiguate"
+      "friar-1"
     ],
     "A06991-e122790": [
       "ithamore"
