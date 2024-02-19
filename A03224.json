@@ -7,6 +7,12 @@
       "sex": "MALE"
     },
     {
+      "name": "Lovell",
+      "id": "lovell",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Bourbon",
       "id": "bourbon",
       "isGroup": false,
@@ -591,7 +597,10 @@
       "falconbridge"
     ],
     "A03224-e101780": [
-      "all"
+      "spicing",
+      "smoke",
+      "chub",
+      "troops"
     ],
     "A03224-e101800": [
       "spicing"
@@ -600,7 +609,10 @@
       "falconbridge"
     ],
     "A03224-e101930": [
-      "all"
+      "spicing",
+      "smoke",
+      "chub",
+      "troops"
     ],
     "A03224-e101950": [
       "spicing"
@@ -609,13 +621,19 @@
       "falconbridge"
     ],
     "A03224-e102030": [
-      "all"
+      "spicing",
+      "smoke",
+      "chub",
+      "troops"
     ],
     "A03224-e102050": [
       "falconbridge"
     ],
     "A03224-e102180": [
-      "all"
+      "spicing",
+      "smoke",
+      "chub",
+      "troops"
     ],
     "A03224-e102200": [
       "falconbridge"
@@ -633,13 +651,19 @@
       "falconbridge"
     ],
     "A03224-e102330": [
-      "all"
+      "spicing",
+      "smoke",
+      "chub",
+      "troops"
     ],
     "A03224-e102350": [
       "falconbridge"
     ],
     "A03224-e102450": [
-      "all"
+      "spicing",
+      "smoke",
+      "chub",
+      "troops"
     ],
     "A03224-e102470": [
       "smoke"
@@ -1051,7 +1075,7 @@
       "spicing"
     ],
     "A03224-e108990": [
-      "all"
+      "chub"
     ],
     "A03224-e109020": [
       "falconbridge"
@@ -1069,7 +1093,10 @@
       "mayor"
     ],
     "A03224-e109130": [
-      "all"
+      "spicing",
+      "smoke",
+      "chub",
+      "troops"
     ],
     "A03224-e109150": [
       "falconbridge"
@@ -1207,7 +1234,7 @@
       "falconbridge"
     ],
     "A03224-e111980": [
-      "all"
+      "chub"
     ],
     "A03224-e112000": [
       "spicing"
@@ -1216,7 +1243,7 @@
       "falconbridge"
     ],
     "A03224-e112130": [
-      "all"
+      "chub"
     ],
     "A03224-e112150": [
       "falconbridge"
@@ -3503,7 +3530,7 @@
       "king-edward"
     ],
     "A03224-e144180": [
-      "all"
+      "chorus"
     ],
     "A03224-e144380": [
       "jane-shore"
@@ -3926,7 +3953,11 @@
       "jane-shore"
     ],
     "A03224-e152010": [
-      "all"
+      "brackenbury",
+      "shore",
+      "stranguide",
+      "shaw",
+      "keeper"
     ],
     "A03224-e152030": [
       "jocky"

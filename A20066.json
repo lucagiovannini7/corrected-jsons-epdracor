@@ -1,6 +1,18 @@
 {
   "particDesc": [
     {
+      "name": "Courtesans",
+      "id": "courtesans",
+      "isGroup": true,
+      "sex": "FEMALE"
+    },
+    {
+      "name": "Hillary",
+      "id": "hillary",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Pilgrim 2",
       "id": "pilgrim-2",
       "isGroup": false,
@@ -1210,7 +1222,9 @@
       "narcisso"
     ],
     "A20066-e110880": [
-      "omnes"
+      "octavio",
+      "jovinelli",
+      "spendola"
     ],
     "A20066-e110900": [
       "brisco"
@@ -1433,7 +1447,12 @@
       "seafarer"
     ],
     "A20066-e113140": [
-      "omnes"
+      "octavio",
+      "brisco",
+      "jovinelli",
+      "narcisso",
+      "spendola",
+      "king"
     ],
     "A20066-e113160": [
       "seafarer"
@@ -1448,7 +1467,11 @@
       "octavio"
     ],
     "A20066-e113360": [
-      "omnes"
+      "brisco",
+      "jovinelli",
+      "narcisso",
+      "spendola",
+      "king"
     ],
     "A20066-e113380": [
       "king"
@@ -1457,7 +1480,11 @@
       "rufman"
     ],
     "A20066-e113540": [
-      "omnes"
+      "brisco",
+      "jovinelli",
+      "narcisso",
+      "spendola",
+      "king"
     ],
     "A20066-e113560": [
       "king"
@@ -1511,7 +1538,8 @@
       "bartervile"
     ],
     "A20066-e114240": [
-      "omnes"
+      "servant-1",
+      "servant-2"
     ],
     "A20066-e114260": [
       "grumball"
@@ -1868,7 +1896,7 @@
       "shacklesoul"
     ],
     "A20066-e117700": [
-      "omnes"
+      "friars"
     ],
     "A20066-e117720": [
       "shacklesoul"
@@ -1880,7 +1908,7 @@
       "prior"
     ],
     "A20066-e117830": [
-      "omnes"
+      "friars"
     ],
     "A20066-e117860": [
       "shacklesoul"
@@ -2213,10 +2241,10 @@
       "glitterback"
     ],
     "A20066-e121350": [
-      "devil_1"
+      "devil-1"
     ],
     "A20066-e121380": [
-      "devil_2"
+      "devil-2"
     ],
     "A20066-e121410": [
       "scumbroth"
@@ -2228,9 +2256,9 @@
       "shacklesoul"
     ],
     "A20066-e121520": [
-      "devil_1",
+      "devil-1",
       "glitterback",
-      "devil_2"
+      "devil-2"
     ],
     "A20066-e121540": [
       "scumbroth"
@@ -2572,7 +2600,10 @@
       "rufman"
     ],
     "A20066-e124700": [
-      "omnes"
+      "narcisso",
+      "spendola",
+      "brisco",
+      "jovinelli"
     ],
     "A20066-e124720": [
       "jovinelli"
@@ -2587,7 +2618,10 @@
       "king"
     ],
     "A20066-e124980": [
-      "omnes"
+      "narcisso",
+      "spendola",
+      "brisco",
+      "jovinelli"
     ],
     "A20066-e125010": [
       "astolfo"
@@ -3444,9 +3478,13 @@
       "prior"
     ],
     "A20066-e134240": [
-      "omnes"
+      "bartervile",
+      "subrprior",
+      "king"
     ],
-    "A20066-e134260": [],
+    "A20066-e134260": [
+      "shacklesoul"
+    ],
     "A20066-e134300": [
       "king"
     ],

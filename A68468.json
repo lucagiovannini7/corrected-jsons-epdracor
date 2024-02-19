@@ -1,8 +1,20 @@
 {
   "particDesc": [
     {
-      "name": "Painter",
-      "id": "painter",
+      "name": "Fellow 2",
+      "id": "fellow-2",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Fellow 1",
+      "id": "fellow-1",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "fellow-",
+      "id": "fellow-",
       "isGroup": false,
       "sex": "MALE"
     },
@@ -3612,13 +3624,13 @@
       "fitsgrave"
     ],
     "A68468-e128910": [
-      "painter"
+      "fellow-"
     ],
     "A68468-e128930": [
       "fitsgrave"
     ],
     "A68468-e128950": [
-      "painter"
+      "fellow-"
     ],
     "A68468-e128980": [
       "piamont"
