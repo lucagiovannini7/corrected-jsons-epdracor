@@ -7,6 +7,12 @@
       "sex": "MALE"
     },
     {
+      "id": "senators",
+      "name": "Senators",
+      "isGroup": true,
+      "sex": "MALE"
+    },
+    {
       "id": "titinnius",
       "name": "Titinnius",
       "isGroup": false,

@@ -1,6 +1,24 @@
 {
   "particDesc": [
     {
+      "name": "Lieutenants",
+      "id": "lieutenantss",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Lords",
+      "id": "lords",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
+      "name": "Bishops",
+      "id": "bishops",
+      "isGroup": false,
+      "sex": "MALE"
+    },
+    {
       "name": "Attendants",
       "id": "attendants",
       "isGroup": false,
@@ -2236,7 +2254,7 @@
       "king"
     ],
     "A77567_05-e128020": [
-      "gonzago"
+      "prince"
     ],
     "A77567_05-e128040": [
       "king"
@@ -2248,7 +2266,7 @@
       "king"
     ],
     "A77567_05-e128100": [
-      "gonzago"
+      "prince"
     ],
     "A77567_05-e128120": [
       "king"
@@ -2266,7 +2284,7 @@
       "king"
     ],
     "A77567_05-e128290": [
-      "gonzago"
+      "prince"
     ],
     "A77567_05-e128340": [
       "king"
@@ -2284,7 +2302,7 @@
       "king"
     ],
     "A77567_05-e128530": [
-      "gonzago"
+      "prince"
     ],
     "A77567_05-e128550": [
       "king"
@@ -3416,7 +3434,9 @@
       "king"
     ],
     "A77567_05-e141530": [
-      "disambiguate"
+      "soldiers",
+      "captain-1",
+      "captain-2"
     ],
     "A77567_05-e141550": [
       "king"
@@ -3485,7 +3505,7 @@
       "king"
     ],
     "A77567_05-e142470": [
-      "soldier"
+      "soldiers"
     ],
     "A77567_05-e142500": [
       "king"
@@ -3701,7 +3721,7 @@
       "alinda"
     ],
     "A77567_05-e145010": [
-      "lodovic"
+      "lodovico"
     ],
     "A77567_05-e145030": [
       "horatio"
@@ -4425,7 +4445,7 @@
       "sforza",
       "petruchio",
       "lodovico",
-      "gonzago"
+      "prince"
     ],
     "A77567_05-e152920": [
       "king"
@@ -4446,7 +4466,7 @@
       "sforza",
       "petruchio",
       "lodovico",
-      "gonzago"
+      "prince"
     ],
     "A77567_05-e153160": [
       "king"

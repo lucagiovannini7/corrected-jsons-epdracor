@@ -175,6 +175,18 @@
       "sex": "MALE"
     },
     {
+      "id": "courtiers",
+      "name": "Courtiers",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
+      "id": "damned-souls",
+      "name": "Damned souls",
+      "isGroup": true,
+      "sex": "UNKNOWN"
+    },
+    {
       "id": "scholar",
       "name": "Scholar",
       "isGroup": false,
@@ -187,7 +199,7 @@
       "sex": "MALE"
     },
     {
-      "id": "1_servant",
+      "id": "servant-1",
       "name": "1 Servant",
       "isGroup": false,
       "sex": "MALE"
@@ -205,7 +217,7 @@
       "sex": "MALE"
     },
     {
-      "id": "2_servant",
+      "id": "servant-2",
       "name": "2 Servant",
       "isGroup": false,
       "sex": "MALE"
@@ -1578,20 +1590,20 @@
       "bartervile"
     ],
     "A20066-e114700": [
-      "1_servant",
-      "2_servant"
+      "servant-1",
+      "servant-2"
     ],
     "A20066-e114720": [
       "bartervile"
     ],
     "A20066-e114830": [
-      "1_servant"
+      "servant-1"
     ],
     "A20066-e114850": [
       "bartervile"
     ],
     "A20066-e114950": [
-      "1_servant"
+      "servant-1"
     ],
     "A20066-e114970": [
       "bravo"
@@ -1600,7 +1612,7 @@
       "bartervile"
     ],
     "A20066-e115020": [
-      "1_servant"
+      "servant-1"
     ],
     "A20066-e115040": [
       "bravo"
@@ -1803,7 +1815,7 @@
       "grumball"
     ],
     "A20066-e116740": [
-      "1_servant"
+      "servant-1"
     ],
     "A20066-e116760": [
       "bartervile"
@@ -1815,7 +1827,7 @@
       "bartervile"
     ],
     "A20066-e116820": [
-      "1_servant"
+      "servant-1"
     ],
     "A20066-e116840": [
       "grumball"
@@ -1830,10 +1842,10 @@
       "bartervile"
     ],
     "A20066-e116980": [
-      "2_servant"
+      "servant-2"
     ],
     "A20066-e117000": [
-      "1_servant"
+      "servant-1"
     ],
     "A20066-e117030": [
       "grumball"
@@ -3479,7 +3491,7 @@
     ],
     "A20066-e134240": [
       "bartervile",
-      "subrprior",
+      "subprior",
       "king"
     ],
     "A20066-e134260": [
@@ -3837,7 +3849,9 @@
       "bartervile"
     ],
     "A20066-e137310": [
-      "devil-3"
+      "shacklesoul",
+      "grumball",
+      "rufman"
     ],
     "A20066-e137330": [
       "bartervile"
